@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-01",
+  "title": "TUESDAY GRIND",
+  "subtitle": "TWENTY MINUTES. NO NEGOTIATING.",
+  "voice": {
+    "lang": "en-GB",
+    "rate": 1.05,
+    "pitch": 0.85,
+    "volume": 1.0
+  },
+  "intro": "RIGHT THEN YOU MAGNIFICENT WRECK. PHONE DOWN AFTER THIS SENTENCE. WE ARE WORKING.",
+  "completion": "THAT IS THE LOT. YOU DID NOT DIE. I AM ALMOST IMPRESSED. WATER. NOW.",
+  "exercises": [
+    {
+      "id": "ex-01",
+      "name": "JUMPING JACKS",
+      "type": "timed",
+      "durationSeconds": 45,
+      "instruction": "FORTY-FIVE SECONDS OF JUMPING JACKS. ARMS ABOVE THE HEAD. DO NOT LOOK AT ME LIKE THAT.",
+      "startCue": "START THE CLOCK. MOVE.",
+      "midCue": "KEEP THOSE FEET MOVING. I CAN SEE YOU SOFTENING.",
+      "endCue": "TIME. SHAKE IT OUT. DO NOT SIT.",
+      "restAfterSeconds": 15,
+      "restCue": "FIFTEEN SECONDS. BREATHE THROUGH YOUR NOSE LIKE A PERSON."
+    },
+    {
+      "id": "ex-02",
+      "name": "PUSH-UPS",
+      "type": "reps",
+      "reps": 10,
+      "instruction": "TEN PUSH-UPS. CHEST TO THE FLOOR. KNEES ARE LEGAL IF THE FULL ONES TURN INTO A WORM.",
+      "completeCue": "THAT WILL DO. ON YOUR FEET.",
+      "restAfterSeconds": 20,
+      "restCue": "TWENTY SECONDS. NEXT ONE IS WORSE."
+    },
+    {
+      "id": "ex-03",
+      "name": "BODYWEIGHT SQUATS",
+      "type": "reps",
+      "reps": 15,
+      "instruction": "FIFTEEN SQUATS. HIPS BACK. CHEST UP. IF I CANNOT SEE DEPTH I SHALL PRETEND I DID NOT NOTICE AND THEN NOTICE.",
+      "completeCue": "GOOD. YOU STILL HAVE KNEES. LUCKY YOU.",
+      "restAfterSeconds": 20,
+      "restCue": "DRINK AIR. NOT YOUR PRIDE."
+    },
+    {
+      "id": "ex-04",
+      "name": "PLANK",
+      "type": "timed",
+      "durationSeconds": 40,
+      "instruction": "FORTY SECONDS OF PLANK. STRAIGHT LINE. HIPS ARE NOT A HAMMOCK.",
+      "startCue": "BRACE. HOLD.",
+      "midCue": "STILL A STRAIGHT LINE. I AM WATCHING THE HIPS.",
+      "endCue": "DOWN. CAREFULLY. YOU ARE NOT A SACK OF SPUDS.",
+      "restAfterSeconds": 15,
+      "restCue": "FIFTEEN. LAST HARD BIT COMING."
+    },
+    {
+      "id": "ex-05",
+      "name": "GLUTE BRIDGES",
+      "type": "reps",
+      "reps": 12,
+      "instruction": "TWELVE GLUTE BRIDGES. SQUEEZE AT THE TOP. YES IT LOOKS SILLY. DO IT ANYWAY.",
+      "completeCue": "ENOUGH THEATRE. STAND UP.",
+      "restAfterSeconds": 10,
+      "restCue": "TEN SECONDS. FINISHER."
+    },
+    {
+      "id": "ex-06",
+      "name": "FAST MARCH ON THE SPOT",
+      "type": "timed",
+      "durationSeconds": 30,
+      "instruction": "THIRTY SECONDS. HIGH KNEES IF YOU HAVE THEM. A BRISK MARCH IF YOU DO NOT. ARMS PUMPING.",
+      "startCue": "GO.",
+      "midCue": "FASTER THAN THE KETTLE. NOT FASTER THAN SENSE.",
+      "endCue": "HALT. THAT IS THE WORK.",
+      "restAfterSeconds": 0
+    }
+  ]
+}
