@@ -51,12 +51,18 @@ function speak(text, opts = {}) {
   u.rate = vcfg.rate ?? 1.05;
   u.pitch = vcfg.pitch ?? 0.85;
   u.volume = vcfg.volume ?? 1;
-  const voices = speechSynthesis.getVoices();
+  const voices = speechSynthesis.getVoices() || [];
+  const isFemale = (v) =>
+    /female|woman|girl|samantha|serena|karen|moira|kate|martha|hazel|susan|victoria|fiona|tessa|zira|ava/i.test(v.name);
+  const isMale = (v) =>
+    !isFemale(v) &&
+    /\b(male|daniel|arthur|george|brian|rishi|thomas|david|alex|fred)\b|uk english male|microsoft george/i.test(v.name);
+  const gb = voices.filter((v) => /en-GB/i.test(v.lang));
   const pick =
-    voices.find((v) => /en-GB/i.test(v.lang) && /male|daniel|george|arthur|brian|uk english male/i.test(v.name)) ||
-    voices.find((v) => /en-GB/i.test(v.lang)) ||
-    voices.find((v) => /en-AU/i.test(v.lang)) ||
-    voices.find((v) => /^en/i.test(v.lang));
+    gb.find(isMale) ||
+    gb.find((v) => !isFemale(v)) ||
+    voices.find(isMale) ||
+    voices.find((v) => !isFemale(v) && /^en/i.test(v.lang));
   if (pick) u.voice = pick;
   if (!opts.queue) speechSynthesis.cancel();
   speechSynthesis.speak(u);
