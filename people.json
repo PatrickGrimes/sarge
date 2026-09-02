@@ -1,0 +1,24 @@
+{
+  "people": [
+    {
+      "id": "pat",
+      "name": "PAT",
+      "sarnt": "BRIGGS",
+      "accent": "#FFE500",
+      "portrait": "/images/pat.jpg",
+      "splash": "/images/pat-splash.jpg",
+      "focus": "50% 22%",
+      "workout": "/workouts/pat.json"
+    },
+    {
+      "id": "pam",
+      "name": "PAM",
+      "sarnt": "STRATTON",
+      "accent": "#FF0A3F",
+      "portrait": "/images/pam.jpg",
+      "splash": "/images/pam-splash.jpg",
+      "focus": "50% 22%",
+      "workout": "/workouts/pam.json"
+    }
+  ]
+}

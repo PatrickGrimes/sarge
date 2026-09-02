@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>SARN'T</title>
+    <script>
+      (function () {
+        var parts = location.pathname.split("/").filter(Boolean);
+        location.replace(parts[0] === "sarge" ? "/sarge/" : "/");
+      })();
+    </script>
+  </head>
+  <body></body>
+</html>
