@@ -48,8 +48,8 @@ function speak(text, opts = {}) {
   const u = new SpeechSynthesisUtterance(text);
   const vcfg = (workout && workout.voice) || {};
   u.lang = vcfg.lang || "en-GB";
-  u.rate = vcfg.rate ?? 1.05;
-  u.pitch = vcfg.pitch ?? 0.85;
+  u.rate = vcfg.rate ?? 1.2;
+  u.pitch = vcfg.pitch ?? 0.65;
   u.volume = vcfg.volume ?? 1;
   const voices = speechSynthesis.getVoices() || [];
   const isFemale = (v) =>
