@@ -4,14 +4,26 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="theme-color" content="#0a0a0a" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="SARN'T PAT" />
     <title>SARN'T · PAT</title>
+    <link rel="manifest" href="/sarge/me/manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="/sarge/icons/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/sarge/icons/icon-192.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Bebas+Neue&display=swap" rel="stylesheet" />
-    <link rel="stylesheet" href="../styles.css" />
+    <link rel="stylesheet" href="/sarge/styles.css" />
   </head>
   <body>
     <div id="app"></div>
-    <script src="../app.js"></script>
+    <script src="/sarge/app.js"></script>
+    <script>
+      if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("/sarge/sw.js", { scope: "/sarge/" });
+      }
+    </script>
   </body>
 </html>

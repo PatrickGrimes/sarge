@@ -1,0 +1,26 @@
+{
+  "id": "/sarge/pam/",
+  "name": "SARN'T PAM",
+  "short_name": "SARN'T PAM",
+  "description": "Daily PT orders for PAM.",
+  "start_url": "/sarge/pam/",
+  "scope": "/sarge/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "icons": [
+    {
+      "src": "/sarge/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sarge/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
