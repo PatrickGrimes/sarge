@@ -476,11 +476,12 @@
   }
 
   function esc(s) {
-    return String(s == null ? "" : s)
-      .replace(/&/g, "&")
-      .replace(/</g, "<")
-      .replace(/>/g, ">")
-      .replace(/"/g, """);
+    return String(s == null ? "" : s).replace(/[&<>"]/g, (ch) => {
+      if (ch === "&") return String.fromCharCode(38) + "amp;";
+      if (ch === "<") return String.fromCharCode(38) + "lt;";
+      if (ch === ">") return String.fromCharCode(38) + "gt;";
+      return String.fromCharCode(38) + "quot;";
+    });
   }
 
   function render() {
