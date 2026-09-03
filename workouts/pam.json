@@ -33,7 +33,7 @@
     {
       "id": "seated-knee-lifts",
       "name": "SEATED KNEE LIFTS",
-      "image": "/images/exercises/mountain-climbers.jpg",
+      "image": "/images/exercises/stratton-seated-knee-lifts.svg",
       "sets": 2,
       "reps": "10 / leg",
       "restSec": 20,
@@ -45,7 +45,7 @@
     {
       "id": "seated-row",
       "name": "SEATED ROW",
-      "image": "/images/exercises/row.jpg",
+      "image": "/images/exercises/stratton-seated-row.svg",
       "sets": 2,
       "reps": "10",
       "restSec": 20,
