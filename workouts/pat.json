@@ -32,7 +32,7 @@
     {
       "id": "step-up",
       "name": "STEP-UPS",
-      "image": "/images/exercises/step-up.jpg",
+      "image": "/images/exercises/briggs-step-up.jpg",
       "sets": 2,
       "reps": "8 / leg",
       "restSec": 30,
@@ -44,7 +44,7 @@
     {
       "id": "pushups",
       "name": "INCLINE PUSH-UPS",
-      "image": "/images/exercises/pushups.jpg",
+      "image": "/images/exercises/briggs-pushups.jpg",
       "sets": 2,
       "reps": "8",
       "restSec": 30,
@@ -56,7 +56,7 @@
     {
       "id": "reverse-lunge",
       "name": "REVERSE LUNGE",
-      "image": "/images/exercises/reverse-lunge.jpg",
+      "image": "/images/exercises/briggs-reverse-lunge.jpg",
       "sets": 2,
       "reps": "6 / leg",
       "restSec": 35,
@@ -68,7 +68,7 @@
     {
       "id": "mountain-climbers",
       "name": "MOUNTAIN CLIMBERS",
-      "image": "/images/exercises/mountain-climbers.jpg",
+      "image": "/images/exercises/briggs-mountain-climbers.jpg",
       "sets": 2,
       "reps": "25s",
       "restSec": 30,
@@ -80,7 +80,7 @@
     {
       "id": "dead-bug",
       "name": "DEAD BUG",
-      "image": "/images/exercises/dead-bug.jpg",
+      "image": "/images/exercises/briggs-dead-bug.jpg",
       "sets": 2,
       "reps": "6 / side",
       "restSec": 25,
@@ -92,7 +92,7 @@
     {
       "id": "side-plank",
       "name": "SIDE PLANK",
-      "image": "/images/exercises/side-plank.jpg",
+      "image": "/images/exercises/briggs-side-plank.jpg",
       "sets": 2,
       "reps": "20s / side",
       "restSec": 25,
