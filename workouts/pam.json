@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
   "title": "EASY ARMS",
-  "subtitle": "FRIDAY. SEATED AND WALL. LIGHT AND KIND.",
+  "subtitle": "FRIDAY DESK BREAK. LIGHT MOVEMENT. A SMALL WIN.",
   "durationMin": 10,
   "voice": {
     "lang": "en-GB",
@@ -17,14 +17,14 @@
     "rate": 0.9,
     "volume": 1,
     "script": {
-      "welcome": "Hello Pam. I'm Stratton. Friday is easy arms. Seated work and a bit on the wall. About ten minutes. If a joint is grumpy today, take a smaller range and we'll keep it kind.",
-      "start": "Whenever you're ready. Steady and comfortable.",
+      "welcome": "Hello Pam. I'm Stratton. Friday is a short desk break \u2014 easy arms, nothing heroic. About ten minutes of gentle movement so you can stand up from the computer feeling good. If a joint is grumpy, take a smaller range. You've got this.",
+      "start": "Whenever you're ready. Comfortable and steady \u2014 this is meant to feel good.",
       "nextExercise": "Next one. Shake it out if you like. No rush.",
       "nextSet": "Same again. Nice and controlled.",
       "setDone": "That's the set. Well done.",
       "rest": "Have a little rest. Breathe easy.",
       "lastSet": "Last set. Make it comfortable and clean.",
-      "complete": "That's us. Lovely work. You can sit a moment if you need. See you tomorrow.",
+      "complete": "That's us. Lovely work. A proper little break from the desk. See you tomorrow.",
       "pause": "Paused. No rush at all.",
       "resume": "Back with you. Easy as we go."
     }
