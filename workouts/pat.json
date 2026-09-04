@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-03",
-  "title": "SHORT FUSE",
-  "subtitle": "THURSDAY INTERVALS. OFFICE KIT. NO HIDING.",
-  "durationMin": 15,
+  "date": "2026-09-04",
+  "title": "LIGHT DUTY",
+  "subtitle": "FRIDAY ARMS AND CORE. EASIER THAN YESTERDAY. NO HIDING.",
+  "durationMin": 14,
   "voice": {
     "lang": "en-GB",
     "preferredNames": [
@@ -16,66 +16,42 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. THURSDAY. SHORT FUSE INTERVALS. FIFTEEN MINUTES. THAT CHAIR IS NOT YOUR MUM.",
+      "welcome": "ON YOUR FEET. FRIDAY. LIGHT DUTY. ARMS AND CORE. FOURTEEN MINUTES. YESTERDAY KICKED YOU. TODAY WE STILL TRAIN. SOFTER. NOT SOFTY.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
-      "nextSet": "RESET. NEXT ROUND. EMPTY THE TANK A BIT.",
+      "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I AM WATCHING.",
-      "complete": "DISMISSED. YOU SHOWED UP. THAT IS THE BARE MINIMUM AND I WILL TAKE IT. SEE YOU TOMORROW.",
+      "complete": "DISMISSED. LIGHT DUTY DONE. YOU SHOWED UP AFTER A HARD DAY. THAT IS DISCIPLINE. SEE YOU TOMORROW.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
   },
   "exercises": [
     {
-      "id": "step-up",
-      "name": "STEP-UPS",
-      "image": "/images/exercises/briggs-step-up.jpg",
-      "sets": 2,
-      "reps": "8 / leg",
-      "restSec": 30,
-      "cue": "DRIVE THROUGH THE WHOLE FOOT. STAND TALL AT THE TOP. SOFT LANDING.",
-      "speakStart": "STEP-UPS ON THE STAIRS. TWO SETS. EIGHT EACH LEG. DRIVE UP. STAND TALL. NO WOBBLY SHITE.",
-      "speakRest": "THIRTY SECONDS. SHAKE THE LEGS. STAY OFF THE COUCH.",
-      "speakDone": "STEP-UPS DONE."
-    },
-    {
       "id": "pushups",
       "name": "INCLINE PUSH-UPS",
       "image": "/images/exercises/briggs-pushups.jpg",
       "sets": 2,
-      "reps": "8",
-      "restSec": 30,
-      "cue": "HANDS ON A STAIR OR STURDY EDGE. CHEST TO THE EDGE. LOCK OUT CLEAN.",
-      "speakStart": "INCLINE PUSH-UPS. TWO SETS OF EIGHT. HANDS UP ON THE STAIR. CHEST IN. LOCK OUT. KNEES IF YOU MUST, LAZY BONES.",
-      "speakRest": "THIRTY. SHAKE THE ARMS. DO NOT LIE DOWN.",
+      "reps": "6",
+      "restSec": 35,
+      "cue": "HANDS ON A STAIR OR STURDY EDGE. CHEST TO THE EDGE. LOCK OUT CLEAN. KNEES LEGAL.",
+      "speakStart": "INCLINE PUSH-UPS. TWO SETS OF SIX. HANDS UP ON THE STAIR. CHEST IN. LOCK OUT. KNEES IF YOU MUST, YOU LAZY SOD.",
+      "speakRest": "THIRTY FIVE. SHAKE THE ARMS. STAY OFF THE FLOOR.",
       "speakDone": "PUSH-UPS COMPLETE."
     },
     {
-      "id": "reverse-lunge",
-      "name": "REVERSE LUNGE",
-      "image": "/images/exercises/briggs-reverse-lunge.jpg",
+      "id": "row",
+      "name": "TABLE EDGE ROWS",
+      "image": "/images/exercises/row.jpg",
       "sets": 2,
-      "reps": "6 / leg",
-      "restSec": 35,
-      "cue": "LONG STEP BACK. FRONT KNEE TRACKS THE TOE. TOUCH THE CHAIR IF YOU NEED BALANCE.",
-      "speakStart": "REVERSE LUNGES. TWO SETS. SIX EACH LEG. CONTROL THE DROP. CHAIR FOR BALANCE IF YOU ARE WOBBLY. OWN IT.",
-      "speakRest": "THIRTY FIVE. FIND YOUR FEET.",
-      "speakDone": "LUNGES DONE."
-    },
-    {
-      "id": "mountain-climbers",
-      "name": "MOUNTAIN CLIMBERS",
-      "image": "/images/exercises/briggs-mountain-climbers.jpg",
-      "sets": 2,
-      "reps": "25s",
+      "reps": "8",
       "restSec": 30,
-      "cue": "HIPS LOW. STEADY DRIVE. THIS IS THE FUSE. DO NOT RUSH FORM.",
-      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS. TWENTY FIVE SECONDS. HIPS LOW. STEADY. THIS IS YOUR INTERVAL. MOVE.",
-      "speakRest": "THIRTY. BREATHE. NEXT ONE COMES FAST.",
-      "speakDone": "CLIMBERS DONE."
+      "cue": "STURDY TABLE EDGE. BODY STRAIGHT. PULL CHEST TO THE EDGE. SQUEEZE THE SHOULDER BLADES. SLOW LOWER.",
+      "speakStart": "TABLE EDGE ROWS. TWO SETS OF EIGHT. BODY TIGHT. PULL CLEAN. SQUEEZE THE BACK. THIS FIXES YOUR DESK SHRUG.",
+      "speakRest": "THIRTY. ROLL THE SHOULDERS. DO NOT SIT.",
+      "speakDone": "ROWS DONE."
     },
     {
       "id": "dead-bug",
@@ -85,19 +61,31 @@
       "reps": "6 / side",
       "restSec": 25,
       "cue": "LOW BACK FLAT ON THE FLOOR. SLOW OPPOSITE ARM AND LEG. POSTURE DRILL. NO RUSH.",
-      "speakStart": "DEAD BUG. TWO SETS. SIX EACH SIDE. BACK FLAT. SLOW. THIS FIXES YOUR DESK HUNCH. DO NOT RUSH IT YOU MADMAN.",
+      "speakStart": "DEAD BUG. TWO SETS. SIX EACH SIDE. BACK FLAT. SLOW. THIS IS YOUR POSTURE DRILL. FIX THE HUNCH. DO NOT RUSH IT.",
       "speakRest": "TWENTY FIVE. KEEP THE BACK QUIET.",
       "speakDone": "DEAD BUG COMPLETE."
+    },
+    {
+      "id": "reverse-lunge",
+      "name": "REVERSE LUNGE",
+      "image": "/images/exercises/briggs-reverse-lunge.jpg",
+      "sets": 2,
+      "reps": "5 / leg",
+      "restSec": 30,
+      "cue": "LONG STEP BACK. FRONT KNEE TRACKS THE TOE. TOUCH THE CHAIR FOR BALANCE. OWN THE WOBBLE.",
+      "speakStart": "REVERSE LUNGES. TWO SETS. FIVE EACH LEG. CONTROL THE DROP. CHAIR FOR BALANCE. THIS IS YOUR BALANCE WORK. OWN IT.",
+      "speakRest": "THIRTY. FIND YOUR FEET.",
+      "speakDone": "LUNGES DONE."
     },
     {
       "id": "side-plank",
       "name": "SIDE PLANK",
       "image": "/images/exercises/briggs-side-plank.jpg",
       "sets": 2,
-      "reps": "20s / side",
+      "reps": "10s / side",
       "restSec": 25,
-      "cue": "HIPS HIGH. STACK THE FEET OR DROP THE BOTTOM KNEE. BALANCE THE SIDE. DO NOT SAG.",
-      "speakStart": "SIDE PLANK. TWO HOLDS. TWENTY SECONDS EACH SIDE. HIPS UP. BALANCE. DROP THE KNEE IF YOU NEED IT. NO SAGGING.",
+      "cue": "HIPS HIGH. DROP THE BOTTOM KNEE. TEN SECONDS ONLY. BALANCE THE SIDE. DO NOT SAG.",
+      "speakStart": "SIDE PLANK. TWO HOLDS. TEN SECONDS EACH SIDE. KNEE DOWN IS LEGAL. HIPS UP. NO SAGGING. BUILD IT SLOW.",
       "speakRest": "TWENTY FIVE. SWITCH SIDES CLEAN.",
       "speakDone": "SIDE PLANKS DONE. THAT IS THE LOT."
     }
