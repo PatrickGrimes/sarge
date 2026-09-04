@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-03",
-  "title": "EASY DOES IT",
-  "subtitle": "TWO SEATED MOVES. STEADY AND KIND.",
-  "durationMin": 6,
+  "date": "2026-09-04",
+  "title": "EASY ARMS",
+  "subtitle": "FRIDAY. SEATED AND WALL. LIGHT AND KIND.",
+  "durationMin": 10,
   "voice": {
     "lang": "en-GB",
     "preferredNames": [
@@ -17,42 +17,66 @@
     "rate": 0.9,
     "volume": 1,
     "script": {
-      "welcome": "Hello Pam. I'm Stratton. Today is a short seated session. Two easy moves, then we're done. Settle into your chair.",
-      "start": "Whenever you're ready. We'll take it steady.",
-      "nextExercise": "Next one. Stay in the chair. Shake your hands out if you like.",
+      "welcome": "Hello Pam. I'm Stratton. Friday is easy arms. Seated work and a bit on the wall. About ten minutes. If a joint is grumpy today, take a smaller range and we'll keep it kind.",
+      "start": "Whenever you're ready. Steady and comfortable.",
+      "nextExercise": "Next one. Shake it out if you like. No rush.",
       "nextSet": "Same again. Nice and controlled.",
       "setDone": "That's the set. Well done.",
       "rest": "Have a little rest. Breathe easy.",
       "lastSet": "Last set. Make it comfortable and clean.",
-      "complete": "That's us. Lovely work. You can stand when you're ready.",
-      "pause": "Paused. No rush.",
+      "complete": "That's us. Lovely work. You can sit a moment if you need. See you tomorrow.",
+      "pause": "Paused. No rush at all.",
       "resume": "Back with you. Easy as we go."
     }
   },
   "exercises": [
     {
-      "id": "seated-knee-lifts",
-      "name": "SEATED KNEE LIFTS",
-      "image": "/images/exercises/stratton-seated-knee-lifts.jpg",
-      "sets": 2,
-      "reps": "10 / leg",
-      "restSec": 20,
-      "cue": "Sit tall. Lift one knee, lower with control. Alternate.",
-      "speakStart": "Seated knee lifts. Two sets of ten each side. Sit tall, lift one knee, and lower with control.",
-      "speakRest": "Twenty seconds. Stay seated. Soften your shoulders.",
-      "speakDone": "Knee lifts done. You're doing well."
-    },
-    {
       "id": "seated-row",
       "name": "SEATED ROW",
       "image": "/images/exercises/stratton-seated-row.jpg",
       "sets": 2,
-      "reps": "10",
+      "reps": "8",
+      "restSec": 25,
+      "cue": "Sit tall. Elbows back. Soft squeeze of the shoulder blades. Easy return. Light weights or empty hands.",
+      "speakStart": "Seated row. Two sets of eight. Sit tall, elbows back, soft squeeze, then ease forward. Light weights are fine, or empty hands.",
+      "speakRest": "Twenty five seconds. Soften the shoulders.",
+      "speakDone": "Rows done. You're doing well."
+    },
+    {
+      "id": "seated-overhead-press",
+      "name": "SEATED OVERHEAD PRESS",
+      "image": "/images/exercises/stratton-seated-overhead-press.jpg",
+      "sets": 2,
+      "reps": "6",
+      "restSec": 25,
+      "cue": "Light hand weights. Press up without locking hard. Stop short of pain. Smaller range is fine.",
+      "speakStart": "Seated overhead press. Two sets of six. Light weights. Press up, soft elbows, stop short of anything sore.",
+      "speakRest": "Twenty five. Roll the shoulders gently.",
+      "speakDone": "Press done."
+    },
+    {
+      "id": "wall-pushups",
+      "name": "WALL PUSH-UPS",
+      "image": "/images/exercises/stratton-wall-pushups.jpg",
+      "sets": 2,
+      "reps": "6",
+      "restSec": 25,
+      "cue": "Hands on the wall, feet back a little. Straight body. Chest toward the wall and press away. Standing only.",
+      "speakStart": "Wall push-ups. Two sets of six. Hands on the wall, body straight, chest in and press away. Stay on your feet.",
+      "speakRest": "Twenty five. Shake the arms.",
+      "speakDone": "Wall push-ups done."
+    },
+    {
+      "id": "seated-knee-lifts",
+      "name": "SEATED KNEE LIFTS",
+      "image": "/images/exercises/stratton-seated-knee-lifts.jpg",
+      "sets": 2,
+      "reps": "8 / leg",
       "restSec": 20,
-      "cue": "Elbows back. Squeeze the shoulder blades. Easy return.",
-      "speakStart": "Seated row. Two sets of ten. Elbows back, squeeze the shoulder blades, then ease forward.",
-      "speakRest": "Twenty seconds. Keep sitting tall.",
-      "speakDone": "Rows done. That's the session."
+      "cue": "Sit tall. Lift one knee, lower with control. Alternate. Soft on the joints.",
+      "speakStart": "Seated knee lifts. Two sets of eight each side. Sit tall, lift one knee, lower with control. Soft and steady.",
+      "speakRest": "Twenty seconds. Stay seated.",
+      "speakDone": "Knee lifts done. That's the session."
     }
   ]
 }
