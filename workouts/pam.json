@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-04",
-  "title": "EASY ARMS",
-  "subtitle": "FRIDAY DESK BREAK. LIGHT MOVEMENT. A SMALL WIN.",
+  "date": "2026-09-06",
+  "title": "STRETCH & BALANCE",
+  "subtitle": "SUNDAY EASE. GENTLE REACHES. A QUIET WIN.",
   "durationMin": 10,
   "voice": {
     "lang": "en-GB",
@@ -17,54 +17,54 @@
     "rate": 0.9,
     "volume": 1,
     "script": {
-      "welcome": "Hello Pam. I'm Stratton. Friday is a short desk break \u2014 easy arms, nothing heroic. About ten minutes of gentle movement so you can stand up from the computer feeling good. If a joint is grumpy, take a smaller range. You've got this.",
-      "start": "Whenever you're ready. Comfortable and steady \u2014 this is meant to feel good.",
+      "welcome": "Hello Pam. I'm Stratton. Sunday is stretch and balance — soft, kind, nothing heroic. About ten minutes so you can leave the desk feeling looser. If a joint is grumpy, take a smaller range. Showing up is the win.",
+      "start": "Whenever you're ready. Easy breath. This is meant to feel good.",
       "nextExercise": "Next one. Shake it out if you like. No rush.",
       "nextSet": "Same again. Nice and controlled.",
       "setDone": "That's the set. Well done.",
       "rest": "Have a little rest. Breathe easy.",
       "lastSet": "Last set. Make it comfortable and clean.",
-      "complete": "That's us. Lovely work. A proper little break from the desk. See you tomorrow.",
+      "complete": "That's us. Lovely work. A proper little stretch and a bit of balance. Enjoy your day — see you tomorrow.",
       "pause": "Paused. No rush at all.",
       "resume": "Back with you. Easy as we go."
     }
   },
   "exercises": [
     {
+      "id": "seated-forward-reach",
+      "name": "SEATED FORWARD REACH",
+      "image": "/images/exercises/stratton-seated-forward-reach.jpg",
+      "sets": 2,
+      "reps": "20s",
+      "restSec": 20,
+      "cue": "Sit tall on the chair. Hinge gently from the hips with a long spine. Reach toward your shins — stop well short of pain. Smaller range is perfect on a sore day.",
+      "speakStart": "Seated forward reach. Two holds of twenty seconds. Sit tall, hinge softly from the hips, long spine. Only as far as feels kind.",
+      "speakRest": "Twenty seconds. Sit upright and breathe.",
+      "speakDone": "Forward reach done. Nicely done."
+    },
+    {
       "id": "seated-row",
       "name": "SEATED ROW",
       "image": "/images/exercises/stratton-seated-row.jpg",
       "sets": 2,
       "reps": "8",
-      "restSec": 25,
-      "cue": "Sit tall. Elbows back. Soft squeeze of the shoulder blades. Easy return. Light weights or empty hands.",
-      "speakStart": "Seated row. Two sets of eight. Sit tall, elbows back, soft squeeze, then ease forward. Light weights are fine, or empty hands.",
-      "speakRest": "Twenty five seconds. Soften the shoulders.",
+      "restSec": 20,
+      "cue": "Sit tall. Elbows back. Soft squeeze of the shoulder blades, then ease forward. Light weights or empty hands. Think stretch and posture, not heavy load.",
+      "speakStart": "Seated row. Two sets of eight. Soft squeeze of the shoulder blades, then ease forward. Empty hands are fine.",
+      "speakRest": "Twenty seconds. Soften the shoulders.",
       "speakDone": "Rows done. You're doing well."
     },
     {
-      "id": "seated-overhead-press",
-      "name": "SEATED OVERHEAD PRESS",
-      "image": "/images/exercises/stratton-seated-overhead-press.jpg",
+      "id": "chair-balance",
+      "name": "CHAIR BALANCE",
+      "image": "/images/exercises/stratton-chair-balance.jpg",
       "sets": 2,
-      "reps": "6",
-      "restSec": 25,
-      "cue": "Light hand weights. Press up without locking hard. Stop short of pain. Smaller range is fine.",
-      "speakStart": "Seated overhead press. Two sets of six. Light weights. Press up, soft elbows, stop short of anything sore.",
-      "speakRest": "Twenty five. Roll the shoulders gently.",
-      "speakDone": "Press done."
-    },
-    {
-      "id": "wall-pushups",
-      "name": "WALL PUSH-UPS",
-      "image": "/images/exercises/stratton-wall-pushups.jpg",
-      "sets": 2,
-      "reps": "6",
-      "restSec": 25,
-      "cue": "Hands on the wall, feet back a little. Straight body. Chest toward the wall and press away. Standing only.",
-      "speakStart": "Wall push-ups. Two sets of six. Hands on the wall, body straight, chest in and press away. Stay on your feet.",
-      "speakRest": "Twenty five. Shake the arms.",
-      "speakDone": "Wall push-ups done."
+      "reps": "20s / leg",
+      "restSec": 20,
+      "cue": "Stand beside the chair. Light fingertips on the back for support. Lift one foot a little. Stay tall. Hold the chair more if you need — balance aid is the point.",
+      "speakStart": "Chair balance. Two holds of twenty seconds each side. Light fingertips on the chair, lift one foot a little, stay tall. Use as much support as you like.",
+      "speakRest": "Twenty seconds. Both feet down. Easy breath.",
+      "speakDone": "Balance done. Steady work."
     },
     {
       "id": "seated-knee-lifts",
@@ -73,10 +73,10 @@
       "sets": 2,
       "reps": "8 / leg",
       "restSec": 20,
-      "cue": "Sit tall. Lift one knee, lower with control. Alternate. Soft on the joints.",
+      "cue": "Sit tall. Lift one knee, lower with control. Alternate. Soft on the joints. Stay seated the whole way.",
       "speakStart": "Seated knee lifts. Two sets of eight each side. Sit tall, lift one knee, lower with control. Soft and steady.",
       "speakRest": "Twenty seconds. Stay seated.",
-      "speakDone": "Knee lifts done. That's the session."
+      "speakDone": "Knee lifts done. That's the session — lovely work."
     }
   ]
 }
