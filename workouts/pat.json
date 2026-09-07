@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-06",
-  "title": "LOOSE LIMBS",
-  "subtitle": "SUNDAY MOBILITY. STILL BARKED. JOINTS FIRST. NO HIDING IN THE SOFA.",
-  "durationMin": 14,
+  "date": "2026-09-07",
+  "title": "STAIR TAX",
+  "subtitle": "MONDAY LEGS AND LUNGS. OFFICE SCALE. TAX THE LEGS. KEEP THE BREATH HONEST.",
+  "durationMin": 15,
   "voice": {
     "lang": "en-GB",
     "preferredNames": [
@@ -16,30 +16,66 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. SUNDAY. LOOSE LIMBS. FOURTEEN MINUTES. MOBILITY DAY. STILL BARKED. WE OIL THE HINGES. YOU DO NOT GET A LIE-IN FROM ME.",
+      "welcome": "ON YOUR FEET. MONDAY. STAIR TAX. FIFTEEN MINUTES. LEGS AND LUNGS. WE TAX THE LEGS. WE KEEP THE BREATH HONEST. NO HIDING BEHIND THE DESK.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. LOOSE LIMBS DONE. YOU SHOWED UP ON A SUNDAY. THAT IS DISCIPLINE. SEE YOU TOMORROW.",
+      "complete": "DISMISSED. STAIR TAX PAID. LEGS WORKED. LUNGS HONEST. SEE YOU TOMORROW.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
   },
   "exercises": [
     {
-      "id": "glute-bridge",
-      "name": "GLUTE BRIDGE",
-      "image": "/images/exercises/glute-bridge.jpg",
+      "id": "squat",
+      "name": "CHAIR SIT-TO-STAND",
+      "image": "/images/exercises/squat.jpg",
       "sets": 2,
       "reps": "8",
       "restSec": 30,
-      "cue": "FEET FLAT. DRIVE THROUGH THE HEELS. SQUEEZE AT THE TOP. SLOW LOWER. OPEN THE HIPS.",
-      "speakStart": "GLUTE BRIDGE. TWO SETS OF EIGHT. SLOW. HEELS DOWN. SQUEEZE THE TOP. THIS OPENS THE HIPS YOU SIT ON ALL WEEK. DO NOT RUSH IT, YOU LAZY SOD.",
-      "speakRest": "THIRTY. KEEP THE HIPS QUIET. STAY OFF THE SOFA.",
-      "speakDone": "BRIDGES COMPLETE."
+      "cue": "STURDY CHAIR BEHIND YOU. LIGHT TOUCH THEN STAND. CHEST UP. KNEES TRACK THE TOES. DRIVE THROUGH THE HEELS.",
+      "speakStart": "CHAIR SIT-TO-STAND. TWO SETS OF EIGHT. LIGHT TOUCH ON THE SEAT. STAND CLEAN. CHEST UP. LEGS FIRST. NO PLONKING, YOU LAZY SOD.",
+      "speakRest": "THIRTY. SHAKE THE LEGS. DO NOT SIT FOR REAL.",
+      "speakDone": "SIT-TO-STANDS DONE."
+    },
+    {
+      "id": "step-up",
+      "name": "STEP-UPS",
+      "image": "/images/exercises/briggs-step-up.jpg",
+      "sets": 2,
+      "reps": "6 / leg",
+      "restSec": 30,
+      "cue": "STAIR OR STURDY STEP. DRIVE THROUGH THE WHOLE FOOT. STAND TALL AT THE TOP. LIGHT HAND ON A WALL IF YOU WOBBLE.",
+      "speakStart": "STEP UPS. TWO SETS. SIX EACH LEG. WHOLE FOOT ON THE STEP. STAND TALL. WALL FOR BALANCE IF YOU NEED IT. THIS IS LEGS AND LUNGS. OWN THE WOBBLE.",
+      "speakRest": "THIRTY. STEADY THE BREATH. STAY OFF THE RAILING FOR A NAP.",
+      "speakDone": "STEP UPS DONE."
+    },
+    {
+      "id": "reverse-lunge",
+      "name": "REVERSE LUNGE",
+      "image": "/images/exercises/briggs-reverse-lunge.jpg",
+      "sets": 2,
+      "reps": "5 / leg",
+      "restSec": 30,
+      "cue": "LONG STEP BACK. FRONT KNEE TRACKS THE TOE. TOUCH THE CHAIR FOR BALANCE. OWN THE WOBBLE.",
+      "speakStart": "REVERSE LUNGES. TWO SETS. FIVE EACH LEG. CONTROL THE DROP. CHAIR FOR BALANCE. THIS IS YOUR BALANCE WORK. DO NOT TIP OVER LIKE A DRUNK ON PARADE.",
+      "speakRest": "THIRTY. FIND YOUR FEET.",
+      "speakDone": "LUNGES DONE."
+    },
+    {
+      "id": "mountain-climbers",
+      "name": "MOUNTAIN CLIMBERS",
+      "image": "/images/exercises/briggs-mountain-climbers.jpg",
+      "sets": 2,
+      "reps": "20s",
+      "restSec": 30,
+      "cue": "HANDS ON A STURDY CHAIR OR FLOOR. EASY MARCHING PACE. HIPS LEVEL. BREATHE OUT ON EACH KNEE DRIVE. NO SPRINT.",
+      "speakStart": "MOUNTAIN CLIMBERS. TWO SETS. TWENTY SECONDS. EASY MARCHING PACE. HANDS ON THE CHAIR IF THE FLOOR IS TOO MUCH. THIS IS THE LUNGS TAX. DO NOT SPRINT AND DIE.",
+      "speakRest": "THIRTY. CATCH YOUR BREATH. DO NOT DRAMATISE.",
+      "speakDone": "CLIMBERS DONE."
     },
     {
       "id": "dead-bug",
@@ -51,43 +87,7 @@
       "cue": "LOW BACK FLAT ON THE FLOOR. SLOW OPPOSITE ARM AND LEG. POSTURE DRILL. NO RUSH.",
       "speakStart": "DEAD BUG. TWO SETS. SIX EACH SIDE. BACK FLAT. SLOW. THIS IS YOUR POSTURE DRILL. FIX THE DESK HUNCH. DO NOT FLOP ABOUT.",
       "speakRest": "TWENTY FIVE. KEEP THE BACK QUIET.",
-      "speakDone": "DEAD BUG COMPLETE."
-    },
-    {
-      "id": "squat",
-      "name": "CHAIR SIT-TO-STAND",
-      "image": "/images/exercises/squat.jpg",
-      "sets": 2,
-      "reps": "8",
-      "restSec": 30,
-      "cue": "STURDY CHAIR BEHIND YOU. LIGHT TOUCH THEN STAND. CHEST UP. KNEES TRACK THE TOES. ANKLES AND HIPS MOVE.",
-      "speakStart": "CHAIR SIT-TO-STAND. TWO SETS OF EIGHT. LIGHT TOUCH ON THE SEAT. STAND CLEAN. CHEST UP. THIS IS HIP AND ANKLE MOBILITY. NO PLONKING.",
-      "speakRest": "THIRTY. SHAKE THE LEGS. DO NOT SIT FOR REAL.",
-      "speakDone": "SIT-TO-STANDS DONE."
-    },
-    {
-      "id": "reverse-lunge",
-      "name": "REVERSE LUNGE",
-      "image": "/images/exercises/briggs-reverse-lunge.jpg",
-      "sets": 2,
-      "reps": "4 / leg",
-      "restSec": 30,
-      "cue": "LONG STEP BACK. FRONT KNEE TRACKS THE TOE. TOUCH THE CHAIR FOR BALANCE. OWN THE WOBBLE.",
-      "speakStart": "REVERSE LUNGES. TWO SETS. FOUR EACH LEG. CONTROL THE DROP. CHAIR FOR BALANCE. THIS IS YOUR BALANCE WORK. OWN THE WOBBLE.",
-      "speakRest": "THIRTY. FIND YOUR FEET.",
-      "speakDone": "LUNGES DONE."
-    },
-    {
-      "id": "step-up",
-      "name": "STEP-UPS",
-      "image": "/images/exercises/briggs-step-up.jpg",
-      "sets": 2,
-      "reps": "5 / leg",
-      "restSec": 25,
-      "cue": "STAIR OR STURDY STEP. DRIVE THROUGH THE WHOLE FOOT. STAND TALL AT THE TOP. LIGHT HAND ON A WALL IF YOU WOBBLE.",
-      "speakStart": "STEP UPS. TWO SETS. FIVE EACH LEG. WHOLE FOOT ON THE STEP. STAND TALL. WALL FOR BALANCE IF YOU NEED IT. MORE BALANCE. DO NOT RUSH.",
-      "speakRest": "TWENTY FIVE. STEADY THE BREATH.",
-      "speakDone": "STEP UPS DONE. THAT IS THE LOT."
+      "speakDone": "DEAD BUG COMPLETE. THAT IS THE LOT."
     }
   ]
 }
