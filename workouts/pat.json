@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-07",
-  "title": "STAIR TAX",
-  "subtitle": "MONDAY LEGS AND LUNGS. OFFICE SCALE. TAX THE LEGS. KEEP THE BREATH HONEST.",
+  "date": "2026-09-08",
+  "title": "PRESS BRIEF",
+  "subtitle": "TUESDAY PUSH AND CORE. OFFICE SCALE. INCLINE PRESS. QUIET CORE. OWN THE WOBBLE.",
   "durationMin": 15,
   "voice": {
     "lang": "en-GB",
@@ -16,42 +16,42 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. MONDAY. STAIR TAX. FIFTEEN MINUTES. LEGS AND LUNGS. WE TAX THE LEGS. WE KEEP THE BREATH HONEST. NO HIDING BEHIND THE DESK.",
+      "welcome": "ON YOUR FEET. TUESDAY. PRESS BRIEF. FIFTEEN MINUTES. PUSH AND CORE. WE PRESS CLEAN. WE BRACE QUIET. NO HIDING BEHIND THE KEYBOARD, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. STAIR TAX PAID. LEGS WORKED. LUNGS HONEST. SEE YOU TOMORROW.",
+      "complete": "DISMISSED. PRESS BRIEF DONE. CHEST WORKED. CORE QUIET. SEE YOU TOMORROW.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
   },
   "exercises": [
     {
-      "id": "squat",
-      "name": "CHAIR SIT-TO-STAND",
-      "image": "/images/exercises/squat.jpg",
+      "id": "pushups",
+      "name": "INCLINE PUSH-UPS",
+      "image": "/images/exercises/briggs-pushups.jpg",
+      "sets": 2,
+      "reps": "6",
+      "restSec": 30,
+      "cue": "HANDS ON A STURDY CHAIR OR STAIR. BODY STRAIGHT. CHEST TO THE EDGE. FULL LOCKOUT. KNEES DOWN LEGAL IF FORM BREAKS.",
+      "speakStart": "PUSH UPS ON THE INCLINE. TWO SETS OF SIX. HANDS ON THE CHAIR OR STAIR. BODY STRAIGHT. CHEST TO THE EDGE. KNEES DOWN IF YOU NEED THEM. DO NOT FLOP ABOUT LIKE A WET SANDWICH.",
+      "speakRest": "THIRTY. SHAKE THE ARMS. DO NOT CHECK YOUR EMAIL.",
+      "speakDone": "PUSH UPS DONE."
+    },
+    {
+      "id": "row",
+      "name": "STANDING SCAPULAR ROW",
+      "image": "/images/exercises/row.jpg",
       "sets": 2,
       "reps": "8",
       "restSec": 30,
-      "cue": "STURDY CHAIR BEHIND YOU. LIGHT TOUCH THEN STAND. CHEST UP. KNEES TRACK THE TOES. DRIVE THROUGH THE HEELS.",
-      "speakStart": "CHAIR SIT-TO-STAND. TWO SETS OF EIGHT. LIGHT TOUCH ON THE SEAT. STAND CLEAN. CHEST UP. LEGS FIRST. NO PLONKING, YOU LAZY SOD.",
-      "speakRest": "THIRTY. SHAKE THE LEGS. DO NOT SIT FOR REAL.",
-      "speakDone": "SIT-TO-STANDS DONE."
-    },
-    {
-      "id": "step-up",
-      "name": "STEP-UPS",
-      "image": "/images/exercises/briggs-step-up.jpg",
-      "sets": 2,
-      "reps": "6 / leg",
-      "restSec": 30,
-      "cue": "STAIR OR STURDY STEP. DRIVE THROUGH THE WHOLE FOOT. STAND TALL AT THE TOP. LIGHT HAND ON A WALL IF YOU WOBBLE.",
-      "speakStart": "STEP UPS. TWO SETS. SIX EACH LEG. WHOLE FOOT ON THE STEP. STAND TALL. WALL FOR BALANCE IF YOU NEED IT. THIS IS LEGS AND LUNGS. OWN THE WOBBLE.",
-      "speakRest": "THIRTY. STEADY THE BREATH. STAY OFF THE RAILING FOR A NAP.",
-      "speakDone": "STEP UPS DONE."
+      "cue": "ARMS FORWARD, PINCH SHOULDER BLADES BACK AND DOWN. CHEST UP. THIS IS YOUR POSTURE DRILL. SLOW AND CLEAN.",
+      "speakStart": "STANDING SCAPULAR ROWS. TWO SETS OF EIGHT. PINCH THE BLADES BACK AND DOWN. CHEST UP. THIS IS YOUR POSTURE DRILL. FIX THE DESK HUNCH. NO SHRUGS, YOU SLOPPY BUGGER.",
+      "speakRest": "THIRTY. KEEP THE SHOULDERS QUIET.",
+      "speakDone": "ROWS DONE."
     },
     {
       "id": "reverse-lunge",
@@ -60,22 +60,10 @@
       "sets": 2,
       "reps": "5 / leg",
       "restSec": 30,
-      "cue": "LONG STEP BACK. FRONT KNEE TRACKS THE TOE. TOUCH THE CHAIR FOR BALANCE. OWN THE WOBBLE.",
+      "cue": "LONG STEP BACK. FRONT KNEE TRACKS THE TOE. LIGHT HAND ON A CHAIR FOR BALANCE. OWN THE WOBBLE.",
       "speakStart": "REVERSE LUNGES. TWO SETS. FIVE EACH LEG. CONTROL THE DROP. CHAIR FOR BALANCE. THIS IS YOUR BALANCE WORK. DO NOT TIP OVER LIKE A DRUNK ON PARADE.",
       "speakRest": "THIRTY. FIND YOUR FEET.",
       "speakDone": "LUNGES DONE."
-    },
-    {
-      "id": "mountain-climbers",
-      "name": "MOUNTAIN CLIMBERS",
-      "image": "/images/exercises/briggs-mountain-climbers.jpg",
-      "sets": 2,
-      "reps": "20s",
-      "restSec": 30,
-      "cue": "HANDS ON A STURDY CHAIR OR FLOOR. EASY MARCHING PACE. HIPS LEVEL. BREATHE OUT ON EACH KNEE DRIVE. NO SPRINT.",
-      "speakStart": "MOUNTAIN CLIMBERS. TWO SETS. TWENTY SECONDS. EASY MARCHING PACE. HANDS ON THE CHAIR IF THE FLOOR IS TOO MUCH. THIS IS THE LUNGS TAX. DO NOT SPRINT AND DIE.",
-      "speakRest": "THIRTY. CATCH YOUR BREATH. DO NOT DRAMATISE.",
-      "speakDone": "CLIMBERS DONE."
     },
     {
       "id": "dead-bug",
@@ -84,10 +72,22 @@
       "sets": 2,
       "reps": "6 / side",
       "restSec": 25,
-      "cue": "LOW BACK FLAT ON THE FLOOR. SLOW OPPOSITE ARM AND LEG. POSTURE DRILL. NO RUSH.",
-      "speakStart": "DEAD BUG. TWO SETS. SIX EACH SIDE. BACK FLAT. SLOW. THIS IS YOUR POSTURE DRILL. FIX THE DESK HUNCH. DO NOT FLOP ABOUT.",
+      "cue": "LOW BACK FLAT ON THE FLOOR. SLOW OPPOSITE ARM AND LEG. RIBS DOWN. NO RUSH.",
+      "speakStart": "DEAD BUG. TWO SETS. SIX EACH SIDE. BACK FLAT. SLOW. CORE QUIET. RIBS DOWN. DO NOT FLOP ABOUT.",
       "speakRest": "TWENTY FIVE. KEEP THE BACK QUIET.",
-      "speakDone": "DEAD BUG COMPLETE. THAT IS THE LOT."
+      "speakDone": "DEAD BUG DONE."
+    },
+    {
+      "id": "side-plank",
+      "name": "SIDE PLANK (KNEES)",
+      "image": "/images/exercises/briggs-side-plank.jpg",
+      "sets": 2,
+      "reps": "10s / side",
+      "restSec": 25,
+      "cue": "ON THE FOREARM. KNEES DOWN LEGAL. HIPS UP. STACK THE SHOULDERS. TEN SECONDS ONLY. BUILD SLOW.",
+      "speakStart": "SIDE PLANK ON THE KNEES. TWO SETS. TEN SECONDS EACH SIDE. FOREARM DOWN. HIPS UP. TEN SECONDS ONLY. DO NOT PLAY HERO AND QUIT TOMORROW.",
+      "speakRest": "TWENTY FIVE. SWITCH WHEN I SAY.",
+      "speakDone": "SIDE PLANKS COMPLETE. THAT IS THE LOT."
     }
   ]
 }
