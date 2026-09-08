@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-07",
-  "title": "LEGS & BALANCE",
-  "subtitle": "MONDAY EASE. LIGHT LEGS. STEADY BALANCE.",
+  "date": "2026-09-08",
+  "title": "UPPER PUSH & POSTURE",
+  "subtitle": "TUESDAY EASE. GENTLE PUSH. TALL POSTURE.",
   "durationMin": 11,
   "voice": {
     "lang": "en-GB",
@@ -17,54 +17,54 @@
     "rate": 0.9,
     "volume": 1,
     "script": {
-      "welcome": "Hello Pam. I'm Stratton. Monday is light legs and balance \u2014 a small break from the desk, nothing heroic. About eleven minutes. If a joint is sore, take a smaller range. Showing up is the win.",
+      "welcome": "Hello Pam. I'm Stratton. Tuesday is gentle upper push and posture — a small break from the desk, nothing heroic. About eleven minutes. If a joint is sore, take a smaller range. Showing up is the win.",
       "start": "Whenever you're ready. Easy breath. This is meant to feel doable.",
       "nextExercise": "Next one. Shake it out if you like. No rush.",
       "nextSet": "Same again. Nice and controlled.",
       "setDone": "That's the set. Well done.",
       "rest": "Have a little rest. Breathe easy.",
       "lastSet": "Last set. Make it comfortable and clean.",
-      "complete": "That's us. Lovely work. Light legs, a bit of balance, and you showed up. Enjoy your day \u2014 see you tomorrow.",
+      "complete": "That's us. Lovely work. Soft push, a bit of posture, and you showed up. Enjoy your day — see you tomorrow.",
       "pause": "Paused. No rush at all.",
       "resume": "Back with you. Easy as we go."
     }
   },
   "exercises": [
     {
-      "id": "seated-knee-lifts",
-      "name": "SEATED KNEE LIFTS",
-      "image": "/images/exercises/stratton-seated-knee-lifts.jpg",
+      "id": "seated-overhead-press",
+      "name": "SEATED OVERHEAD PRESS",
+      "image": "/images/exercises/stratton-seated-overhead-press.jpg",
       "sets": 2,
-      "reps": "8 / leg",
+      "reps": "8",
       "restSec": 25,
-      "cue": "Sit tall. Lift one knee, lower with control. Alternate. Soft on the joints. Stay seated the whole way. Smaller lift is fine on a sore day.",
-      "speakStart": "Seated knee lifts. Two sets of eight each side. Sit tall, lift one knee, lower with control. Soft and steady.",
+      "cue": "Sit tall in a sturdy chair. Light hand weights or empty hands. Press gently overhead, then lower with control. Soft elbows — only a comfortable range. Smaller height is fine on a sore day.",
+      "speakStart": "Seated overhead press. Two sets of eight. Sit tall, press gently overhead, lower with control. Empty hands or light weights are fine. Keep it soft.",
       "speakRest": "Twenty five seconds. Stay seated. Easy breath.",
-      "speakDone": "Knee lifts done. Nicely done."
+      "speakDone": "Overhead press done. Nicely done."
     },
     {
-      "id": "chair-sit-to-stand",
-      "name": "CHAIR SIT TO STAND",
-      "image": "/images/exercises/squat.jpg",
+      "id": "wall-pushups",
+      "name": "WALL PUSH-UPS",
+      "image": "/images/exercises/stratton-wall-pushups.jpg",
       "sets": 2,
-      "reps": "6",
+      "reps": "8",
       "restSec": 30,
-      "cue": "Sit near the front of a sturdy chair. Feet flat. Stand up with control, then sit down softly. Use the armrests if you like. Only a comfortable range \u2014 no deep drop. Empty hands or light weights optional.",
-      "speakStart": "Chair sit to stand. Two sets of six. Near the front of the chair, stand up with control, sit down softly. Use the armrests if you like. Keep it comfortable.",
-      "speakRest": "Thirty seconds. Soften the knees. Breathe easy.",
-      "speakDone": "Sit to stands done. You're doing well."
+      "cue": "Hands on the wall at shoulder height. Feet comfortable. Bend the elbows and press away with control. Keep the body long and soft. Smaller range is perfect on a sore day. No floor work.",
+      "speakStart": "Wall push ups. Two sets of eight. Hands on the wall, bend the elbows, press away softly. Stay tall. Only as deep as feels kind.",
+      "speakRest": "Thirty seconds. Soften the shoulders. Breathe easy.",
+      "speakDone": "Wall push ups done. You're doing well."
     },
     {
-      "id": "chair-balance",
-      "name": "CHAIR BALANCE",
-      "image": "/images/exercises/stratton-chair-balance.jpg",
+      "id": "seated-row",
+      "name": "SEATED ROW",
+      "image": "/images/exercises/stratton-seated-row.jpg",
       "sets": 2,
-      "reps": "20s / leg",
-      "restSec": 20,
-      "cue": "Stand beside the chair. Light fingertips on the back for support. Lift one foot a little. Stay tall. Hold the chair more if you need \u2014 balance aid is the point.",
-      "speakStart": "Chair balance. Two holds of twenty seconds each side. Light fingertips on the chair, lift one foot a little, stay tall. Use as much support as you like.",
-      "speakRest": "Twenty seconds. Both feet down. Easy breath.",
-      "speakDone": "Balance done. Steady work."
+      "reps": "8",
+      "restSec": 25,
+      "cue": "Sit tall. Light weights or empty hands. Draw elbows back as if rowing, squeeze the shoulder blades gently, then release. Soft on the neck. Stay seated the whole way.",
+      "speakStart": "Seated row. Two sets of eight. Sit tall, draw the elbows back softly, squeeze the shoulder blades, then release. Easy on the neck.",
+      "speakRest": "Twenty five seconds. Stay seated. Easy breath.",
+      "speakDone": "Rows done. Steady work."
     },
     {
       "id": "seated-forward-reach",
@@ -73,10 +73,10 @@
       "sets": 2,
       "reps": "20s",
       "restSec": 20,
-      "cue": "Sit tall on the chair. Hinge gently from the hips with a long spine. Reach toward your shins \u2014 stop well short of pain. Smaller range is perfect on a sore day.",
+      "cue": "Sit tall on the chair. Hinge gently from the hips with a long spine. Reach toward your shins — stop well short of pain. Smaller range is perfect on a sore day.",
       "speakStart": "Seated forward reach. Two holds of twenty seconds. Sit tall, hinge softly from the hips, long spine. Only as far as feels kind.",
       "speakRest": "Twenty seconds. Sit upright and breathe.",
-      "speakDone": "Forward reach done. That's the session \u2014 lovely work."
+      "speakDone": "Forward reach done. That's the session — lovely work."
     }
   ]
 }
