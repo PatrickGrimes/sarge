@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-08",
-  "title": "UPPER PUSH & POSTURE",
-  "subtitle": "TUESDAY EASE. GENTLE PUSH. TALL POSTURE.",
+  "date": "2026-09-09",
+  "title": "POSTERIOR & STRETCH",
+  "subtitle": "WEDNESDAY EASE. SOFT BACK. GENTLE REACHES.",
   "durationMin": 11,
   "voice": {
     "lang": "en-GB",
@@ -17,43 +17,19 @@
     "rate": 0.9,
     "volume": 1,
     "script": {
-      "welcome": "Hello Pam. I'm Stratton. Tuesday is gentle upper push and posture — a small break from the desk, nothing heroic. About eleven minutes. If a joint is sore, take a smaller range. Showing up is the win.",
+      "welcome": "Hello Pam. I'm Stratton. Wednesday is soft posterior work and gentle stretch — a small break from the desk, nothing fierce. About eleven minutes. If a joint is sore, take a smaller range. Showing up is the win.",
       "start": "Whenever you're ready. Easy breath. This is meant to feel doable.",
       "nextExercise": "Next one. Shake it out if you like. No rush.",
       "nextSet": "Same again. Nice and controlled.",
       "setDone": "That's the set. Well done.",
       "rest": "Have a little rest. Breathe easy.",
       "lastSet": "Last set. Make it comfortable and clean.",
-      "complete": "That's us. Lovely work. Soft push, a bit of posture, and you showed up. Enjoy your day — see you tomorrow.",
+      "complete": "That's us. Lovely work. Soft back, a gentle stretch, and you showed up. Enjoy your day — see you tomorrow.",
       "pause": "Paused. No rush at all.",
       "resume": "Back with you. Easy as we go."
     }
   },
   "exercises": [
-    {
-      "id": "seated-overhead-press",
-      "name": "SEATED OVERHEAD PRESS",
-      "image": "/images/exercises/stratton-seated-overhead-press.jpg",
-      "sets": 2,
-      "reps": "8",
-      "restSec": 25,
-      "cue": "Sit tall in a sturdy chair. Light hand weights or empty hands. Press gently overhead, then lower with control. Soft elbows — only a comfortable range. Smaller height is fine on a sore day.",
-      "speakStart": "Seated overhead press. Two sets of eight. Sit tall, press gently overhead, lower with control. Empty hands or light weights are fine. Keep it soft.",
-      "speakRest": "Twenty five seconds. Stay seated. Easy breath.",
-      "speakDone": "Overhead press done. Nicely done."
-    },
-    {
-      "id": "wall-pushups",
-      "name": "WALL PUSH-UPS",
-      "image": "/images/exercises/stratton-wall-pushups.jpg",
-      "sets": 2,
-      "reps": "8",
-      "restSec": 30,
-      "cue": "Hands on the wall at shoulder height. Feet comfortable. Bend the elbows and press away with control. Keep the body long and soft. Smaller range is perfect on a sore day. No floor work.",
-      "speakStart": "Wall push ups. Two sets of eight. Hands on the wall, bend the elbows, press away softly. Stay tall. Only as deep as feels kind.",
-      "speakRest": "Thirty seconds. Soften the shoulders. Breathe easy.",
-      "speakDone": "Wall push ups done. You're doing well."
-    },
     {
       "id": "seated-row",
       "name": "SEATED ROW",
@@ -61,20 +37,44 @@
       "sets": 2,
       "reps": "8",
       "restSec": 25,
-      "cue": "Sit tall. Light weights or empty hands. Draw elbows back as if rowing, squeeze the shoulder blades gently, then release. Soft on the neck. Stay seated the whole way.",
+      "cue": "Sit tall. Light weights or empty hands. Draw elbows back as if rowing, squeeze the shoulder blades gently, then release. Soft on the neck. Stay seated the whole way. Smaller range is fine on a sore day.",
       "speakStart": "Seated row. Two sets of eight. Sit tall, draw the elbows back softly, squeeze the shoulder blades, then release. Easy on the neck.",
       "speakRest": "Twenty five seconds. Stay seated. Easy breath.",
       "speakDone": "Rows done. Steady work."
+    },
+    {
+      "id": "seated-knee-lifts",
+      "name": "SEATED KNEE LIFTS",
+      "image": "/images/exercises/stratton-seated-knee-lifts.jpg",
+      "sets": 2,
+      "reps": "6 / leg",
+      "restSec": 25,
+      "cue": "Sit tall near the front of a sturdy chair. Lift one knee gently, then lower with control. Alternate sides. Soft ankle, soft hip — only a comfortable height. Smaller lift is perfect on a sore day.",
+      "speakStart": "Seated knee lifts. Two sets of six per leg. Sit tall, lift one knee softly, lower with control. Alternate. Keep it easy.",
+      "speakRest": "Twenty five seconds. Stay seated. Soften the hips.",
+      "speakDone": "Knee lifts done. Nicely done."
+    },
+    {
+      "id": "chair-balance",
+      "name": "CHAIR BALANCE",
+      "image": "/images/exercises/stratton-chair-balance.jpg",
+      "sets": 2,
+      "reps": "20s",
+      "restSec": 20,
+      "cue": "Stand beside a sturdy chair, light hand on the backrest. Soften one knee and lift the opposite heel a little, or just shift weight gently. Use the chair as much as you need. Steady breath. Stop well short of wobble that feels unsafe.",
+      "speakStart": "Chair balance. Two holds of twenty seconds. Light hand on the chair. Soften one knee or shift weight gently. Use the support — that's wise, not weak.",
+      "speakRest": "Twenty seconds. Both feet down. Easy breath.",
+      "speakDone": "Balance done. You're steady."
     },
     {
       "id": "seated-forward-reach",
       "name": "SEATED FORWARD REACH",
       "image": "/images/exercises/stratton-seated-forward-reach.jpg",
       "sets": 2,
-      "reps": "20s",
+      "reps": "25s",
       "restSec": 20,
-      "cue": "Sit tall on the chair. Hinge gently from the hips with a long spine. Reach toward your shins — stop well short of pain. Smaller range is perfect on a sore day.",
-      "speakStart": "Seated forward reach. Two holds of twenty seconds. Sit tall, hinge softly from the hips, long spine. Only as far as feels kind.",
+      "cue": "Sit tall on the chair. Hinge gently from the hips with a long spine. Reach toward your shins — stop well short of pain. Breathe into the back of the legs. Smaller range is perfect on a sore day.",
+      "speakStart": "Seated forward reach. Two holds of twenty five seconds. Sit tall, hinge softly from the hips, long spine. Only as far as feels kind.",
       "speakRest": "Twenty seconds. Sit upright and breathe.",
       "speakDone": "Forward reach done. That's the session — lovely work."
     }
