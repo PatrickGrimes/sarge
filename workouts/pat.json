@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-08",
-  "title": "PRESS BRIEF",
-  "subtitle": "TUESDAY PUSH AND CORE. OFFICE SCALE. INCLINE PRESS. QUIET CORE. OWN THE WOBBLE.",
+  "date": "2026-09-09",
+  "title": "REAR GUARD",
+  "subtitle": "WEDNESDAY POSTERIOR. OFFICE SCALE. GLUTES ON. HINGE CLEAN. OWN THE WOBBLE.",
   "durationMin": 15,
   "voice": {
     "lang": "en-GB",
@@ -16,42 +16,30 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. TUESDAY. PRESS BRIEF. FIFTEEN MINUTES. PUSH AND CORE. WE PRESS CLEAN. WE BRACE QUIET. NO HIDING BEHIND THE KEYBOARD, YOU LAZY SOD.",
+      "welcome": "ON YOUR FEET. WEDNESDAY. REAR GUARD. FIFTEEN MINUTES. POSTERIOR CHAIN. WE WAKE THE GLUTES. WE HINGE CLEAN. NO HIDING BEHIND THAT CHAIR, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. PRESS BRIEF DONE. CHEST WORKED. CORE QUIET. SEE YOU TOMORROW.",
+      "complete": "DISMISSED. REAR GUARD DONE. GLUTES WORKED. BACK HONEST. SEE YOU TOMORROW.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
   },
   "exercises": [
     {
-      "id": "pushups",
-      "name": "INCLINE PUSH-UPS",
-      "image": "/images/exercises/briggs-pushups.jpg",
-      "sets": 2,
-      "reps": "6",
-      "restSec": 30,
-      "cue": "HANDS ON A STURDY CHAIR OR STAIR. BODY STRAIGHT. CHEST TO THE EDGE. FULL LOCKOUT. KNEES DOWN LEGAL IF FORM BREAKS.",
-      "speakStart": "PUSH UPS ON THE INCLINE. TWO SETS OF SIX. HANDS ON THE CHAIR OR STAIR. BODY STRAIGHT. CHEST TO THE EDGE. KNEES DOWN IF YOU NEED THEM. DO NOT FLOP ABOUT LIKE A WET SANDWICH.",
-      "speakRest": "THIRTY. SHAKE THE ARMS. DO NOT CHECK YOUR EMAIL.",
-      "speakDone": "PUSH UPS DONE."
-    },
-    {
-      "id": "row",
-      "name": "STANDING SCAPULAR ROW",
-      "image": "/images/exercises/row.jpg",
+      "id": "glute-bridge",
+      "name": "GLUTE BRIDGE",
+      "image": "/images/exercises/glute-bridge.jpg",
       "sets": 2,
       "reps": "8",
       "restSec": 30,
-      "cue": "ARMS FORWARD, PINCH SHOULDER BLADES BACK AND DOWN. CHEST UP. THIS IS YOUR POSTURE DRILL. SLOW AND CLEAN.",
-      "speakStart": "STANDING SCAPULAR ROWS. TWO SETS OF EIGHT. PINCH THE BLADES BACK AND DOWN. CHEST UP. THIS IS YOUR POSTURE DRILL. FIX THE DESK HUNCH. NO SHRUGS, YOU SLOPPY BUGGER.",
-      "speakRest": "THIRTY. KEEP THE SHOULDERS QUIET.",
-      "speakDone": "ROWS DONE."
+      "cue": "FLAT ON YOUR BACK. FEET UNDER KNEES. DRIVE THROUGH THE HEELS. SQUEEZE AT THE TOP. RIBS DOWN. NO OVERARCHING.",
+      "speakStart": "GLUTE BRIDGE. TWO SETS OF EIGHT. HEELS DOWN. SQUEEZE AT THE TOP. RIBS QUIET. THIS IS THE REAR GUARD. WAKE THOSE GLUTES UP, YOU DESK JOCKEY.",
+      "speakRest": "THIRTY. KEEP THE HIPS LOOSE. DO NOT SCROLL.",
+      "speakDone": "BRIDGES DONE."
     },
     {
       "id": "reverse-lunge",
@@ -66,28 +54,40 @@
       "speakDone": "LUNGES DONE."
     },
     {
+      "id": "row",
+      "name": "STANDING SCAPULAR ROW",
+      "image": "/images/exercises/row.jpg",
+      "sets": 2,
+      "reps": "8",
+      "restSec": 25,
+      "cue": "ARMS FORWARD, PINCH SHOULDER BLADES BACK AND DOWN. CHEST UP. THIS IS YOUR POSTURE DRILL. SLOW AND CLEAN.",
+      "speakStart": "STANDING SCAPULAR ROWS. TWO SETS OF EIGHT. PINCH THE BLADES BACK AND DOWN. CHEST UP. THIS IS YOUR POSTURE DRILL. FIX THE DESK HUNCH. NO SHRUGS, YOU SLOPPY BUGGER.",
+      "speakRest": "TWENTY FIVE. KEEP THE SHOULDERS QUIET.",
+      "speakDone": "ROWS DONE."
+    },
+    {
+      "id": "step-up",
+      "name": "STEP-UPS",
+      "image": "/images/exercises/briggs-step-up.jpg",
+      "sets": 2,
+      "reps": "6 / leg",
+      "restSec": 30,
+      "cue": "STAIR OR STURDY STEP. DRIVE THROUGH THE WHOLE FOOT. STAND TALL AT THE TOP. LIGHT HAND ON A WALL IF YOU WOBBLE.",
+      "speakStart": "STEP UPS. TWO SETS. SIX EACH LEG. WHOLE FOOT ON THE STEP. STAND TALL. WALL FOR BALANCE IF YOU NEED IT. DRIVE THE GLUTE. OWN THE WOBBLE.",
+      "speakRest": "THIRTY. STEADY THE BREATH. STAY OFF THE RAILING FOR A NAP.",
+      "speakDone": "STEP UPS DONE."
+    },
+    {
       "id": "dead-bug",
       "name": "DEAD BUG",
       "image": "/images/exercises/briggs-dead-bug.jpg",
       "sets": 2,
       "reps": "6 / side",
       "restSec": 25,
-      "cue": "LOW BACK FLAT ON THE FLOOR. SLOW OPPOSITE ARM AND LEG. RIBS DOWN. NO RUSH.",
-      "speakStart": "DEAD BUG. TWO SETS. SIX EACH SIDE. BACK FLAT. SLOW. CORE QUIET. RIBS DOWN. DO NOT FLOP ABOUT.",
+      "cue": "LOW BACK FLAT ON THE FLOOR. SLOW OPPOSITE ARM AND LEG. RIBS DOWN. POSTURE AND CORE. NO RUSH.",
+      "speakStart": "DEAD BUG. TWO SETS. SIX EACH SIDE. BACK FLAT. SLOW. RIBS DOWN. CORE QUIET. DO NOT FLOP ABOUT LIKE A WET NOODLE.",
       "speakRest": "TWENTY FIVE. KEEP THE BACK QUIET.",
-      "speakDone": "DEAD BUG DONE."
-    },
-    {
-      "id": "side-plank",
-      "name": "SIDE PLANK (KNEES)",
-      "image": "/images/exercises/briggs-side-plank.jpg",
-      "sets": 2,
-      "reps": "10s / side",
-      "restSec": 25,
-      "cue": "ON THE FOREARM. KNEES DOWN LEGAL. HIPS UP. STACK THE SHOULDERS. TEN SECONDS ONLY. BUILD SLOW.",
-      "speakStart": "SIDE PLANK ON THE KNEES. TWO SETS. TEN SECONDS EACH SIDE. FOREARM DOWN. HIPS UP. TEN SECONDS ONLY. DO NOT PLAY HERO AND QUIT TOMORROW.",
-      "speakRest": "TWENTY FIVE. SWITCH WHEN I SAY.",
-      "speakDone": "SIDE PLANKS COMPLETE. THAT IS THE LOT."
+      "speakDone": "DEAD BUG COMPLETE. THAT IS THE LOT."
     }
   ]
 }
