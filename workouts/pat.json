@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-09",
-  "title": "REAR GUARD",
-  "subtitle": "WEDNESDAY POSTERIOR. OFFICE SCALE. GLUTES ON. HINGE CLEAN. OWN THE WOBBLE.",
+  "date": "2026-09-10",
+  "title": "FLASH POINT",
+  "subtitle": "THURSDAY INTERVALS. OFFICE SCALE. SHORT BURSTS. OWN THE WOBBLE.",
   "durationMin": 15,
   "voice": {
     "lang": "en-GB",
@@ -16,30 +16,42 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. WEDNESDAY. REAR GUARD. FIFTEEN MINUTES. POSTERIOR CHAIN. WE WAKE THE GLUTES. WE HINGE CLEAN. NO HIDING BEHIND THAT CHAIR, YOU LAZY SOD.",
+      "welcome": "ON YOUR FEET. THURSDAY. FLASH POINT. FIFTEEN MINUTES. SHORT BURSTS. CLEAN RESTS. THAT CHAIR IS NOT YOUR SANCTUARY, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. REAR GUARD DONE. GLUTES WORKED. BACK HONEST. SEE YOU TOMORROW.",
+      "complete": "DISMISSED. FLASH POINT DONE. HEART HONEST. POSTURE FIXED. SEE YOU TOMORROW.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
   },
   "exercises": [
     {
-      "id": "glute-bridge",
-      "name": "GLUTE BRIDGE",
-      "image": "/images/exercises/glute-bridge.jpg",
+      "id": "step-up",
+      "name": "STEP-UPS",
+      "image": "/images/exercises/briggs-step-up.jpg",
+      "sets": 2,
+      "reps": "6 / leg",
+      "restSec": 30,
+      "cue": "STAIR OR STURDY STEP. DRIVE THROUGH THE WHOLE FOOT. STAND TALL AT THE TOP. LIGHT HAND ON A WALL IF YOU WOBBLE.",
+      "speakStart": "STEP UPS. TWO SETS. SIX EACH LEG. WHOLE FOOT ON THE STEP. STAND TALL. WALL FOR BALANCE IF YOU NEED IT. THIS IS YOUR FIRST BURST. OWN THE WOBBLE.",
+      "speakRest": "THIRTY. STEADY THE BREATH. STAY OFF THE RAILING FOR A NAP.",
+      "speakDone": "STEP UPS DONE."
+    },
+    {
+      "id": "pushups",
+      "name": "INCLINE PUSH-UPS",
+      "image": "/images/exercises/briggs-pushups.jpg",
       "sets": 2,
       "reps": "8",
       "restSec": 30,
-      "cue": "FLAT ON YOUR BACK. FEET UNDER KNEES. DRIVE THROUGH THE HEELS. SQUEEZE AT THE TOP. RIBS DOWN. NO OVERARCHING.",
-      "speakStart": "GLUTE BRIDGE. TWO SETS OF EIGHT. HEELS DOWN. SQUEEZE AT THE TOP. RIBS QUIET. THIS IS THE REAR GUARD. WAKE THOSE GLUTES UP, YOU DESK JOCKEY.",
-      "speakRest": "THIRTY. KEEP THE HIPS LOOSE. DO NOT SCROLL.",
-      "speakDone": "BRIDGES DONE."
+      "cue": "HANDS ON ABOUT THE FIFTH STAIR. CHEST TO THE EDGE. LOCK OUT CLEAN. KNEES LEGAL IF YOU MUST.",
+      "speakStart": "INCLINE PUSH UPS. TWO SETS OF EIGHT. FIFTH STAIR. CHEST IN. LOCK OUT. KNEES IF YOU MUST, YOU DESK JOCKEY. NO HALF REPS.",
+      "speakRest": "THIRTY. SHAKE THE ARMS. DO NOT LIE DOWN.",
+      "speakDone": "PUSH UPS COMPLETE."
     },
     {
       "id": "reverse-lunge",
@@ -54,6 +66,18 @@
       "speakDone": "LUNGES DONE."
     },
     {
+      "id": "mountain-climbers",
+      "name": "MOUNTAIN CLIMBERS",
+      "image": "/images/exercises/briggs-mountain-climbers.jpg",
+      "sets": 2,
+      "reps": "20s",
+      "restSec": 30,
+      "cue": "HANDS ON THE FLOOR OR A LOW STEP. HIPS LOW. STEADY DRIVE. THIS IS THE FUSE. DO NOT RUSH FORM.",
+      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS. TWENTY SECONDS. HIPS LOW. STEADY. THIS IS YOUR INTERVAL. EMPTY A BIT OF THE TANK. MOVE.",
+      "speakRest": "THIRTY. BREATHE. NEXT ONE COMES FAST.",
+      "speakDone": "CLIMBERS DONE."
+    },
+    {
       "id": "row",
       "name": "STANDING SCAPULAR ROW",
       "image": "/images/exercises/row.jpg",
@@ -66,28 +90,16 @@
       "speakDone": "ROWS DONE."
     },
     {
-      "id": "step-up",
-      "name": "STEP-UPS",
-      "image": "/images/exercises/briggs-step-up.jpg",
+      "id": "side-plank",
+      "name": "SIDE PLANK",
+      "image": "/images/exercises/briggs-side-plank.jpg",
       "sets": 2,
-      "reps": "6 / leg",
-      "restSec": 30,
-      "cue": "STAIR OR STURDY STEP. DRIVE THROUGH THE WHOLE FOOT. STAND TALL AT THE TOP. LIGHT HAND ON A WALL IF YOU WOBBLE.",
-      "speakStart": "STEP UPS. TWO SETS. SIX EACH LEG. WHOLE FOOT ON THE STEP. STAND TALL. WALL FOR BALANCE IF YOU NEED IT. DRIVE THE GLUTE. OWN THE WOBBLE.",
-      "speakRest": "THIRTY. STEADY THE BREATH. STAY OFF THE RAILING FOR A NAP.",
-      "speakDone": "STEP UPS DONE."
-    },
-    {
-      "id": "dead-bug",
-      "name": "DEAD BUG",
-      "image": "/images/exercises/briggs-dead-bug.jpg",
-      "sets": 2,
-      "reps": "6 / side",
+      "reps": "5s / side",
       "restSec": 25,
-      "cue": "LOW BACK FLAT ON THE FLOOR. SLOW OPPOSITE ARM AND LEG. RIBS DOWN. POSTURE AND CORE. NO RUSH.",
-      "speakStart": "DEAD BUG. TWO SETS. SIX EACH SIDE. BACK FLAT. SLOW. RIBS DOWN. CORE QUIET. DO NOT FLOP ABOUT LIKE A WET NOODLE.",
-      "speakRest": "TWENTY FIVE. KEEP THE BACK QUIET.",
-      "speakDone": "DEAD BUG COMPLETE. THAT IS THE LOT."
+      "cue": "HIPS HIGH. DROP THE BOTTOM KNEE. FIVE SECONDS ONLY. BUILD TOWARD TWENTY LATER. NO SAG.",
+      "speakStart": "SIDE PLANK. TWO HOLDS. FIVE SECONDS EACH SIDE. KNEE DOWN IS LEGAL. HIPS UP. SHORT AND HONEST. WE ARE BUILDING TOWARD TWENTY. NO SAGGING.",
+      "speakRest": "TWENTY FIVE. SWITCH SIDES CLEAN.",
+      "speakDone": "SIDE PLANKS DONE. THAT IS THE LOT."
     }
   ]
 }
