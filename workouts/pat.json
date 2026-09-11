@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-10",
-  "title": "FLASH POINT",
-  "subtitle": "THURSDAY INTERVALS. OFFICE SCALE. SHORT BURSTS. OWN THE WOBBLE.",
+  "date": "2026-09-11",
+  "title": "HARD KNUCKLES",
+  "subtitle": "FRIDAY ARMS AND CORE. OFFICE SCALE. CLEAN LOCKOUTS. OWN THE WOBBLE.",
   "durationMin": 15,
   "voice": {
     "lang": "en-GB",
@@ -16,31 +16,19 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. THURSDAY. FLASH POINT. FIFTEEN MINUTES. SHORT BURSTS. CLEAN RESTS. THAT CHAIR IS NOT YOUR SANCTUARY, YOU LAZY SOD.",
+      "welcome": "ON YOUR FEET. FRIDAY. HARD KNUCKLES. FIFTEEN MINUTES. ARMS AND CORE. THAT CHAIR IS NOT YOUR SANCTUARY, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. FLASH POINT DONE. HEART HONEST. POSTURE FIXED. SEE YOU TOMORROW.",
+      "complete": "DISMISSED. HARD KNUCKLES DONE. ARMS HONEST. CORE QUIET. SEE YOU TOMORROW.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
   },
   "exercises": [
-    {
-      "id": "step-up",
-      "name": "STEP-UPS",
-      "image": "/images/exercises/briggs-step-up.jpg",
-      "sets": 2,
-      "reps": "6 / leg",
-      "restSec": 30,
-      "cue": "STAIR OR STURDY STEP. DRIVE THROUGH THE WHOLE FOOT. STAND TALL AT THE TOP. LIGHT HAND ON A WALL IF YOU WOBBLE.",
-      "speakStart": "STEP UPS. TWO SETS. SIX EACH LEG. WHOLE FOOT ON THE STEP. STAND TALL. WALL FOR BALANCE IF YOU NEED IT. THIS IS YOUR FIRST BURST. OWN THE WOBBLE.",
-      "speakRest": "THIRTY. STEADY THE BREATH. STAY OFF THE RAILING FOR A NAP.",
-      "speakDone": "STEP UPS DONE."
-    },
     {
       "id": "pushups",
       "name": "INCLINE PUSH-UPS",
@@ -49,9 +37,33 @@
       "reps": "8",
       "restSec": 30,
       "cue": "HANDS ON ABOUT THE FIFTH STAIR. CHEST TO THE EDGE. LOCK OUT CLEAN. KNEES LEGAL IF YOU MUST.",
-      "speakStart": "INCLINE PUSH UPS. TWO SETS OF EIGHT. FIFTH STAIR. CHEST IN. LOCK OUT. KNEES IF YOU MUST, YOU DESK JOCKEY. NO HALF REPS.",
+      "speakStart": "INCLINE PUSH UPS. TWO SETS OF EIGHT. FIFTH STAIR. CHEST IN. LOCK OUT. KNEES IF YOU MUST, YOU DESK JOCKEY. THIS IS YOUR ARMS WORK. NO HALF REPS.",
       "speakRest": "THIRTY. SHAKE THE ARMS. DO NOT LIE DOWN.",
       "speakDone": "PUSH UPS COMPLETE."
+    },
+    {
+      "id": "row",
+      "name": "STANDING SCAPULAR ROW",
+      "image": "/images/exercises/row.jpg",
+      "sets": 2,
+      "reps": "10",
+      "restSec": 25,
+      "cue": "ARMS FORWARD, PINCH SHOULDER BLADES BACK AND DOWN. CHEST UP. THIS IS YOUR POSTURE DRILL. SLOW AND CLEAN.",
+      "speakStart": "STANDING SCAPULAR ROWS. TWO SETS OF TEN. PINCH THE BLADES BACK AND DOWN. CHEST UP. THIS IS YOUR POSTURE DRILL. FIX THE DESK HUNCH. NO SHRUGS, YOU SLOPPY BUGGER.",
+      "speakRest": "TWENTY FIVE. KEEP THE SHOULDERS QUIET.",
+      "speakDone": "ROWS DONE."
+    },
+    {
+      "id": "dead-bug",
+      "name": "DEAD BUG",
+      "image": "/images/exercises/briggs-dead-bug.jpg",
+      "sets": 2,
+      "reps": "6 / side",
+      "restSec": 30,
+      "cue": "BACK FLAT ON THE FLOOR. OPPOSITE ARM AND LEG REACH. RIBS DOWN. SLOW AND HONEST. NO ARCHING.",
+      "speakStart": "DEAD BUG. TWO SETS. SIX EACH SIDE. BACK FLAT. OPPOSITE ARM AND LEG. RIBS DOWN. THIS IS YOUR CORE. DO NOT ARCH LIKE A LAZY HAMMOCK.",
+      "speakRest": "THIRTY. KEEP THE BELLY QUIET.",
+      "speakDone": "DEAD BUGS DONE."
     },
     {
       "id": "reverse-lunge",
@@ -72,22 +84,10 @@
       "sets": 2,
       "reps": "20s",
       "restSec": 30,
-      "cue": "HANDS ON THE FLOOR OR A LOW STEP. HIPS LOW. STEADY DRIVE. THIS IS THE FUSE. DO NOT RUSH FORM.",
-      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS. TWENTY SECONDS. HIPS LOW. STEADY. THIS IS YOUR INTERVAL. EMPTY A BIT OF THE TANK. MOVE.",
+      "cue": "HANDS ON THE FLOOR OR A LOW STEP. HIPS LOW. STEADY DRIVE. ARMS AND CORE TOGETHER. DO NOT RUSH FORM.",
+      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS. TWENTY SECONDS. HIPS LOW. STEADY. ARMS BRACED. CORE WORKING. EMPTY A BIT OF THE TANK. MOVE.",
       "speakRest": "THIRTY. BREATHE. NEXT ONE COMES FAST.",
       "speakDone": "CLIMBERS DONE."
-    },
-    {
-      "id": "row",
-      "name": "STANDING SCAPULAR ROW",
-      "image": "/images/exercises/row.jpg",
-      "sets": 2,
-      "reps": "8",
-      "restSec": 25,
-      "cue": "ARMS FORWARD, PINCH SHOULDER BLADES BACK AND DOWN. CHEST UP. THIS IS YOUR POSTURE DRILL. SLOW AND CLEAN.",
-      "speakStart": "STANDING SCAPULAR ROWS. TWO SETS OF EIGHT. PINCH THE BLADES BACK AND DOWN. CHEST UP. THIS IS YOUR POSTURE DRILL. FIX THE DESK HUNCH. NO SHRUGS, YOU SLOPPY BUGGER.",
-      "speakRest": "TWENTY FIVE. KEEP THE SHOULDERS QUIET.",
-      "speakDone": "ROWS DONE."
     },
     {
       "id": "side-plank",
