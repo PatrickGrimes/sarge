@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-10",
-  "title": "LIGHT SEATED INTERVALS",
-  "subtitle": "THURSDAY EASE. SHORT BURSTS. ALL SEATED.",
-  "durationMin": 10,
+  "date": "2026-09-11",
+  "title": "EASY ARMS & GENTLE CORE",
+  "subtitle": "FRIDAY EASE. LIGHT ARMS. SOFT CORE.",
+  "durationMin": 11,
   "voice": {
     "lang": "en-GB",
     "preferredNames": [
@@ -17,30 +17,30 @@
     "rate": 0.9,
     "volume": 1,
     "script": {
-      "welcome": "Hello Pam. I'm Stratton. Thursday is light seated intervals — short, gentle bursts from the chair, nothing fierce. About ten minutes. If a joint is sore, take a smaller range. Showing up is the win.",
+      "welcome": "Hello Pam. I'm Stratton. Friday is easy arms and a soft bit of core — a small break from the desk, nothing fierce. About eleven minutes. If a joint is sore, take a smaller range. Showing up is the win.",
       "start": "Whenever you're ready. Easy breath. This is meant to feel doable.",
-      "nextExercise": "Next one. Stay seated if you like. No rush.",
+      "nextExercise": "Next one. Shake it out if you like. No rush.",
       "nextSet": "Same again. Nice and controlled.",
       "setDone": "That's the set. Well done.",
       "rest": "Have a little rest. Breathe easy.",
       "lastSet": "Last set. Make it comfortable and clean.",
-      "complete": "That's us. Lovely work. Light intervals done, and you showed up. Enjoy your day — see you tomorrow.",
+      "complete": "That's us. Lovely work. Light arms, a gentle core, and you showed up. Enjoy your day — see you tomorrow.",
       "pause": "Paused. No rush at all.",
       "resume": "Back with you. Easy as we go."
     }
   },
   "exercises": [
     {
-      "id": "seated-knee-lifts",
-      "name": "SEATED KNEE LIFTS",
-      "image": "/images/exercises/stratton-seated-knee-lifts.jpg",
+      "id": "wall-pushups",
+      "name": "WALL PUSH-UPS",
+      "image": "/images/exercises/stratton-wall-pushups.jpg",
       "sets": 2,
-      "reps": "8 / leg",
-      "restSec": 20,
-      "cue": "Sit tall near the front of a sturdy chair. Lift one knee gently, then lower with control. Alternate sides like a soft march. Soft ankle, soft hip — only a comfortable height. Smaller lift is perfect on a sore day.",
-      "speakStart": "Seated knee lifts. Two sets of eight per leg. Sit tall, lift one knee softly, lower with control. Alternate like a gentle march. Keep it easy.",
-      "speakRest": "Twenty seconds. Stay seated. Soften the hips.",
-      "speakDone": "Knee lifts done. Nicely done."
+      "reps": "6",
+      "restSec": 25,
+      "cue": "Hands on the wall at shoulder height, feet a comfortable step back. Keep a long straight line from head to heels. Softly bring the chest toward the wall, then press away. Standing only — no floor. Smaller range is fine on a sore day.",
+      "speakStart": "Wall push ups. Two sets of six. Hands on the wall, long straight body, chest in and press away. Stay on your feet. Keep it easy.",
+      "speakRest": "Twenty five seconds. Shake the arms. Easy breath.",
+      "speakDone": "Wall push ups done. Nicely done."
     },
     {
       "id": "seated-overhead-press",
@@ -48,10 +48,10 @@
       "image": "/images/exercises/stratton-seated-overhead-press.jpg",
       "sets": 2,
       "reps": "8",
-      "restSec": 20,
+      "restSec": 25,
       "cue": "Sit tall. Light weights or empty hands at shoulder height. Press gently overhead only as far as feels kind, then lower with control. Soft ribs, soft neck. Smaller range is fine on a sore day.",
       "speakStart": "Seated overhead press. Two sets of eight. Sit tall, press softly overhead only as far as feels kind, then lower with control. Easy on the shoulders.",
-      "speakRest": "Twenty seconds. Stay seated. Easy breath.",
+      "speakRest": "Twenty five seconds. Stay seated. Soften the shoulders.",
       "speakDone": "Presses done. Steady work."
     },
     {
@@ -60,23 +60,23 @@
       "image": "/images/exercises/stratton-seated-row.jpg",
       "sets": 2,
       "reps": "8",
-      "restSec": 20,
+      "restSec": 25,
       "cue": "Sit tall. Light weights or empty hands. Draw elbows back as if rowing, squeeze the shoulder blades gently, then release. Soft on the neck. Stay seated the whole way. Smaller range is fine on a sore day.",
       "speakStart": "Seated row. Two sets of eight. Sit tall, draw the elbows back softly, squeeze the shoulder blades, then release. Easy on the neck.",
-      "speakRest": "Twenty seconds. Stay seated. Soften the shoulders.",
+      "speakRest": "Twenty five seconds. Stay seated. Easy breath.",
       "speakDone": "Rows done. Well done."
     },
     {
-      "id": "seated-forward-reach",
-      "name": "SEATED FORWARD REACH",
-      "image": "/images/exercises/stratton-seated-forward-reach.jpg",
+      "id": "seated-knee-lifts",
+      "name": "SEATED KNEE LIFTS",
+      "image": "/images/exercises/stratton-seated-knee-lifts.jpg",
       "sets": 2,
-      "reps": "20s",
-      "restSec": 15,
-      "cue": "Sit tall on the chair. Hinge gently from the hips with a long spine. Reach toward your shins — stop well short of pain. Breathe into the back of the legs. Smaller range is perfect on a sore day.",
-      "speakStart": "Seated forward reach. Two holds of twenty seconds. Sit tall, hinge softly from the hips, long spine. Only as far as feels kind.",
-      "speakRest": "Fifteen seconds. Sit upright and breathe.",
-      "speakDone": "Forward reach done. That's the session — lovely work."
+      "reps": "8 / leg",
+      "restSec": 20,
+      "cue": "Sit tall near the front of a sturdy chair. Soft belly. Lift one knee gently, then lower with control. Alternate sides. Soft ankle, soft hip — only a comfortable height. This is your gentle core. Smaller lift is perfect on a sore day.",
+      "speakStart": "Seated knee lifts for a soft core. Two sets of eight per leg. Sit tall, soft belly, lift one knee gently, lower with control. Alternate. Keep it easy.",
+      "speakRest": "Twenty seconds. Stay seated. Soften the hips.",
+      "speakDone": "Knee lifts done. That's the session — lovely work."
     }
   ]
 }
