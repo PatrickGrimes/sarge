@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-11",
-  "title": "HARD KNUCKLES",
-  "subtitle": "FRIDAY ARMS AND CORE. OFFICE SCALE. CLEAN LOCKOUTS. OWN THE WOBBLE.",
+  "date": "2026-09-12",
+  "title": "EASY TICKER",
+  "subtitle": "SATURDAY EASY CARDIO. TIMED. OFFICE SCALE. KEEP THE PACE HONEST.",
   "durationMin": 15,
   "voice": {
     "lang": "en-GB",
@@ -16,54 +16,30 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. FRIDAY. HARD KNUCKLES. FIFTEEN MINUTES. ARMS AND CORE. THAT CHAIR IS NOT YOUR SANCTUARY, YOU LAZY SOD.",
+      "welcome": "ON YOUR FEET. SATURDAY. EASY TICKER. FIFTEEN MINUTES. EASY CARDIO. TIMED. NO HIDING BEHIND THE WEEKEND, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. HARD KNUCKLES DONE. ARMS HONEST. CORE QUIET. SEE YOU TOMORROW.",
+      "complete": "DISMISSED. EASY TICKER DONE. HEART HONEST. LEGS QUIET. ENJOY THE WEEKEND, YOU EARNED A BIT OF IT.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
   },
   "exercises": [
     {
-      "id": "pushups",
-      "name": "INCLINE PUSH-UPS",
-      "image": "/images/exercises/briggs-pushups.jpg",
+      "id": "glute-bridge",
+      "name": "GLUTE BRIDGE",
+      "image": "/images/exercises/glute-bridge.jpg",
       "sets": 2,
       "reps": "8",
-      "restSec": 30,
-      "cue": "HANDS ON ABOUT THE FIFTH STAIR. CHEST TO THE EDGE. LOCK OUT CLEAN. KNEES LEGAL IF YOU MUST.",
-      "speakStart": "INCLINE PUSH UPS. TWO SETS OF EIGHT. FIFTH STAIR. CHEST IN. LOCK OUT. KNEES IF YOU MUST, YOU DESK JOCKEY. THIS IS YOUR ARMS WORK. NO HALF REPS.",
-      "speakRest": "THIRTY. SHAKE THE ARMS. DO NOT LIE DOWN.",
-      "speakDone": "PUSH UPS COMPLETE."
-    },
-    {
-      "id": "row",
-      "name": "STANDING SCAPULAR ROW",
-      "image": "/images/exercises/row.jpg",
-      "sets": 2,
-      "reps": "10",
       "restSec": 25,
-      "cue": "ARMS FORWARD, PINCH SHOULDER BLADES BACK AND DOWN. CHEST UP. THIS IS YOUR POSTURE DRILL. SLOW AND CLEAN.",
-      "speakStart": "STANDING SCAPULAR ROWS. TWO SETS OF TEN. PINCH THE BLADES BACK AND DOWN. CHEST UP. THIS IS YOUR POSTURE DRILL. FIX THE DESK HUNCH. NO SHRUGS, YOU SLOPPY BUGGER.",
-      "speakRest": "TWENTY FIVE. KEEP THE SHOULDERS QUIET.",
-      "speakDone": "ROWS DONE."
-    },
-    {
-      "id": "dead-bug",
-      "name": "DEAD BUG",
-      "image": "/images/exercises/briggs-dead-bug.jpg",
-      "sets": 2,
-      "reps": "6 / side",
-      "restSec": 30,
-      "cue": "BACK FLAT ON THE FLOOR. OPPOSITE ARM AND LEG REACH. RIBS DOWN. SLOW AND HONEST. NO ARCHING.",
-      "speakStart": "DEAD BUG. TWO SETS. SIX EACH SIDE. BACK FLAT. OPPOSITE ARM AND LEG. RIBS DOWN. THIS IS YOUR CORE. DO NOT ARCH LIKE A LAZY HAMMOCK.",
-      "speakRest": "THIRTY. KEEP THE BELLY QUIET.",
-      "speakDone": "DEAD BUGS DONE."
+      "cue": "ON YOUR BACK. FEET FLAT. SQUEEZE THE GLUTES AND LIFT SLOW. HOLD A BEAT AT THE TOP. THIS IS YOUR STRETCH AND HIP OPENER. NO RUSHING.",
+      "speakStart": "GLUTE BRIDGES. TWO SETS OF EIGHT. SLOW UP. SQUEEZE. HOLD A BEAT. THIS IS YOUR STRETCH WORK. OPEN THE HIPS AFTER THAT DESK. DO NOT BOUNCE LIKE A LAZY TRAMPOLINE.",
+      "speakRest": "TWENTY FIVE. KEEP THE HIPS LOOSE.",
+      "speakDone": "BRIDGES DONE."
     },
     {
       "id": "reverse-lunge",
@@ -78,16 +54,40 @@
       "speakDone": "LUNGES DONE."
     },
     {
+      "id": "step-up",
+      "name": "STEP-UPS",
+      "image": "/images/exercises/briggs-step-up.jpg",
+      "sets": 2,
+      "reps": "40s",
+      "restSec": 30,
+      "cue": "FIFTH STAIR IF IT IS STURDY, OR A LOW SOLID STEP. EASY CADENCE. FULL FOOT. STAND TALL AT THE TOP. THIS IS TIMED CARDIO, NOT A SPRINT.",
+      "speakStart": "STEP UPS. TWO ROUNDS. FORTY SECONDS. EASY CADENCE. FULL FOOT ON THE STEP. STAND TALL. THIS IS YOUR CARDIO TICKER. DO NOT RACE LIKE A HEADLESS CHICKEN.",
+      "speakRest": "THIRTY. SHAKE THE LEGS. KEEP BREATHING.",
+      "speakDone": "STEP UPS DONE."
+    },
+    {
       "id": "mountain-climbers",
       "name": "MOUNTAIN CLIMBERS",
       "image": "/images/exercises/briggs-mountain-climbers.jpg",
       "sets": 2,
       "reps": "20s",
       "restSec": 30,
-      "cue": "HANDS ON THE FLOOR OR A LOW STEP. HIPS LOW. STEADY DRIVE. ARMS AND CORE TOGETHER. DO NOT RUSH FORM.",
-      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS. TWENTY SECONDS. HIPS LOW. STEADY. ARMS BRACED. CORE WORKING. EMPTY A BIT OF THE TANK. MOVE.",
+      "cue": "HANDS ON THE FLOOR OR A LOW STEP. HIPS LOW. STEADY DRIVE. EASY CARDIO PACE. DO NOT RUSH FORM.",
+      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS. TWENTY SECONDS. HIPS LOW. STEADY. EASY CARDIO. EMPTY A BIT OF THE TANK WITHOUT LOOKING LIKE A PANICKED GOAT. MOVE.",
       "speakRest": "THIRTY. BREATHE. NEXT ONE COMES FAST.",
       "speakDone": "CLIMBERS DONE."
+    },
+    {
+      "id": "walking-lunge",
+      "name": "WALKING LUNGE",
+      "image": "/images/exercises/walking-lunge.jpg",
+      "sets": 2,
+      "reps": "6 / leg",
+      "restSec": 30,
+      "cue": "SHORT PATH IN THE ROOM OR HALL. STEP, DROP, STAND. HAND ON A WALL IF YOU NEED IT. EASY PACE. OWN EACH STEP.",
+      "speakStart": "WALKING LUNGES. TWO SETS. SIX EACH LEG. EASY PACE. STEP, DROP, STAND. WALL IF YOU NEED IT. THIS IS YOUR CARDIO LEGS. DO NOT SHUFFLE LIKE YOU ARE LATE FOR TEA.",
+      "speakRest": "THIRTY. FIND YOUR BALANCE.",
+      "speakDone": "WALKING LUNGES DONE."
     },
     {
       "id": "side-plank",
