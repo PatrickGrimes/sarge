@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-12",
-  "title": "EASY MOBILITY",
-  "subtitle": "SATURDAY EASE. SOFT REACHES. LIGHT BALANCE.",
+  "date": "2026-09-13",
+  "title": "SUNDAY STRETCH & BALANCE",
+  "subtitle": "SOFT STRETCHES. EASY BALANCE. GENTLE DAY.",
   "durationMin": 10,
   "voice": {
     "lang": "en-GB",
@@ -17,14 +17,14 @@
     "rate": 0.9,
     "volume": 1,
     "script": {
-      "welcome": "Hello Pam. I'm Stratton. Saturday is easy mobility — soft reaches, gentle lifts, and a bit of balance. About ten minutes. If a joint is sore, take a smaller range. Showing up is the win.",
+      "welcome": "Hello Pam. I'm Stratton. Sunday is soft stretch and easy balance — a gentle finish to the week. About ten minutes. If a joint is sore, take a smaller range. Showing up is the win.",
       "start": "Whenever you're ready. Easy breath. This is meant to feel doable.",
       "nextExercise": "Next one. Shake it out if you like. No rush.",
       "nextSet": "Same again. Nice and controlled.",
       "setDone": "That's the set. Well done.",
       "rest": "Have a little rest. Breathe easy.",
       "lastSet": "Last set. Make it comfortable and clean.",
-      "complete": "That's us. Lovely work. Soft mobility done, and you showed up. Enjoy your Saturday — see you tomorrow.",
+      "complete": "That's us. Lovely work. Soft stretches, a bit of balance, and you showed up. Enjoy your Sunday — see you tomorrow.",
       "pause": "Paused. No rush at all.",
       "resume": "Back with you. Easy as we go."
     }
@@ -43,28 +43,28 @@
       "speakDone": "Forward reaches done. Nicely done."
     },
     {
-      "id": "seated-knee-lifts",
-      "name": "SEATED KNEE LIFTS",
-      "image": "/images/exercises/stratton-seated-knee-lifts.jpg",
-      "sets": 2,
-      "reps": "8 / leg",
-      "restSec": 20,
-      "cue": "Sit tall near the front of a sturdy chair. Soft belly. Lift one knee gently, then lower with control. Alternate sides. Soft ankle, soft hip — only a comfortable height. Smaller lift is perfect on a sore day.",
-      "speakStart": "Seated knee lifts. Two sets of eight per leg. Sit tall, soft belly, lift one knee gently, lower with control. Alternate. Keep it easy.",
-      "speakRest": "Twenty seconds. Stay seated. Soften the hips.",
-      "speakDone": "Knee lifts done. Steady work."
-    },
-    {
       "id": "seated-overhead-press",
       "name": "SEATED OVERHEAD REACH",
       "image": "/images/exercises/stratton-seated-overhead-press.jpg",
       "sets": 2,
       "reps": "6",
-      "restSec": 25,
-      "cue": "Sit tall. Light weights or empty hands at shoulder height. Reach gently overhead only as far as feels kind, then lower with control. Soft ribs, soft neck. This is mobility, not a hard press. Smaller range is fine on a sore day.",
+      "restSec": 20,
+      "cue": "Sit tall. Empty hands or light weights at shoulder height. Reach gently overhead only as far as feels kind, then lower with control. Soft ribs, soft neck. This is a stretch, not a hard press. Smaller range is fine on a sore day.",
       "speakStart": "Seated overhead reach. Two sets of six. Sit tall, reach softly overhead only as far as feels kind, then lower with control. Easy on the shoulders.",
-      "speakRest": "Twenty five seconds. Stay seated. Soften the shoulders.",
-      "speakDone": "Overhead reaches done. Well done."
+      "speakRest": "Twenty seconds. Stay seated. Soften the shoulders.",
+      "speakDone": "Overhead reaches done. Steady work."
+    },
+    {
+      "id": "seated-row",
+      "name": "SEATED POSTURE OPEN",
+      "image": "/images/exercises/stratton-seated-row.jpg",
+      "sets": 2,
+      "reps": "6",
+      "restSec": 20,
+      "cue": "Sit tall. Empty hands or light weights. Softly open the chest and draw the elbows back as if rowing, squeeze the shoulder blades gently, then release. Soft on the neck. Stay seated. Smaller range is fine on a sore day.",
+      "speakStart": "Seated posture open. Two sets of six. Sit tall, open the chest softly, draw the elbows back, squeeze the shoulder blades, then release. Easy on the neck.",
+      "speakRest": "Twenty seconds. Stay seated. Easy breath.",
+      "speakDone": "Posture open done. Well done."
     },
     {
       "id": "chair-balance",
