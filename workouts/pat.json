@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-13",
-  "title": "SUNDAY LIMBER",
-  "subtitle": "SUNDAY MOBILITY. STILL BARKED. OPEN UP, OWN YOUR BALANCE, KEEP IT HONEST.",
+  "date": "2026-09-14",
+  "title": "MONDAY LEGS AND LUNGS",
+  "subtitle": "MONDAY. LEGS AND LUNGS. STAIRS, SQUATS, AND A BIT OF STEAM. FEEL IT. DO NOT BE SORE TOMORROW.",
   "durationMin": 15,
   "voice": {
     "lang": "en-GB",
@@ -16,14 +16,14 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. SUNDAY. SUNDAY LIMBER. FIFTEEN MINUTES. MOBILITY DAY. STILL BARKED. OPEN THE HIPS, OWN THE BALANCE, AND DO NOT HIDE BEHIND THE WEEKEND, YOU LAZY SOD.",
+      "welcome": "ON YOUR FEET. MONDAY. MONDAY LEGS AND LUNGS. FIFTEEN MINUTES. OPEN THE HIPS, OWN THE BALANCE, WAKE THE LEGS, AND GET SOME AIR IN THOSE DESK LUNGS. DO NOT HIDE BEHIND THE KEYBOARD, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. SUNDAY LIMBER DONE. HIPS OPEN. BALANCE HONEST. ENJOY THE REST OF THE DAY, YOU EARNED A BIT OF IT.",
+      "complete": "DISMISSED. MONDAY LEGS AND LUNGS DONE. LEGS HONEST. LUNGS AWAKE. NOW GET BACK TO THAT DESK AND EARN YOUR KEEP.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
@@ -42,28 +42,16 @@
       "speakDone": "BRIDGES DONE."
     },
     {
-      "id": "dead-bug",
-      "name": "DEAD BUG",
-      "image": "/images/exercises/briggs-dead-bug.jpg",
+      "id": "step-up",
+      "name": "STEP-UP",
+      "image": "/images/exercises/briggs-step-up.jpg",
       "sets": 2,
-      "reps": "6 / side",
-      "restSec": 25,
-      "cue": "BACK FLAT. RIBS DOWN. OPPOSITE ARM AND LEG REACH SLOW. CONTROL EVERY INCH. CORE STAYS QUIET AND HONEST.",
-      "speakStart": "DEAD BUGS. TWO SETS. SIX EACH SIDE. SLOW AND CONTROLLED. BACK FLAT. THIS IS YOUR CONTROLLED STRENGTH. DO NOT FLOP ABOUT LIKE A BEACHED HADDOCK.",
-      "speakRest": "TWENTY FIVE. KEEP THE CORE QUIET.",
-      "speakDone": "DEAD BUGS DONE."
-    },
-    {
-      "id": "reverse-lunge",
-      "name": "REVERSE LUNGE",
-      "image": "/images/exercises/briggs-reverse-lunge.jpg",
-      "sets": 2,
-      "reps": "5 / leg",
+      "reps": "6 / leg",
       "restSec": 30,
-      "cue": "LONG STEP BACK. FRONT KNEE TRACKS THE TOE. LIGHT HAND ON A CHAIR FOR BALANCE. OWN THE WOBBLE.",
-      "speakStart": "REVERSE LUNGES. TWO SETS. FIVE EACH LEG. CONTROL THE DROP. CHAIR FOR BALANCE. THIS IS YOUR BALANCE WORK. DO NOT TIP OVER LIKE A DRUNK ON PARADE.",
+      "cue": "USE A STURDY STAIR OR LOW STEP. DRIVE THROUGH THE HEEL. STAND TALL AT THE TOP. LIGHT HAND ON A RAIL OR WALL IF YOU NEED IT. OWN THE BALANCE.",
+      "speakStart": "STEP UPS. TWO SETS. SIX EACH LEG. DRIVE THROUGH THE HEEL. STAND TALL. THIS IS YOUR BALANCE WORK. DO NOT WOBBLE ABOUT LIKE A NEWBORN GIRAFFE.",
       "speakRest": "THIRTY. FIND YOUR FEET.",
-      "speakDone": "LUNGES DONE."
+      "speakDone": "STEP UPS DONE."
     },
     {
       "id": "squat",
@@ -78,28 +66,28 @@
       "speakDone": "SQUATS DONE."
     },
     {
-      "id": "row",
-      "name": "CHAIR ROW",
-      "image": "/images/exercises/row.jpg",
+      "id": "walking-lunge",
+      "name": "WALKING LUNGE",
+      "image": "/images/exercises/walking-lunge.jpg",
       "sets": 2,
-      "reps": "10",
-      "restSec": 25,
-      "cue": "HINGE AT THE HIPS. PULL ELBOWS BACK AS IF ROWING A HEAVY OAR. SQUEEZE THE SHOULDER BLADES. DESK POSTURE FIX.",
-      "speakStart": "CHAIR ROWS. TWO SETS OF TEN. HINGE. PULL. SQUEEZE THE BLADES. THIS IS YOUR POSTURE STRENGTH. UNDO THAT DESK HUNCH, YOU SLOUCHING BASTARD.",
-      "speakRest": "TWENTY FIVE. STAND TALL.",
-      "speakDone": "ROWS DONE."
+      "reps": "6 / leg",
+      "restSec": 30,
+      "cue": "LONG STEPS. FRONT KNEE TRACKS THE TOE. CHEST UP. CONTROL THE DROP. OFFICE AISLE OR OPEN FLOOR. NO RUSHING.",
+      "speakStart": "WALKING LUNGES. TWO SETS. SIX EACH LEG. LONG STEPS. CHEST UP. CONTROL THE DROP. THIS IS YOUR LEG STRENGTH. DO NOT SHUFFLE LIKE YOU ARE LATE FOR TEA.",
+      "speakRest": "THIRTY. KEEP MOVING LIGHT.",
+      "speakDone": "WALKING LUNGES DONE."
     },
     {
-      "id": "side-plank",
-      "name": "SIDE PLANK",
-      "image": "/images/exercises/briggs-side-plank.jpg",
+      "id": "mountain-climbers",
+      "name": "MOUNTAIN CLIMBERS",
+      "image": "/images/exercises/briggs-mountain-climbers.jpg",
       "sets": 2,
-      "reps": "5s / side",
-      "restSec": 25,
-      "cue": "HIPS HIGH. DROP THE BOTTOM KNEE. FIVE SECONDS ONLY. BUILD TOWARD TWENTY LATER. NO SAG.",
-      "speakStart": "SIDE PLANK. TWO HOLDS. FIVE SECONDS EACH SIDE. KNEE DOWN IS LEGAL. HIPS UP. SHORT AND HONEST. WE ARE BUILDING TOWARD TWENTY. NO SAGGING.",
-      "speakRest": "TWENTY FIVE. SWITCH SIDES CLEAN.",
-      "speakDone": "SIDE PLANKS DONE. THAT IS THE LOT."
+      "reps": "30s",
+      "restSec": 30,
+      "cue": "HANDS UNDER SHOULDERS. HIPS LEVEL. DRIVE THE KNEES IN STEADY RHYTHM. BREATHE. THIS IS YOUR LUNG WORK. STEADY, NOT CHAOS.",
+      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS OF THIRTY SECONDS. HANDS UNDER SHOULDERS. HIPS LEVEL. STEADY RHYTHM. THIS IS YOUR LUNG WORK. DO NOT FLOP LIKE A PANICKED HADDOCK.",
+      "speakRest": "THIRTY. GET YOUR BREATH BACK.",
+      "speakDone": "MOUNTAIN CLIMBERS DONE. THAT IS THE LOT."
     }
   ]
 }
