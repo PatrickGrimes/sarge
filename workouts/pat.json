@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-14",
-  "title": "MONDAY LEGS AND LUNGS",
-  "subtitle": "MONDAY. LEGS AND LUNGS. STAIRS, SQUATS, AND A BIT OF STEAM. FEEL IT. DO NOT BE SORE TOMORROW.",
+  "date": "2026-09-15",
+  "title": "TUESDAY PUSH AND CORE",
+  "subtitle": "TUESDAY. PUSH AND CORE. FIFTH STAIR PUSH UPS, SHORT SIDE PLANKS, AND HONEST CORE. FEEL IT. DO NOT BE SORE TOMORROW.",
   "durationMin": 15,
   "voice": {
     "lang": "en-GB",
@@ -16,78 +16,78 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. MONDAY. MONDAY LEGS AND LUNGS. FIFTEEN MINUTES. OPEN THE HIPS, OWN THE BALANCE, WAKE THE LEGS, AND GET SOME AIR IN THOSE DESK LUNGS. DO NOT HIDE BEHIND THE KEYBOARD, YOU LAZY SOD.",
+      "welcome": "ON YOUR FEET. TUESDAY. TUESDAY PUSH AND CORE. FIFTEEN MINUTES. OPEN THE SHOULDERS, OWN THE BALANCE, HIT THE FIFTH STAIR, AND WAKE THAT DESK CORE. DO NOT HIDE BEHIND THE KEYBOARD, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. MONDAY LEGS AND LUNGS DONE. LEGS HONEST. LUNGS AWAKE. NOW GET BACK TO THAT DESK AND EARN YOUR KEEP.",
+      "complete": "DISMISSED. TUESDAY PUSH AND CORE DONE. CHEST HONEST. CORE AWAKE. NOW GET BACK TO THAT DESK AND EARN YOUR KEEP.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
   },
   "exercises": [
     {
-      "id": "glute-bridge",
-      "name": "GLUTE BRIDGE",
-      "image": "/images/exercises/glute-bridge.jpg",
+      "id": "row",
+      "name": "SCAPULAR ROW",
+      "image": "/images/exercises/row.jpg",
       "sets": 2,
       "reps": "8",
       "restSec": 25,
-      "cue": "ON YOUR BACK. FEET FLAT. SQUEEZE THE GLUTES AND LIFT SLOW. HOLD A BEAT AT THE TOP. THIS IS YOUR STRETCH AND HIP OPENER. NO RUSHING.",
-      "speakStart": "GLUTE BRIDGES. TWO SETS OF EIGHT. SLOW UP. SQUEEZE. HOLD A BEAT. THIS IS YOUR STRETCH WORK. OPEN THE HIPS AFTER THAT DESK. DO NOT BOUNCE LIKE A LAZY TRAMPOLINE.",
-      "speakRest": "TWENTY FIVE. KEEP THE HIPS LOOSE.",
-      "speakDone": "BRIDGES DONE."
+      "cue": "STAND TALL OR HINGE LIGHT. PULL THE SHOULDER BLADES BACK AND DOWN SLOW. HOLD A BEAT. THIS IS YOUR STRETCH AND POSTURE OPENER. NO YANKING.",
+      "speakStart": "SCAPULAR ROWS. TWO SETS OF EIGHT. PULL THE SHOULDER BLADES BACK AND DOWN. HOLD A BEAT. THIS IS YOUR STRETCH WORK. OPEN THE POSTURE AFTER THAT DESK. DO NOT YANK LIKE YOU ARE STARTING A LAWNMOWER.",
+      "speakRest": "TWENTY FIVE. KEEP THE SHOULDERS LOOSE.",
+      "speakDone": "ROWS DONE."
     },
     {
-      "id": "step-up",
-      "name": "STEP-UP",
-      "image": "/images/exercises/briggs-step-up.jpg",
+      "id": "reverse-lunge",
+      "name": "REVERSE LUNGE",
+      "image": "/images/exercises/briggs-reverse-lunge.jpg",
       "sets": 2,
       "reps": "6 / leg",
       "restSec": 30,
-      "cue": "USE A STURDY STAIR OR LOW STEP. DRIVE THROUGH THE HEEL. STAND TALL AT THE TOP. LIGHT HAND ON A RAIL OR WALL IF YOU NEED IT. OWN THE BALANCE.",
-      "speakStart": "STEP UPS. TWO SETS. SIX EACH LEG. DRIVE THROUGH THE HEEL. STAND TALL. THIS IS YOUR BALANCE WORK. DO NOT WOBBLE ABOUT LIKE A NEWBORN GIRAFFE.",
+      "cue": "STEP BACK. FRONT KNEE TRACKS THE TOE. CHEST UP. LIGHT HAND ON A CHAIR IF YOU NEED IT. OWN THE BALANCE.",
+      "speakStart": "REVERSE LUNGES. TWO SETS. SIX EACH LEG. STEP BACK. CHEST UP. THIS IS YOUR BALANCE WORK. DO NOT WOBBLE ABOUT LIKE A BLOODY WEATHERVANE.",
       "speakRest": "THIRTY. FIND YOUR FEET.",
-      "speakDone": "STEP UPS DONE."
+      "speakDone": "REVERSE LUNGES DONE."
     },
     {
-      "id": "squat",
-      "name": "BODYWEIGHT SQUAT",
-      "image": "/images/exercises/squat.jpg",
+      "id": "pushups",
+      "name": "INCLINE PUSH-UP (5TH STAIR)",
+      "image": "/images/exercises/briggs-pushups.jpg",
       "sets": 2,
-      "reps": "10",
-      "restSec": 30,
-      "cue": "FEET SHOULDER WIDTH. SIT BACK. CHEST UP. HEELS DOWN. STAND TALL AT THE TOP. SMOOTH AND HONEST.",
-      "speakStart": "SQUATS. TWO SETS OF TEN. SIT BACK. CHEST UP. HEELS DOWN. THIS IS YOUR LEG STRENGTH. DO NOT HALF-SQUAT LIKE YOU ARE SCARED OF THE CARPET.",
-      "speakRest": "THIRTY. SHAKE THE LEGS.",
-      "speakDone": "SQUATS DONE."
+      "reps": "8",
+      "restSec": 35,
+      "cue": "HANDS ON THE FIFTH STAIR. BODY STRAIGHT. CHEST TO THE STEP. FULL RANGE. SMOOTH AND HONEST. DO NOT DROP THE STEP UNTIL THIS HEIGHT IS EASY.",
+      "speakStart": "INCLINE PUSH UPS. FIFTH STAIR. TWO SETS OF EIGHT. BODY STRAIGHT. CHEST TO THE STEP. THIS IS YOUR PUSH WORK. DO NOT CHEAT THE RANGE LIKE A LAZY SOD DODGING PARADE.",
+      "speakRest": "THIRTY FIVE. SHAKE THE ARMS.",
+      "speakDone": "PUSH UPS DONE."
     },
     {
-      "id": "walking-lunge",
-      "name": "WALKING LUNGE",
-      "image": "/images/exercises/walking-lunge.jpg",
+      "id": "side-plank",
+      "name": "SIDE PLANK",
+      "image": "/images/exercises/briggs-side-plank.jpg",
       "sets": 2,
-      "reps": "6 / leg",
-      "restSec": 30,
-      "cue": "LONG STEPS. FRONT KNEE TRACKS THE TOE. CHEST UP. CONTROL THE DROP. OFFICE AISLE OR OPEN FLOOR. NO RUSHING.",
-      "speakStart": "WALKING LUNGES. TWO SETS. SIX EACH LEG. LONG STEPS. CHEST UP. CONTROL THE DROP. THIS IS YOUR LEG STRENGTH. DO NOT SHUFFLE LIKE YOU ARE LATE FOR TEA.",
-      "speakRest": "THIRTY. KEEP MOVING LIGHT.",
-      "speakDone": "WALKING LUNGES DONE."
+      "reps": "5s / side",
+      "restSec": 25,
+      "cue": "ON YOUR SIDE. KNEE DOWN IS LEGAL. HIPS UP. FIVE SECONDS EACH SIDE. SHORT AND CLEAN. BUILD TOWARD TWENTY LATER. DO NOT FORCE IT.",
+      "speakStart": "SIDE PLANKS. TWO ROUNDS. FIVE SECONDS EACH SIDE. KNEE DOWN IS LEGAL. HIPS UP. SHORT AND CLEAN. THIS IS YOUR CORE WORK. DO NOT COLLAPSE LIKE A WET TENT.",
+      "speakRest": "TWENTY FIVE. SWITCH SIDES CLEAN.",
+      "speakDone": "SIDE PLANKS DONE."
     },
     {
-      "id": "mountain-climbers",
-      "name": "MOUNTAIN CLIMBERS",
-      "image": "/images/exercises/briggs-mountain-climbers.jpg",
+      "id": "dead-bug",
+      "name": "DEAD BUG",
+      "image": "/images/exercises/briggs-dead-bug.jpg",
       "sets": 2,
-      "reps": "30s",
-      "restSec": 30,
-      "cue": "HANDS UNDER SHOULDERS. HIPS LEVEL. DRIVE THE KNEES IN STEADY RHYTHM. BREATHE. THIS IS YOUR LUNG WORK. STEADY, NOT CHAOS.",
-      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS OF THIRTY SECONDS. HANDS UNDER SHOULDERS. HIPS LEVEL. STEADY RHYTHM. THIS IS YOUR LUNG WORK. DO NOT FLOP LIKE A PANICKED HADDOCK.",
-      "speakRest": "THIRTY. GET YOUR BREATH BACK.",
-      "speakDone": "MOUNTAIN CLIMBERS DONE. THAT IS THE LOT."
+      "reps": "6 / side",
+      "restSec": 25,
+      "cue": "ON YOUR BACK. LOW BACK PRESSED DOWN. OPPOSITE ARM AND LEG REACH SLOW. BREATHE. CONTROL BEATS SPEED.",
+      "speakStart": "DEAD BUGS. TWO SETS. SIX EACH SIDE. LOW BACK DOWN. OPPOSITE ARM AND LEG. SLOW. THIS IS YOUR CORE WORK. DO NOT FLOP LIKE A PANICKED BEETLE.",
+      "speakRest": "TWENTY FIVE. KEEP THE CORE QUIET.",
+      "speakDone": "DEAD BUGS DONE. THAT IS THE LOT."
     }
   ]
 }
