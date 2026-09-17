@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-16",
-  "title": "POSTERIOR & STRETCH",
-  "subtitle": "WEDNESDAY EASE. SOFT BACK. GENTLE REACH.",
+  "date": "2026-09-17",
+  "title": "LIGHT SEATED INTERVALS",
+  "subtitle": "THURSDAY EASE. SHORT BURSTS. SOFT RESTS.",
   "durationMin": 11,
   "voice": {
     "lang": "en-GB",
@@ -17,19 +17,43 @@
     "rate": 0.9,
     "volume": 1,
     "script": {
-      "welcome": "Hello Pam. I'm Stratton. Wednesday is soft posterior work and a gentle stretch — a small break from the desk, nothing fierce. About eleven minutes. If a joint is sore, take a smaller range. Showing up is the win.",
+      "welcome": "Hello Pam. I'm Stratton. Thursday is light seated intervals — short easy bursts with soft rests, a small break from the desk. About eleven minutes. If a joint is sore, take a smaller range. Showing up is the win.",
       "start": "Whenever you're ready. Easy breath. This is meant to feel doable.",
       "nextExercise": "Next one. Shake it out if you like. No rush.",
       "nextSet": "Same again. Nice and controlled.",
       "setDone": "That's the set. Well done.",
       "rest": "Have a little rest. Breathe easy.",
       "lastSet": "Last set. Make it comfortable and clean.",
-      "complete": "That's us. Lovely work. Soft back, a gentle stretch, and you showed up. Enjoy your day — see you tomorrow.",
+      "complete": "That's us. Lovely work. Light intervals, soft rests, and you showed up. Enjoy your day — see you tomorrow.",
       "pause": "Paused. No rush at all.",
       "resume": "Back with you. Easy as we go."
     }
   },
   "exercises": [
+    {
+      "id": "seated-knee-lifts",
+      "name": "SEATED KNEE LIFTS",
+      "image": "/images/exercises/stratton-seated-knee-lifts.jpg",
+      "sets": 2,
+      "reps": "6 / leg",
+      "restSec": 25,
+      "cue": "Sit tall near the front of a sturdy chair, feet flat. Soft belly. Lift one knee a little, then lower with control. Alternate sides like a gentle march. Keep the range small and kind. Hold the chair lightly if you like. Smaller lift is fine on a sore day.",
+      "speakStart": "Seated knee lifts. Two sets of six each leg. Sit tall, soft belly, lift one knee a little, then lower. Keep it small and kind.",
+      "speakRest": "Twenty five seconds. Easy breath. Soften the hips.",
+      "speakDone": "Knee lifts done. Nicely done."
+    },
+    {
+      "id": "seated-overhead-press",
+      "name": "SEATED OVERHEAD PRESS",
+      "image": "/images/exercises/stratton-seated-overhead-press.jpg",
+      "sets": 2,
+      "reps": "6",
+      "restSec": 25,
+      "cue": "Sit tall near the front of a sturdy chair. Soft belly. Light hand weights optional — empty hands are fine. Start with hands at about shoulder height and press gently upward only as high as feels kind, then lower with control. Soft on the shoulders and neck. Smaller range is perfect on a sore day.",
+      "speakStart": "Seated overhead press. Two sets of six. Sit tall, soft belly, press gently upward only as high as feels kind, then lower. Empty hands are fine.",
+      "speakRest": "Twenty five seconds. Soften the shoulders.",
+      "speakDone": "Overhead press done. Steady work."
+    },
     {
       "id": "seated-row",
       "name": "SEATED ROW",
@@ -41,30 +65,6 @@
       "speakStart": "Seated row. Two sets of eight. Sit tall, soft belly, draw the elbows gently back, then ease forward. Soft on the neck.",
       "speakRest": "Twenty five seconds. Soften the upper back.",
       "speakDone": "Rows done. Well done."
-    },
-    {
-      "id": "seated-forward-reach",
-      "name": "SEATED FORWARD REACH",
-      "image": "/images/exercises/stratton-seated-forward-reach.jpg",
-      "sets": 2,
-      "reps": "20s",
-      "restSec": 20,
-      "cue": "Sit tall near the front of a sturdy chair, feet flat. Soft belly. Hinge gently from the hips and reach the hands toward the floor or shins, only as far as feels kind. Soften the neck. Hold about twenty seconds with easy breath, then sit tall again. Smaller reach is perfect on a sore day.",
-      "speakStart": "Seated forward reach. Two holds of about twenty seconds. Soft hinge from the hips, reach only as far as feels kind. Easy breath.",
-      "speakRest": "Twenty seconds. Sit tall. Soften the back.",
-      "speakDone": "Forward reach done. Nicely done."
-    },
-    {
-      "id": "seated-knee-lifts",
-      "name": "SEATED KNEE LIFTS",
-      "image": "/images/exercises/stratton-seated-knee-lifts.jpg",
-      "sets": 2,
-      "reps": "6 / leg",
-      "restSec": 25,
-      "cue": "Sit tall near the front of a sturdy chair, feet flat. Soft belly. Lift one knee a little, then lower with control. Alternate sides. Keep the range small and kind. Hold the chair lightly if you like. Smaller lift is fine on a sore day.",
-      "speakStart": "Seated knee lifts. Two sets of six each leg. Sit tall, soft belly, lift one knee a little, then lower. Keep it small and kind.",
-      "speakRest": "Twenty five seconds. Easy breath.",
-      "speakDone": "Knee lifts done. Steady work."
     },
     {
       "id": "chair-balance",
