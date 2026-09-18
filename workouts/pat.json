@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-17",
-  "title": "THURSDAY INTERVALS",
-  "subtitle": "THURSDAY. INTERVALS. SHORT BURSTS, HONEST RESTS. STAIRS, FLOOR, AND CORE. FEEL IT. DO NOT BE SORE TOMORROW.",
+  "date": "2026-09-18",
+  "title": "FRIDAY ARMS + CORE",
+  "subtitle": "FRIDAY. ARMS AND CORE. OPEN THE BACK, OWN THE BALANCE, THEN PRESS AND HOLD HONEST. FEEL IT. DO NOT BE SORE TOMORROW.",
   "durationMin": 15,
   "voice": {
     "lang": "en-GB",
@@ -16,14 +16,14 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. THURSDAY. THURSDAY INTERVALS. FIFTEEN MINUTES. SHORT BURSTS, HONEST RESTS. OPEN THE BACK, OWN THE STAIRS, THEN HIT THE INTERVALS. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
+      "welcome": "ON YOUR FEET. FRIDAY. FRIDAY ARMS AND CORE. FIFTEEN MINUTES. OPEN THE BACK, OWN THE BALANCE, THEN PRESS AND HOLD HONEST. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. THURSDAY INTERVALS DONE. HEART HONEST. CORE AWAKE. NOW GET BACK TO THAT DESK AND EARN YOUR KEEP.",
+      "complete": "DISMISSED. FRIDAY ARMS AND CORE DONE. PRESS HONEST. CORE AWAKE. NOW GET BACK TO THAT DESK AND EARN YOUR KEEP.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
@@ -42,52 +42,52 @@
       "speakDone": "ROWS DONE."
     },
     {
-      "id": "step-up",
-      "name": "STEP-UP",
-      "image": "/images/exercises/briggs-step-up.jpg",
-      "sets": 2,
-      "reps": "6 / leg",
-      "restSec": 30,
-      "cue": "USE A LOW STAIR. DRIVE THROUGH THE WHOLE FOOT. STAND TALL AT THE TOP. LIGHT HAND ON THE RAIL IF YOU NEED IT. OWN THE BALANCE.",
-      "speakStart": "STEP UPS. TWO SETS. SIX EACH LEG. DRIVE THROUGH THE FOOT. STAND TALL AT THE TOP. THIS IS YOUR BALANCE WORK. DO NOT WOBBLE ABOUT LIKE A BLOODY WEATHERVANE.",
-      "speakRest": "THIRTY. FIND YOUR FEET.",
-      "speakDone": "STEP UPS DONE."
-    },
-    {
-      "id": "mountain-climbers",
-      "name": "MOUNTAIN CLIMBERS",
-      "image": "/images/exercises/briggs-mountain-climbers.jpg",
-      "sets": 3,
-      "reps": "20 sec",
-      "restSec": 30,
-      "cue": "HANDS UNDER SHOULDERS. HIPS LEVEL. DRIVE THE KNEES IN CLEAN BURSTS. STEADY BREATH. THIS IS YOUR INTERVAL ENGINE. QUALITY BEATS SPEED.",
-      "speakStart": "MOUNTAIN CLIMBERS. THREE ROUNDS. TWENTY SECONDS EACH. HANDS SET. HIPS LEVEL. DRIVE THE KNEES. THIS IS YOUR INTERVAL WORK. DO NOT FLOP ABOUT LIKE A PANICKED SPIDER.",
-      "speakRest": "THIRTY. CATCH YOUR BREATH. EYES ON YOU.",
-      "speakDone": "MOUNTAIN CLIMBERS DONE."
-    },
-    {
-      "id": "pushups",
-      "name": "INCLINE PUSH-UP",
-      "image": "/images/exercises/briggs-pushups.jpg",
-      "sets": 2,
-      "reps": "8",
-      "restSec": 30,
-      "cue": "FIFTH STAIR. HANDS ON THE STEP. BODY STRAIGHT. LOWER WITH CONTROL. PRESS UP CLEAN. DO NOT DROP THE STEP.",
-      "speakStart": "INCLINE PUSH UPS. FIFTH STAIR. TWO SETS OF EIGHT. HANDS ON THE STEP. BODY STRAIGHT. LOWER WITH CONTROL. THIS IS YOUR PRESS INTERVAL. DO NOT CHEAT THE DEPTH, YOU LAZY SOD.",
-      "speakRest": "THIRTY. SHAKE THE ARMS.",
-      "speakDone": "PUSH UPS DONE."
-    },
-    {
       "id": "reverse-lunge",
       "name": "REVERSE LUNGE",
       "image": "/images/exercises/briggs-reverse-lunge.jpg",
       "sets": 2,
       "reps": "6 / leg",
       "restSec": 30,
-      "cue": "STEP BACK. FRONT KNEE TRACKS THE TOE. CHEST UP. FEEL THE BACK LEG AND GLUTE. LIGHT HAND ON A CHAIR IF YOU NEED IT.",
-      "speakStart": "REVERSE LUNGES. TWO SETS. SIX EACH LEG. STEP BACK. CHEST UP. FEEL THE GLUTE. THIS IS YOUR LEG INTERVAL. DO NOT COLLAPSE LIKE A WET TENT.",
-      "speakRest": "THIRTY. SHAKE THE LEGS.",
+      "cue": "STEP BACK. FRONT KNEE TRACKS THE TOE. CHEST UP. LIGHT HAND ON A CHAIR IF YOU NEED IT. OWN THE BALANCE.",
+      "speakStart": "REVERSE LUNGES. TWO SETS. SIX EACH LEG. STEP BACK. CHEST UP. THIS IS YOUR BALANCE WORK. DO NOT WOBBLE ABOUT LIKE A BLOODY WEATHERVANE.",
+      "speakRest": "THIRTY. FIND YOUR FEET.",
       "speakDone": "REVERSE LUNGES DONE."
+    },
+    {
+      "id": "pushups",
+      "name": "INCLINE PUSH-UP",
+      "image": "/images/exercises/briggs-pushups.jpg",
+      "sets": 3,
+      "reps": "8",
+      "restSec": 30,
+      "cue": "FIFTH STAIR. HANDS ON THE STEP. BODY STRAIGHT. LOWER WITH CONTROL. PRESS UP CLEAN. DO NOT DROP THE STEP.",
+      "speakStart": "INCLINE PUSH UPS. FIFTH STAIR. THREE SETS OF EIGHT. HANDS ON THE STEP. BODY STRAIGHT. LOWER WITH CONTROL. THIS IS YOUR ARM WORK. DO NOT CHEAT THE DEPTH, YOU LAZY SOD.",
+      "speakRest": "THIRTY. SHAKE THE ARMS. EYES ON YOU.",
+      "speakDone": "PUSH UPS DONE."
+    },
+    {
+      "id": "dead-bug",
+      "name": "DEAD BUG",
+      "image": "/images/exercises/briggs-dead-bug.jpg",
+      "sets": 2,
+      "reps": "6 / side",
+      "restSec": 25,
+      "cue": "ON YOUR BACK. LOW BACK PRESSED DOWN. OPPOSITE ARM AND LEG REACH SLOW. BREATHE. CONTROL BEATS SPEED.",
+      "speakStart": "DEAD BUGS. TWO SETS. SIX EACH SIDE. LOW BACK DOWN. OPPOSITE ARM AND LEG. SLOW. THIS IS YOUR CORE WORK. DO NOT FLOP LIKE A PANICKED BEETLE.",
+      "speakRest": "TWENTY FIVE. KEEP THE CORE QUIET.",
+      "speakDone": "DEAD BUGS DONE."
+    },
+    {
+      "id": "mountain-climbers",
+      "name": "MOUNTAIN CLIMBERS",
+      "image": "/images/exercises/briggs-mountain-climbers.jpg",
+      "sets": 2,
+      "reps": "20 sec",
+      "restSec": 30,
+      "cue": "HANDS UNDER SHOULDERS. HIPS LEVEL. DRIVE THE KNEES IN CLEAN BURSTS. STEADY BREATH. ARMS AND CORE TOGETHER. QUALITY BEATS SPEED.",
+      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS. TWENTY SECONDS EACH. HANDS SET. HIPS LEVEL. DRIVE THE KNEES. THIS IS YOUR ARMS AND CORE WORK. DO NOT FLOP ABOUT LIKE A PANICKED SPIDER.",
+      "speakRest": "THIRTY. CATCH YOUR BREATH.",
+      "speakDone": "MOUNTAIN CLIMBERS DONE."
     },
     {
       "id": "side-plank",
@@ -97,8 +97,8 @@
       "reps": "5 sec / side",
       "restSec": 25,
       "cue": "KNEE DOWN IS LEGAL. STACK THE HIPS. HOLD ABOUT FIVE SECONDS EACH SIDE. SHORT AND HONEST. DO NOT CHASE TWENTY.",
-      "speakStart": "SIDE PLANKS. TWO ROUNDS. FIVE SECONDS EACH SIDE. KNEE DOWN IS FINE. STACK THE HIPS. SHORT HOLD. THIS IS YOUR CORE INTERVAL. DO NOT SHAKE LIKE A LEAF IN A GALE.",
-      "speakRest": "TWENTY FIVE. KEEP THE CORE QUIET.",
+      "speakStart": "SIDE PLANKS. TWO ROUNDS. FIVE SECONDS EACH SIDE. KNEE DOWN IS FINE. STACK THE HIPS. SHORT HOLD. THIS IS YOUR CORE FINISH. DO NOT SHAKE LIKE A LEAF IN A GALE.",
+      "speakRest": "TWENTY FIVE. KEEP THE CORE QUIET. I'M WATCHING.",
       "speakDone": "SIDE PLANKS DONE. THAT IS THE LOT."
     }
   ]
