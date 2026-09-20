@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-19",
-  "title": "SATURDAY EASY CARDIO",
-  "subtitle": "SATURDAY. EASY CARDIO. TIMED AND HONEST. OPEN THE BACK, OWN THE BALANCE, THEN STEADY INTERVALS. FEEL IT. DO NOT BE SORE TOMORROW.",
+  "date": "2026-09-20",
+  "title": "SUNDAY MOBILITY",
+  "subtitle": "SUNDAY. MOBILITY. OPEN THE DESK BACK, OWN THE BALANCE, THEN QUIET STRENGTH. FEEL IT. DO NOT BE SORE TOMORROW.",
   "durationMin": 15,
   "voice": {
     "lang": "en-GB",
@@ -16,14 +16,14 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. SATURDAY. SATURDAY EASY CARDIO. FIFTEEN MINUTES. OPEN THE BACK, OWN THE BALANCE, THEN STEADY TIMED INTERVALS. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
+      "welcome": "ON YOUR FEET. SUNDAY. SUNDAY MOBILITY. FIFTEEN MINUTES. OPEN THE BACK, OWN THE BALANCE, THEN QUIET STRENGTH. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. SATURDAY EASY CARDIO DONE. LUNGS HONEST. LEGS AWAKE. NOW GET BACK TO THAT DESK AND EARN YOUR KEEP.",
+      "complete": "DISMISSED. SUNDAY MOBILITY DONE. BACK OPEN. BALANCE HONEST. NOW GO ENJOY THE REST OF YOUR DAY WITHOUT MOVING LIKE A RUSTY HINGE.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
@@ -42,52 +42,52 @@
       "speakDone": "ROWS DONE."
     },
     {
-      "id": "step-up",
-      "name": "STEP-UP",
-      "image": "/images/exercises/briggs-step-up.jpg",
+      "id": "reverse-lunge",
+      "name": "REVERSE LUNGE",
+      "image": "/images/exercises/briggs-reverse-lunge.jpg",
       "sets": 2,
       "reps": "6 / leg",
       "restSec": 30,
-      "cue": "USE A LOW STAIR. DRIVE THROUGH THE WHOLE FOOT. STAND TALL AT THE TOP. LIGHT HAND ON THE RAIL IF YOU NEED IT. OWN THE BALANCE.",
-      "speakStart": "STEP UPS. TWO SETS. SIX EACH LEG. DRIVE THROUGH THE FOOT. STAND TALL AT THE TOP. THIS IS YOUR BALANCE WORK. DO NOT WOBBLE ABOUT LIKE A BLOODY WEATHERVANE.",
+      "cue": "STEP BACK. FRONT KNEE TRACKS THE TOE. CHEST UP. LIGHT HAND ON A CHAIR IF YOU NEED IT. OWN THE BALANCE.",
+      "speakStart": "REVERSE LUNGES. TWO SETS. SIX EACH LEG. STEP BACK. CHEST UP. THIS IS YOUR BALANCE WORK. DO NOT WOBBLE ABOUT LIKE A BLOODY WEATHERVANE.",
       "speakRest": "THIRTY. FIND YOUR FEET.",
-      "speakDone": "STEP UPS DONE."
+      "speakDone": "REVERSE LUNGES DONE."
+    },
+    {
+      "id": "glute-bridge",
+      "name": "GLUTE BRIDGE",
+      "image": "/images/exercises/glute-bridge.jpg",
+      "sets": 2,
+      "reps": "10",
+      "restSec": 25,
+      "cue": "ON YOUR BACK. FEET FLAT. DRIVE THROUGH THE HEELS. SQUEEZE AT THE TOP. SLOW LOWER. HIPS OPEN. CONTROL BEATS BOUNCING.",
+      "speakStart": "GLUTE BRIDGES. TWO SETS OF TEN. DRIVE THROUGH THE HEELS. SQUEEZE AT THE TOP. SLOW LOWER. THIS IS YOUR HIP STRENGTH UNDER THE MOBILITY. DO NOT THRUST LIKE YOU ARE AUDITIONING FOR A BLOODY MUSIC VIDEO.",
+      "speakRest": "TWENTY FIVE. KEEP THE HIPS LOOSE.",
+      "speakDone": "BRIDGES DONE."
     },
     {
       "id": "squat",
       "name": "BODYWEIGHT SQUAT",
       "image": "/images/exercises/squat.jpg",
       "sets": 2,
-      "reps": "40s",
+      "reps": "8",
       "restSec": 30,
-      "cue": "FEET ABOUT HIP WIDTH. SIT BACK. CHEST UP. STEADY TEMPO FOR THE CLOCK. EASY CARDIO PACE. QUALITY BEATS RUSHING.",
-      "speakStart": "BODYWEIGHT SQUATS. TWO ROUNDS. FORTY SECONDS EACH. SIT BACK. CHEST UP. STEADY TEMPO. THIS IS YOUR EASY CARDIO WORK. DO NOT BOUNCE LIKE A BLOODY PING PONG BALL.",
+      "cue": "FEET ABOUT HIP WIDTH. SIT BACK SLOW. CHEST UP. THREE COUNT DOWN, STEADY UP. MOBILITY TEMPO. QUALITY BEATS RUSHING.",
+      "speakStart": "BODYWEIGHT SQUATS. TWO SETS OF EIGHT. SIT BACK SLOW. CHEST UP. THREE COUNT DOWN. THIS IS YOUR LEG STRENGTH UNDER THE MOBILITY. DO NOT BOUNCE LIKE A BLOODY PING PONG BALL.",
       "speakRest": "THIRTY. SHAKE THE LEGS.",
       "speakDone": "SQUATS DONE."
     },
     {
-      "id": "mountain-climbers",
-      "name": "MOUNTAIN CLIMBERS",
-      "image": "/images/exercises/briggs-mountain-climbers.jpg",
+      "id": "side-plank",
+      "name": "SIDE PLANK",
+      "image": "/images/exercises/briggs-side-plank.jpg",
       "sets": 2,
-      "reps": "20 sec",
-      "restSec": 30,
-      "cue": "HANDS UNDER SHOULDERS. HIPS LEVEL. DRIVE THE KNEES IN CLEAN BURSTS. STEADY BREATH. EASY CARDIO PACE. QUALITY BEATS SPEED.",
-      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS. TWENTY SECONDS EACH. HANDS SET. HIPS LEVEL. DRIVE THE KNEES. THIS IS YOUR EASY CARDIO WORK. DO NOT FLOP ABOUT LIKE A PANICKED SPIDER.",
-      "speakRest": "THIRTY. CATCH YOUR BREATH.",
-      "speakDone": "MOUNTAIN CLIMBERS DONE."
-    },
-    {
-      "id": "walking-lunge",
-      "name": "WALKING LUNGE",
-      "image": "/images/exercises/walking-lunge.jpg",
-      "sets": 2,
-      "reps": "6 / leg",
-      "restSec": 30,
-      "cue": "STEP FORWARD. FRONT KNEE TRACKS THE TOE. CHEST UP. STEADY PACE DOWN THE HALL OR OPEN FLOOR. LIGHT HAND ON A WALL IF YOU NEED IT.",
-      "speakStart": "WALKING LUNGES. TWO SETS. SIX EACH LEG. STEP FORWARD. CHEST UP. STEADY PACE. THIS IS YOUR LEG CARDIO WORK. DO NOT SHUFFLE LIKE YOU ARE LATE FOR THE BUS.",
-      "speakRest": "THIRTY. FIND YOUR FEET.",
-      "speakDone": "WALKING LUNGES DONE."
+      "reps": "5s / side",
+      "restSec": 25,
+      "cue": "ON YOUR SIDE. ELBOW UNDER SHOULDER. HIPS UP FOR ABOUT FIVE SECONDS. KNEE DOWN IS LEGAL. SWITCH SIDES. SHORT HOLDS. BUILD HONEST.",
+      "speakStart": "SIDE PLANKS. TWO ROUNDS. FIVE SECONDS EACH SIDE. ELBOW SET. HIPS UP. KNEE DOWN IS FINE. THIS IS YOUR CORE WORK. SHORT AND HONEST. DO NOT QUIT AT TWO SECONDS AND CALL IT A DAY.",
+      "speakRest": "TWENTY FIVE. SWITCH SIDES CLEAN.",
+      "speakDone": "SIDE PLANKS DONE."
     },
     {
       "id": "dead-bug",
@@ -97,7 +97,7 @@
       "reps": "6 / side",
       "restSec": 25,
       "cue": "ON YOUR BACK. LOW BACK PRESSED DOWN. OPPOSITE ARM AND LEG REACH SLOW. BREATHE. CONTROL BEATS SPEED.",
-      "speakStart": "DEAD BUGS. TWO SETS. SIX EACH SIDE. LOW BACK DOWN. OPPOSITE ARM AND LEG. SLOW. THIS IS YOUR CORE FINISH UNDER THE CARDIO. DO NOT FLOP LIKE A PANICKED BEETLE.",
+      "speakStart": "DEAD BUGS. TWO SETS. SIX EACH SIDE. LOW BACK DOWN. OPPOSITE ARM AND LEG. SLOW. THIS IS YOUR CORE FINISH UNDER THE MOBILITY. DO NOT FLOP LIKE A PANICKED BEETLE.",
       "speakRest": "TWENTY FIVE. KEEP THE CORE QUIET. I'M WATCHING.",
       "speakDone": "DEAD BUGS DONE. THAT IS THE LOT."
     }
