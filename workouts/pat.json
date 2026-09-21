@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-20",
-  "title": "SUNDAY MOBILITY",
-  "subtitle": "SUNDAY. MOBILITY. OPEN THE DESK BACK, OWN THE BALANCE, THEN QUIET STRENGTH. FEEL IT. DO NOT BE SORE TOMORROW.",
+  "date": "2026-09-21",
+  "title": "MONDAY LEGS AND LUNGS",
+  "subtitle": "MONDAY. LEGS AND LUNGS. OPEN THE BACK, OWN THE BALANCE, THEN LEGS AND BREATH. FEEL IT. DO NOT BE SORE TOMORROW.",
   "durationMin": 15,
   "voice": {
     "lang": "en-GB",
@@ -16,14 +16,14 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. SUNDAY. SUNDAY MOBILITY. FIFTEEN MINUTES. OPEN THE BACK, OWN THE BALANCE, THEN QUIET STRENGTH. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
+      "welcome": "ON YOUR FEET. MONDAY. LEGS AND LUNGS. FIFTEEN MINUTES. OPEN THE BACK, OWN THE BALANCE, THEN LEGS AND BREATH. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. SUNDAY MOBILITY DONE. BACK OPEN. BALANCE HONEST. NOW GO ENJOY THE REST OF YOUR DAY WITHOUT MOVING LIKE A RUSTY HINGE.",
+      "complete": "DISMISSED. MONDAY LEGS AND LUNGS DONE. LEGS HONEST. LUNGS OPEN. NOW GET BACK TO WORK WITHOUT MOVING LIKE A BLOODY FILING CABINET.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
@@ -54,52 +54,52 @@
       "speakDone": "REVERSE LUNGES DONE."
     },
     {
+      "id": "squat",
+      "name": "BODYWEIGHT SQUAT",
+      "image": "/images/exercises/squat.jpg",
+      "sets": 2,
+      "reps": "10",
+      "restSec": 30,
+      "cue": "FEET ABOUT HIP WIDTH. SIT BACK. CHEST UP. STEADY DOWN, DRIVE UP. LEGS WORK. QUALITY BEATS RUSHING.",
+      "speakStart": "BODYWEIGHT SQUATS. TWO SETS OF TEN. SIT BACK. CHEST UP. THIS IS YOUR LEG STRENGTH. DO NOT BOUNCE LIKE A BLOODY PING PONG BALL.",
+      "speakRest": "THIRTY. SHAKE THE LEGS.",
+      "speakDone": "SQUATS DONE."
+    },
+    {
+      "id": "step-up",
+      "name": "STEP-UP",
+      "image": "/images/exercises/briggs-step-up.jpg",
+      "sets": 2,
+      "reps": "8 / leg",
+      "restSec": 30,
+      "cue": "USE A STAIR OR STURDY STEP. DRIVE THROUGH THE WHOLE FOOT. STAND TALL AT THE TOP. CONTROL THE LOWER. LIGHT HAND ON A RAIL IF NEEDED.",
+      "speakStart": "STEP UPS. TWO SETS. EIGHT EACH LEG. DRIVE UP. STAND TALL. THIS IS LEGS AND LUNGS. DO NOT STOMP LIKE YOU ARE KILLING SPIDERS.",
+      "speakRest": "THIRTY. CATCH YOUR BREATH. EYES ON YOU.",
+      "speakDone": "STEP UPS DONE."
+    },
+    {
+      "id": "mountain-climbers",
+      "name": "MOUNTAIN CLIMBERS",
+      "image": "/images/exercises/briggs-mountain-climbers.jpg",
+      "sets": 2,
+      "reps": "20s",
+      "restSec": 30,
+      "cue": "HANDS UNDER SHOULDERS. HIPS LEVEL. DRIVE KNEES IN ALTERNATE. STEADY RHYTHM. BREATHE. OFFICE-SCALED. NOT A SPRINT TO THE GRAVE.",
+      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS. TWENTY SECONDS. HANDS SET. HIPS LEVEL. STEADY KNEE DRIVE. THIS IS YOUR LUNGS WORK. DO NOT FLOP ABOUT LIKE A PANICKED CATERPILLAR.",
+      "speakRest": "THIRTY. BREATHE. I'M WATCHING.",
+      "speakDone": "MOUNTAIN CLIMBERS DONE."
+    },
+    {
       "id": "glute-bridge",
       "name": "GLUTE BRIDGE",
       "image": "/images/exercises/glute-bridge.jpg",
       "sets": 2,
       "reps": "10",
       "restSec": 25,
-      "cue": "ON YOUR BACK. FEET FLAT. DRIVE THROUGH THE HEELS. SQUEEZE AT THE TOP. SLOW LOWER. HIPS OPEN. CONTROL BEATS BOUNCING.",
-      "speakStart": "GLUTE BRIDGES. TWO SETS OF TEN. DRIVE THROUGH THE HEELS. SQUEEZE AT THE TOP. SLOW LOWER. THIS IS YOUR HIP STRENGTH UNDER THE MOBILITY. DO NOT THRUST LIKE YOU ARE AUDITIONING FOR A BLOODY MUSIC VIDEO.",
+      "cue": "ON YOUR BACK. FEET FLAT. DRIVE THROUGH THE HEELS. SQUEEZE AT THE TOP. SLOW LOWER. CONTROL BEATS BOUNCING.",
+      "speakStart": "GLUTE BRIDGES. TWO SETS OF TEN. DRIVE THROUGH THE HEELS. SQUEEZE AT THE TOP. SLOW LOWER. THIS IS YOUR HIP FINISH. DO NOT THRUST LIKE YOU ARE AUDITIONING FOR A BLOODY MUSIC VIDEO.",
       "speakRest": "TWENTY FIVE. KEEP THE HIPS LOOSE.",
-      "speakDone": "BRIDGES DONE."
-    },
-    {
-      "id": "squat",
-      "name": "BODYWEIGHT SQUAT",
-      "image": "/images/exercises/squat.jpg",
-      "sets": 2,
-      "reps": "8",
-      "restSec": 30,
-      "cue": "FEET ABOUT HIP WIDTH. SIT BACK SLOW. CHEST UP. THREE COUNT DOWN, STEADY UP. MOBILITY TEMPO. QUALITY BEATS RUSHING.",
-      "speakStart": "BODYWEIGHT SQUATS. TWO SETS OF EIGHT. SIT BACK SLOW. CHEST UP. THREE COUNT DOWN. THIS IS YOUR LEG STRENGTH UNDER THE MOBILITY. DO NOT BOUNCE LIKE A BLOODY PING PONG BALL.",
-      "speakRest": "THIRTY. SHAKE THE LEGS.",
-      "speakDone": "SQUATS DONE."
-    },
-    {
-      "id": "side-plank",
-      "name": "SIDE PLANK",
-      "image": "/images/exercises/briggs-side-plank.jpg",
-      "sets": 2,
-      "reps": "5s / side",
-      "restSec": 25,
-      "cue": "ON YOUR SIDE. ELBOW UNDER SHOULDER. HIPS UP FOR ABOUT FIVE SECONDS. KNEE DOWN IS LEGAL. SWITCH SIDES. SHORT HOLDS. BUILD HONEST.",
-      "speakStart": "SIDE PLANKS. TWO ROUNDS. FIVE SECONDS EACH SIDE. ELBOW SET. HIPS UP. KNEE DOWN IS FINE. THIS IS YOUR CORE WORK. SHORT AND HONEST. DO NOT QUIT AT TWO SECONDS AND CALL IT A DAY.",
-      "speakRest": "TWENTY FIVE. SWITCH SIDES CLEAN.",
-      "speakDone": "SIDE PLANKS DONE."
-    },
-    {
-      "id": "dead-bug",
-      "name": "DEAD BUG",
-      "image": "/images/exercises/briggs-dead-bug.jpg",
-      "sets": 2,
-      "reps": "6 / side",
-      "restSec": 25,
-      "cue": "ON YOUR BACK. LOW BACK PRESSED DOWN. OPPOSITE ARM AND LEG REACH SLOW. BREATHE. CONTROL BEATS SPEED.",
-      "speakStart": "DEAD BUGS. TWO SETS. SIX EACH SIDE. LOW BACK DOWN. OPPOSITE ARM AND LEG. SLOW. THIS IS YOUR CORE FINISH UNDER THE MOBILITY. DO NOT FLOP LIKE A PANICKED BEETLE.",
-      "speakRest": "TWENTY FIVE. KEEP THE CORE QUIET. I'M WATCHING.",
-      "speakDone": "DEAD BUGS DONE. THAT IS THE LOT."
+      "speakDone": "BRIDGES DONE. THAT IS THE LOT."
     }
   ]
 }
