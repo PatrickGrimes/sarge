@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-20",
-  "title": "STRETCH + BALANCE",
-  "subtitle": "SUNDAY SOFT. STRETCH KINDLY. FIND YOUR FEET.",
-  "durationMin": 10,
+  "date": "2026-09-21",
+  "title": "LEGS + BALANCE",
+  "subtitle": "MONDAY KIND. STEADY LEGS. FIND YOUR FEET.",
+  "durationMin": 11,
   "voice": {
     "lang": "en-GB",
     "preferredNames": [
@@ -17,66 +17,66 @@
     "rate": 0.9,
     "volume": 1,
     "script": {
-      "welcome": "Hello Pam. I'm Stratton. Sunday is stretch and balance — a quiet little reset. About ten minutes. If a joint is sore, take a smaller range. Showing up is the win.",
-      "start": "Whenever you're ready. Easy breath. This is meant to feel kind.",
+      "welcome": "Hello Pam. I'm Stratton. Monday is legs and balance — a gentle little break from the desk. About eleven minutes. If a joint is sore, take a smaller range. Showing up is the win.",
+      "start": "Whenever you're ready. Easy breath. This is meant to feel doable.",
       "nextExercise": "Next one. Shake it out if you like. No rush.",
-      "nextSet": "Same again. Soft and steady.",
+      "nextSet": "Same again. Nice and controlled.",
       "setDone": "That's the set. Well done.",
       "rest": "Have a little rest. Breathe easy.",
       "lastSet": "Last set. Make it comfortable and clean.",
-      "complete": "That's us. Lovely work. Soft stretch, steady balance, and you showed up. Enjoy your Sunday — see you tomorrow.",
+      "complete": "That's us. Lovely work. Steady legs, quiet balance, and you showed up. Enjoy your Monday — see you tomorrow.",
       "pause": "Paused. No rush at all.",
       "resume": "Back with you. Easy as we go."
     }
   },
   "exercises": [
     {
-      "id": "seated-forward-reach",
-      "name": "SEATED FORWARD REACH",
-      "image": "/images/exercises/stratton-seated-forward-reach.jpg",
+      "id": "seated-knee-lifts",
+      "name": "SEATED KNEE LIFTS",
+      "image": "/images/exercises/stratton-seated-knee-lifts.jpg",
       "sets": 2,
-      "reps": "25s",
-      "restSec": 20,
-      "cue": "Sit tall near the front of a sturdy chair, feet flat. Soft belly. Hinge gently from the hips and reach the hands forward toward the floor or your shins — only as far as feels kind. Soft neck, easy breath. Hold about twenty five seconds, then stack tall again. Smaller reach is perfect on a sore day.",
-      "speakStart": "Seated forward reach. Two holds of about twenty five seconds. Soft belly, hinge gently from the hips, reach only as far as feels kind. Soft neck.",
-      "speakRest": "Twenty seconds. Soften the back. Easy breath.",
-      "speakDone": "Forward reach done. Nicely done."
+      "reps": "8 / leg",
+      "restSec": 25,
+      "cue": "Sit tall near the front of a sturdy chair, feet flat. Soft belly. Lift one knee a little, then lower with control. Alternate sides like a gentle march. Keep the range small and kind. Hold the chair lightly if you like. Smaller lift is fine on a sore day.",
+      "speakStart": "Seated knee lifts. Two sets of eight each leg. Sit tall, soft belly, lift one knee a little, then lower. Keep it small and kind.",
+      "speakRest": "Twenty five seconds. Easy breath. Soften the hips.",
+      "speakDone": "Knee lifts done. Nicely done."
     },
     {
-      "id": "seated-overhead-press",
-      "name": "SEATED OVERHEAD REACH",
-      "image": "/images/exercises/stratton-seated-overhead-press.jpg",
+      "id": "sit-to-stand",
+      "name": "CHAIR SIT TO STAND",
+      "image": "/images/exercises/stratton-sit-to-stand.jpg",
       "sets": 2,
-      "reps": "25s",
-      "restSec": 20,
-      "cue": "Sit tall near the front of a sturdy chair. Soft belly. Empty hands. Reach gently upward only as high as feels kind and hold — soft on the shoulders and neck — then lower with control. This is a stretch hold, not a push. Smaller range is perfect on a sore day.",
-      "speakStart": "Seated overhead reach. Two holds of about twenty five seconds. Sit tall, soft belly, reach gently upward only as high as feels kind and hold. Empty hands are fine.",
-      "speakRest": "Twenty seconds. Soften the shoulders.",
-      "speakDone": "Overhead reach done. Steady work."
+      "reps": "6",
+      "restSec": 30,
+      "cue": "Sit near the front of a sturdy chair, feet flat under you. Soft belly. Lean slightly forward and press through the feet to stand tall — use the chair arms or a table if you need — then sit back down with control. Easy knees, no bounce. Smaller rise or a half-stand is perfect on a sore day.",
+      "speakStart": "Chair sit to stand. Two sets of six. Soft belly, press through the feet to stand tall, then sit with control. Use the chair arms if you need. Half-stands are fine.",
+      "speakRest": "Thirty seconds. Soften the legs. Easy breath.",
+      "speakDone": "Sit to stand done. Steady work."
     },
     {
       "id": "chair-balance",
       "name": "CHAIR BALANCE",
       "image": "/images/exercises/stratton-chair-balance.jpg",
       "sets": 2,
-      "reps": "25s",
+      "reps": "20s",
       "restSec": 25,
-      "cue": "Stand beside a sturdy chair and hold the back lightly. Soft belly, easy knees. Shift weight onto one foot and lift the other heel just a little — or keep both feet down and simply stand tall if that feels wiser today. Hold about twenty five seconds, then switch sides. Use the chair as much as you need. Smaller lift is fine on a sore day.",
-      "speakStart": "Chair balance. Two holds of about twenty five seconds. Hold the chair lightly, soft belly, easy knees. Lift one heel a little, or keep both feet down if that feels wiser.",
+      "cue": "Stand beside a sturdy chair and hold the back lightly. Soft belly, easy knees. Shift weight onto one foot and lift the other heel just a little — or keep both feet down and simply stand tall if that feels wiser today. Hold about twenty seconds, then switch sides. Use the chair as much as you need. Smaller lift is fine on a sore day.",
+      "speakStart": "Chair balance. Two holds of about twenty seconds. Hold the chair lightly, soft belly, easy knees. Lift one heel a little, or keep both feet down if that feels wiser.",
       "speakRest": "Twenty five seconds. Soften the ankles. Easy breath.",
       "speakDone": "Balance done. Well done."
     },
     {
-      "id": "seated-knee-lifts",
-      "name": "SEATED KNEE LIFTS",
-      "image": "/images/exercises/stratton-seated-knee-lifts.jpg",
+      "id": "seated-forward-reach",
+      "name": "SEATED FORWARD REACH",
+      "image": "/images/exercises/stratton-seated-forward-reach.jpg",
       "sets": 2,
-      "reps": "6 / leg",
+      "reps": "20s",
       "restSec": 20,
-      "cue": "Sit tall near the front of a sturdy chair, feet flat. Soft belly. Lift one knee a little, then lower with control. Alternate sides like a gentle march. Keep the range small and kind. Hold the chair lightly if you like. Smaller lift is fine on a sore day.",
-      "speakStart": "Seated knee lifts. Two sets of six each leg. Sit tall, soft belly, lift one knee a little, then lower. Keep it small and kind.",
-      "speakRest": "Twenty seconds. Easy breath. Soften the hips.",
-      "speakDone": "Knee lifts done. That's the session — lovely work."
+      "cue": "Sit tall near the front of a sturdy chair, feet flat. Soft belly. Hinge gently from the hips and reach the hands forward toward the floor or your shins — only as far as feels kind. Soft neck, easy breath. Hold about twenty seconds, then stack tall again. Smaller reach is perfect on a sore day.",
+      "speakStart": "Seated forward reach. Two holds of about twenty seconds. Soft belly, hinge gently from the hips, reach only as far as feels kind. Soft neck.",
+      "speakRest": "Twenty seconds. Soften the back. Easy breath.",
+      "speakDone": "Forward reach done. That's the session — lovely work."
     }
   ]
 }
