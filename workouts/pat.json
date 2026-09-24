@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-23",
-  "title": "WEDNESDAY POSTERIOR",
-  "subtitle": "WEDNESDAY. POSTERIOR. OPEN THE BACK, OWN THE BALANCE, THEN HIPS AND HAMSTRINGS. FEEL IT. DO NOT BE SORE TOMORROW.",
+  "date": "2026-09-24",
+  "title": "THURSDAY INTERVALS",
+  "subtitle": "THURSDAY. INTERVALS. OPEN UP, OWN THE BALANCE, THEN SHORT SHARP STATIONS. FEEL IT. DO NOT BE SORE TOMORROW.",
   "durationMin": 15,
   "voice": {
     "lang": "en-GB",
@@ -16,14 +16,14 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. WEDNESDAY. POSTERIOR. FIFTEEN MINUTES. OPEN THE BACK, OWN THE BALANCE, THEN HIPS AND HAMSTRINGS. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
+      "welcome": "ON YOUR FEET. THURSDAY. INTERVALS. FIFTEEN MINUTES. OPEN UP, OWN THE BALANCE, THEN SHORT SHARP STATIONS. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. WEDNESDAY POSTERIOR DONE. BACK OPEN. HIPS HONEST. NOW GET BACK TO WORK WITHOUT SITTING LIKE A BLOODY FOLDED DECKCHAIR.",
+      "complete": "DISMISSED. THURSDAY INTERVALS DONE. HEART HONEST. LEGS HONEST. NOW GET BACK TO WORK WITHOUT SITTING LIKE A BLOODY FOLDED DECKCHAIR.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
@@ -54,40 +54,40 @@
       "speakDone": "REVERSE LUNGES DONE."
     },
     {
-      "id": "glute-bridge",
-      "name": "GLUTE BRIDGE",
-      "image": "/images/exercises/glute-bridge.jpg",
+      "id": "mountain-climbers",
+      "name": "MOUNTAIN CLIMBERS",
+      "image": "/images/exercises/briggs-mountain-climbers.jpg",
       "sets": 2,
-      "reps": "10",
+      "reps": "20s",
       "restSec": 30,
-      "cue": "ON YOUR BACK. FEET FLAT. DRIVE THROUGH THE HEELS. SQUEEZE AT THE TOP. SLOW LOWER. THIS IS YOUR POSTERIOR STRENGTH. CONTROL BEATS BOUNCING.",
-      "speakStart": "GLUTE BRIDGES. TWO SETS OF TEN. DRIVE THROUGH THE HEELS. SQUEEZE AT THE TOP. SLOW LOWER. THIS IS YOUR HIP STRENGTH. DO NOT THRUST LIKE YOU ARE AUDITIONING FOR A BLOODY MUSIC VIDEO.",
-      "speakRest": "THIRTY. KEEP THE HIPS LOOSE.",
-      "speakDone": "BRIDGES DONE."
+      "cue": "HANDS UNDER SHOULDERS. DRIVE THE KNEES IN SHORT AND CLEAN. STEADY PACE. THIS IS YOUR INTERVAL CARDIO. NO FLOPPY HIPS.",
+      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS. TWENTY SECONDS. HANDS UNDER SHOULDERS. DRIVE THE KNEES IN CLEAN. STEADY PACE. THIS IS YOUR INTERVAL WORK. DO NOT FLOP ABOUT LIKE A BLOODY SEAL ON A ROCK.",
+      "speakRest": "THIRTY. CATCH YOUR BREATH. EYES ON YOU.",
+      "speakDone": "MOUNTAIN CLIMBERS DONE."
     },
     {
-      "id": "walking-lunge",
-      "name": "WALKING LUNGE",
-      "image": "/images/exercises/walking-lunge.jpg",
+      "id": "step-up",
+      "name": "STEP-UP",
+      "image": "/images/exercises/briggs-step-up.jpg",
       "sets": 2,
-      "reps": "6 / leg",
+      "reps": "8 / leg",
       "restSec": 30,
-      "cue": "STEP FORWARD. FRONT KNEE TRACKS THE TOE. CHEST UP. PUSH OFF AND SWITCH. SHORT PATH IF SPACE IS TIGHT. CONTROL THE LANDING.",
-      "speakStart": "WALKING LUNGES. TWO SETS. SIX EACH LEG. STEP FORWARD. CHEST UP. SWITCH CLEAN. THIS IS YOUR POSTERIOR AND LEG WORK. DO NOT STAGGER ABOUT LIKE A BLOODY NEWBORN GIRAFFE.",
-      "speakRest": "THIRTY. SHAKE THE LEGS. EYES ON YOU.",
-      "speakDone": "WALKING LUNGES DONE."
+      "cue": "USE A STURDY STAIR OR LOW STEP. DRIVE THROUGH THE HEEL. STAND TALL AT THE TOP. CONTROL THE LOWER. SWITCH LEGS CLEAN.",
+      "speakStart": "STEP UPS. TWO SETS. EIGHT EACH LEG. DRIVE THROUGH THE HEEL. STAND TALL. CONTROL THE LOWER. THIS IS YOUR LEG INTERVAL. DO NOT STOMP LIKE YOU ARE CRUSHING GRAPES FOR A BLOODY WEDDING.",
+      "speakRest": "THIRTY. SHAKE THE LEGS.",
+      "speakDone": "STEP UPS DONE."
     },
     {
-      "id": "dead-bug",
-      "name": "DEAD BUG",
-      "image": "/images/exercises/briggs-dead-bug.jpg",
+      "id": "pushups",
+      "name": "INCLINE PUSH-UP",
+      "image": "/images/exercises/briggs-pushups.jpg",
       "sets": 2,
-      "reps": "6 / side",
-      "restSec": 25,
-      "cue": "ON YOUR BACK. LOW BACK PRESSED DOWN. OPPOSITE ARM AND LEG REACH SLOW. RETURN WITH CONTROL. CORE STAYS QUIET AND BRACED. NO FLOPPING.",
-      "speakStart": "DEAD BUGS. TWO SETS. SIX EACH SIDE. LOW BACK DOWN. OPPOSITE ARM AND LEG. SLOW AND CLEAN. THIS IS YOUR CORE CONTROL. DO NOT FLOP ABOUT LIKE A BEACHED BLOODY FISH.",
-      "speakRest": "TWENTY FIVE. KEEP THE BELLY QUIET.",
-      "speakDone": "DEAD BUGS DONE."
+      "reps": "8",
+      "restSec": 30,
+      "cue": "FIFTH STAIR. HANDS ON THE FIFTH STEP. BODY STRAIGHT. CHEST TO THE EDGE. FULL LOCKOUT. THIS IS YOUR PUSH INTERVAL. DO NOT DROP THE STEP.",
+      "speakStart": "INCLINE PUSH UPS. TWO SETS OF EIGHT. FIFTH STAIR. BODY STRAIGHT. CHEST TO THE EDGE. FULL LOCKOUT. DO NOT SAG LIKE A BLOODY HAMMOCK.",
+      "speakRest": "THIRTY. SHAKE THE ARMS. I'M WATCHING.",
+      "speakDone": "PUSH UPS DONE."
     },
     {
       "id": "side-plank",
