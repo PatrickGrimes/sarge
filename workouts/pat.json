@@ -1,8 +1,8 @@
 {
-  "date": "2026-09-27",
-  "title": "SUNDAY MOBILITY",
-  "subtitle": "SUNDAY. MOBILITY DAY. STILL BARKED. OPEN THE HIPS AND CHEST, OWN THE BALANCE, LIGHT STRENGTH TO FINISH. FEEL IT. DO NOT BE SORE TOMORROW.",
-  "durationMin": 15,
+  "date": "2026-09-28",
+  "title": "MONDAY LEGS AND LUNGS",
+  "subtitle": "MONDAY. LEGS AND LUNGS. OPEN THE HIPS AND CHEST FIRST, OWN THE BALANCE, THEN DRIVE THE ENGINE. LIGHT STRENGTH. FEEL IT. DO NOT BE SORE TOMORROW.",
+  "durationMin": 16,
   "voice": {
     "lang": "en-GB",
     "preferredNames": [
@@ -16,31 +16,19 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. SUNDAY. MOBILITY DAY. FIFTEEN MINUTES. STILL BARKED. OPEN UP, OWN THE BALANCE, THEN LIGHT STRENGTH. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
+      "welcome": "ON YOUR FEET. MONDAY. LEGS AND LUNGS. SIXTEEN MINUTES. OPEN UP, OWN THE BALANCE, THEN DRIVE THAT ENGINE. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. SUNDAY MOBILITY DONE. HIPS HONEST. BALANCE OWNED. NOW GET BACK TO WORK WITHOUT SITTING LIKE A BLOODY FOLDED DECKCHAIR.",
+      "complete": "DISMISSED. MONDAY LEGS AND LUNGS DONE. HIPS HONEST. ENGINE TICKING. BALANCE OWNED. NOW GET BACK TO WORK WITHOUT SITTING LIKE A BLOODY FOLDED DECKCHAIR.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
   },
   "exercises": [
-    {
-      "id": "row",
-      "name": "SCAPULAR ROW",
-      "image": "/images/exercises/row.jpg",
-      "sets": 2,
-      "reps": "8",
-      "restSec": 25,
-      "cue": "STAND TALL OR HINGE LIGHT. PULL THE SHOULDER BLADES BACK AND DOWN SLOW. HOLD A BEAT. THIS IS YOUR CHEST OPENER AFTER THE DESK. NO YANKING.",
-      "speakStart": "SCAPULAR ROWS. TWO SETS OF EIGHT. PULL THE SHOULDER BLADES BACK AND DOWN. HOLD A BEAT. THIS IS YOUR STRETCH WORK. OPEN THE CHEST. DO NOT YANK LIKE YOU ARE STARTING A LAWNMOWER.",
-      "speakRest": "TWENTY FIVE. KEEP THE SHOULDERS LOOSE.",
-      "speakDone": "ROWS DONE."
-    },
     {
       "id": "glute-bridge",
       "name": "GLUTE BRIDGE",
@@ -52,6 +40,18 @@
       "speakStart": "GLUTE BRIDGES. TWO SETS OF TEN. DRIVE THE HIPS UP. SQUEEZE AT THE TOP. HOLD A BEAT. THIS IS YOUR HIP OPENER. DO NOT ARCH YOUR BACK LIKE A BLOODY BANANA.",
       "speakRest": "TWENTY FIVE. HIPS LOOSE.",
       "speakDone": "GLUTE BRIDGES DONE."
+    },
+    {
+      "id": "row",
+      "name": "SCAPULAR ROW",
+      "image": "/images/exercises/row.jpg",
+      "sets": 2,
+      "reps": "8",
+      "restSec": 25,
+      "cue": "STAND TALL OR HINGE LIGHT. PULL THE SHOULDER BLADES BACK AND DOWN SLOW. HOLD A BEAT. THIS IS YOUR CHEST OPENER AFTER THE DESK. NO YANKING.",
+      "speakStart": "SCAPULAR ROWS. TWO SETS OF EIGHT. PULL THE SHOULDER BLADES BACK AND DOWN. HOLD A BEAT. THIS IS YOUR STRETCH WORK. OPEN THE CHEST. DO NOT YANK LIKE YOU ARE STARTING A LAWNMOWER.",
+      "speakRest": "TWENTY FIVE. KEEP THE SHOULDERS LOOSE.",
+      "speakDone": "ROWS DONE."
     },
     {
       "id": "reverse-lunge",
@@ -66,28 +66,28 @@
       "speakDone": "REVERSE LUNGES DONE."
     },
     {
-      "id": "dead-bug",
-      "name": "DEAD BUG",
-      "image": "/images/exercises/briggs-dead-bug.jpg",
+      "id": "step-up",
+      "name": "STEP-UP",
+      "image": "/images/exercises/briggs-step-up.jpg",
       "sets": 2,
-      "reps": "6 / side",
-      "restSec": 25,
-      "cue": "ON YOUR BACK. RIBS DOWN. OPPOSITE ARM AND LEG REACH SLOW. LOW BACK STAYS FLAT. CONTROL BEATS SPEED.",
-      "speakStart": "DEAD BUGS. TWO SETS. SIX EACH SIDE. RIBS DOWN. OPPOSITE ARM AND LEG. SLOW AND CLEAN. DO NOT FLOP ABOUT LIKE A BLOODY BEACHED WHALE.",
-      "speakRest": "TWENTY FIVE. BREATHE. EYES ON YOU.",
-      "speakDone": "DEAD BUGS DONE."
+      "reps": "8 / leg",
+      "restSec": 30,
+      "cue": "LOW STAIR. DRIVE THROUGH THE HEEL. STAND TALL ON TOP. CONTROL THE LOWER. ALTERNATE LEGS. LEGS AND LUNGS. NO RUSHING.",
+      "speakStart": "STEP UPS. TWO SETS. EIGHT EACH LEG. LOW STAIR. DRIVE THROUGH THE HEEL. STAND TALL. CONTROL THE LOWER. THIS IS YOUR LEGS AND LUNGS. DO NOT RUSH LIKE YOU ARE LATE FOR THE BLOODY BUS.",
+      "speakRest": "THIRTY. CATCH YOUR BREATH. EYES ON YOU.",
+      "speakDone": "STEP UPS DONE."
     },
     {
-      "id": "side-plank",
-      "name": "SIDE PLANK",
-      "image": "/images/exercises/briggs-side-plank.jpg",
+      "id": "mountain-climbers",
+      "name": "MOUNTAIN CLIMBERS",
+      "image": "/images/exercises/briggs-mountain-climbers.jpg",
       "sets": 2,
-      "reps": "5s / side",
+      "reps": "25s",
       "restSec": 30,
-      "cue": "ON YOUR SIDE. FOREARM DOWN. HIPS UP. KNEE DOWN IS LEGAL. ABOUT FIVE SECONDS EACH SIDE. SHORT AND HONEST. BUILD TOWARD TWENTY LATER.",
-      "speakStart": "SIDE PLANKS. TWO ROUNDS. FIVE SECONDS EACH SIDE. KNEE DOWN IS LEGAL. HIPS UP. SHORT AND HONEST. DO NOT COLLAPSE LIKE A BLOODY DECKCHAIR IN THE RAIN.",
-      "speakRest": "THIRTY. SHAKE IT OUT. I'M WATCHING.",
-      "speakDone": "SIDE PLANKS DONE."
+      "cue": "HANDS UNDER SHOULDERS. DRIVE THE KNEES IN SHORT AND CLEAN. STEADY PACE. ARMS BRACE. CORE WORKS. NO FLOPPY HIPS.",
+      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS. TWENTY FIVE SECONDS. HANDS UNDER SHOULDERS. DRIVE THE KNEES IN CLEAN. STEADY PACE. THIS IS YOUR LUNGS. DO NOT FLOP ABOUT LIKE A BLOODY SEAL ON A ROCK.",
+      "speakRest": "THIRTY. BREATHE. I'M WATCHING.",
+      "speakDone": "MOUNTAIN CLIMBERS DONE."
     },
     {
       "id": "squat",
