@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-28",
-  "title": "MONDAY LEGS AND LUNGS",
-  "subtitle": "MONDAY. LEGS AND LUNGS. OPEN THE HIPS AND CHEST FIRST, OWN THE BALANCE, THEN DRIVE THE ENGINE. LIGHT STRENGTH. FEEL IT. DO NOT BE SORE TOMORROW.",
+  "date": "2026-09-29",
+  "title": "TUESDAY PUSH AND CORE",
+  "subtitle": "TUESDAY. PUSH AND CORE. OPEN THE CHEST AND HIPS FIRST, OWN THE BALANCE, THEN LIGHT PUSH AND CORE. FLEXIBILITY FIRST. FEEL IT. DO NOT BE SORE TOMORROW.",
   "durationMin": 16,
   "voice": {
     "lang": "en-GB",
@@ -16,90 +16,102 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. MONDAY. LEGS AND LUNGS. SIXTEEN MINUTES. OPEN UP, OWN THE BALANCE, THEN DRIVE THAT ENGINE. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
+      "welcome": "ON YOUR FEET. TUESDAY. PUSH AND CORE. SIXTEEN MINUTES. OPEN THE CHEST AND HIPS, OWN THE BALANCE, THEN LIGHT PUSH AND CORE. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. MONDAY LEGS AND LUNGS DONE. HIPS HONEST. ENGINE TICKING. BALANCE OWNED. NOW GET BACK TO WORK WITHOUT SITTING LIKE A BLOODY FOLDED DECKCHAIR.",
+      "complete": "DISMISSED. TUESDAY PUSH AND CORE DONE. CHEST OPEN. CORE HONEST. BALANCE OWNED. NOW GET BACK TO WORK WITHOUT SITTING LIKE A BLOODY FOLDED DECKCHAIR.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
   },
   "exercises": [
     {
-      "id": "glute-bridge",
-      "name": "GLUTE BRIDGE",
-      "image": "/images/exercises/glute-bridge.jpg",
-      "sets": 2,
-      "reps": "10",
-      "restSec": 25,
-      "cue": "ON YOUR BACK. FEET PLANTED. DRIVE THE HIPS UP. SQUEEZE THE GLUTES AT THE TOP. HOLD A BEAT. THIS OPENS THE HIPS AFTER THAT CHAIR. NO ARCHING THE LOW BACK.",
-      "speakStart": "GLUTE BRIDGES. TWO SETS OF TEN. DRIVE THE HIPS UP. SQUEEZE AT THE TOP. HOLD A BEAT. THIS IS YOUR HIP OPENER. DO NOT ARCH YOUR BACK LIKE A BLOODY BANANA.",
-      "speakRest": "TWENTY FIVE. HIPS LOOSE.",
-      "speakDone": "GLUTE BRIDGES DONE."
-    },
-    {
       "id": "row",
       "name": "SCAPULAR ROW",
       "image": "/images/exercises/row.jpg",
       "sets": 2,
       "reps": "8",
-      "restSec": 25,
+      "restSec": 20,
       "cue": "STAND TALL OR HINGE LIGHT. PULL THE SHOULDER BLADES BACK AND DOWN SLOW. HOLD A BEAT. THIS IS YOUR CHEST OPENER AFTER THE DESK. NO YANKING.",
       "speakStart": "SCAPULAR ROWS. TWO SETS OF EIGHT. PULL THE SHOULDER BLADES BACK AND DOWN. HOLD A BEAT. THIS IS YOUR STRETCH WORK. OPEN THE CHEST. DO NOT YANK LIKE YOU ARE STARTING A LAWNMOWER.",
-      "speakRest": "TWENTY FIVE. KEEP THE SHOULDERS LOOSE.",
+      "speakRest": "TWENTY. KEEP THE SHOULDERS LOOSE.",
       "speakDone": "ROWS DONE."
+    },
+    {
+      "id": "glute-bridge",
+      "name": "GLUTE BRIDGE",
+      "image": "/images/exercises/glute-bridge.jpg",
+      "sets": 2,
+      "reps": "10",
+      "restSec": 20,
+      "cue": "ON YOUR BACK. FEET PLANTED. DRIVE THE HIPS UP. SQUEEZE THE GLUTES AT THE TOP. HOLD A BEAT. HIP OPENER AFTER THAT CHAIR. NO ARCHING THE LOW BACK.",
+      "speakStart": "GLUTE BRIDGES. TWO SETS OF TEN. DRIVE THE HIPS UP. SQUEEZE AT THE TOP. HOLD A BEAT. THIS IS YOUR HIP OPENER. DO NOT ARCH YOUR BACK LIKE A BLOODY BANANA.",
+      "speakRest": "TWENTY. HIPS LOOSE.",
+      "speakDone": "GLUTE BRIDGES DONE."
+    },
+    {
+      "id": "pushups",
+      "name": "INCLINE PUSH-UP",
+      "image": "/images/exercises/briggs-pushups.jpg",
+      "sets": 2,
+      "reps": "8",
+      "restSec": 30,
+      "cue": "FIFTH STEP. HANDS ON THE STAIR. BODY STRAIGHT. LOWER CHEST TOWARD THE STEP. PRESS UP CLEAN. THIS IS YOUR LIGHT PUSH. DO NOT DROP TO A LOWER STEP.",
+      "speakStart": "INCLINE PUSH UPS. TWO SETS OF EIGHT. FIFTH STEP. BODY STRAIGHT. LOWER AND PRESS CLEAN. LIGHT PUSH. DO NOT COLLAPSE LIKE A BLOODY DECKCHAIR.",
+      "speakRest": "THIRTY. SHAKE IT OUT. EYES ON YOU.",
+      "speakDone": "PUSH UPS DONE."
+    },
+    {
+      "id": "dead-bug",
+      "name": "DEAD BUG",
+      "image": "/images/exercises/briggs-dead-bug.jpg",
+      "sets": 2,
+      "reps": "6 / side",
+      "restSec": 25,
+      "cue": "ON YOUR BACK. ARMS UP. KNEES BENT. PRESS THE LOW BACK INTO THE FLOOR. EXTEND OPPOSITE ARM AND LEG SLOW. CORE BRACED. NO ARCHING.",
+      "speakStart": "DEAD BUGS. TWO SETS. SIX EACH SIDE. LOW BACK PRESSED DOWN. OPPOSITE ARM AND LEG. SLOW AND CLEAN. THIS IS YOUR CORE. DO NOT FLOP ABOUT LIKE A BLOODY BEETLE ON ITS BACK.",
+      "speakRest": "TWENTY FIVE. CORE TIGHT.",
+      "speakDone": "DEAD BUGS DONE."
     },
     {
       "id": "reverse-lunge",
       "name": "REVERSE LUNGE",
       "image": "/images/exercises/briggs-reverse-lunge.jpg",
       "sets": 2,
-      "reps": "6 / leg",
+      "reps": "5 / leg",
       "restSec": 30,
-      "cue": "STEP BACK. FRONT KNEE TRACKS THE TOE. CHEST UP. LIGHT HAND ON A CHAIR IF YOU NEED IT. OWN THE BALANCE.",
-      "speakStart": "REVERSE LUNGES. TWO SETS. SIX EACH LEG. STEP BACK. CHEST UP. THIS IS YOUR BALANCE WORK. DO NOT WOBBLE ABOUT LIKE A BLOODY WEATHERVANE.",
+      "cue": "STEP BACK. FRONT KNEE TRACKS THE TOE. CHEST UP. LIGHT HAND ON A CHAIR IF YOU NEED IT. THIS IS YOUR BALANCE WORK. OWN IT.",
+      "speakStart": "REVERSE LUNGES. TWO SETS. FIVE EACH LEG. STEP BACK. CHEST UP. THIS IS YOUR BALANCE WORK. DO NOT WOBBLE ABOUT LIKE A BLOODY WEATHERVANE.",
       "speakRest": "THIRTY. FIND YOUR FEET.",
       "speakDone": "REVERSE LUNGES DONE."
     },
     {
-      "id": "step-up",
-      "name": "STEP-UP",
-      "image": "/images/exercises/briggs-step-up.jpg",
+      "id": "side-plank",
+      "name": "SIDE PLANK",
+      "image": "/images/exercises/briggs-side-plank.jpg",
       "sets": 2,
-      "reps": "8 / leg",
-      "restSec": 30,
-      "cue": "LOW STAIR. DRIVE THROUGH THE HEEL. STAND TALL ON TOP. CONTROL THE LOWER. ALTERNATE LEGS. LEGS AND LUNGS. NO RUSHING.",
-      "speakStart": "STEP UPS. TWO SETS. EIGHT EACH LEG. LOW STAIR. DRIVE THROUGH THE HEEL. STAND TALL. CONTROL THE LOWER. THIS IS YOUR LEGS AND LUNGS. DO NOT RUSH LIKE YOU ARE LATE FOR THE BLOODY BUS.",
-      "speakRest": "THIRTY. CATCH YOUR BREATH. EYES ON YOU.",
-      "speakDone": "STEP UPS DONE."
+      "reps": "5s / side",
+      "restSec": 25,
+      "cue": "ON YOUR SIDE. FOREARM DOWN. KNEE DOWN IS LEGAL. LIFT THE HIPS. HOLD ABOUT FIVE SECONDS EACH SIDE. STACK THE SHOULDERS. DO NOT SAG.",
+      "speakStart": "SIDE PLANKS. TWO ROUNDS. FIVE SECONDS EACH SIDE. KNEE DOWN IS FINE. LIFT THE HIPS. HOLD. DO NOT SAG LIKE A BLOODY HAMMOCK.",
+      "speakRest": "TWENTY FIVE. SWITCH SIDES CLEAN. I'M WATCHING.",
+      "speakDone": "SIDE PLANKS DONE."
     },
     {
       "id": "mountain-climbers",
       "name": "MOUNTAIN CLIMBERS",
       "image": "/images/exercises/briggs-mountain-climbers.jpg",
       "sets": 2,
-      "reps": "25s",
+      "reps": "20s",
       "restSec": 30,
-      "cue": "HANDS UNDER SHOULDERS. DRIVE THE KNEES IN SHORT AND CLEAN. STEADY PACE. ARMS BRACE. CORE WORKS. NO FLOPPY HIPS.",
-      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS. TWENTY FIVE SECONDS. HANDS UNDER SHOULDERS. DRIVE THE KNEES IN CLEAN. STEADY PACE. THIS IS YOUR LUNGS. DO NOT FLOP ABOUT LIKE A BLOODY SEAL ON A ROCK.",
-      "speakRest": "THIRTY. BREATHE. I'M WATCHING.",
-      "speakDone": "MOUNTAIN CLIMBERS DONE."
-    },
-    {
-      "id": "squat",
-      "name": "BODYWEIGHT SQUAT",
-      "image": "/images/exercises/squat.jpg",
-      "sets": 2,
-      "reps": "8",
-      "restSec": 25,
-      "cue": "FEET ABOUT SHOULDER WIDTH. SIT BACK. CHEST UP. HEELS DOWN. LIGHT STRENGTH FINISH. SMOOTH REPS. DO NOT BOUNCE.",
-      "speakStart": "BODYWEIGHT SQUATS. TWO SETS OF EIGHT. SIT BACK. CHEST UP. HEELS DOWN. LIGHT FINISH. DO NOT BOUNCE LIKE A BLOODY PING PONG BALL.",
-      "speakRest": "TWENTY FIVE. STAND TALL.",
-      "speakDone": "SQUATS DONE. THAT IS THE LOT."
+      "cue": "HANDS UNDER SHOULDERS. DRIVE THE KNEES IN SHORT AND CLEAN. STEADY PACE. ARMS BRACE. CORE WORKS. LIGHT FINISH. NO FLOPPY HIPS.",
+      "speakStart": "MOUNTAIN CLIMBERS. TWO ROUNDS. TWENTY SECONDS. HANDS UNDER SHOULDERS. DRIVE THE KNEES IN CLEAN. STEADY PACE. LIGHT FINISH. DO NOT FLOP ABOUT LIKE A BLOODY SEAL ON A ROCK.",
+      "speakRest": "THIRTY. BREATHE. EYES ON YOU.",
+      "speakDone": "MOUNTAIN CLIMBERS DONE. THAT IS THE LOT."
     }
   ]
 }
