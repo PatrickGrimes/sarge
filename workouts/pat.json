@@ -1,7 +1,7 @@
 {
-  "date": "2026-09-30",
-  "title": "WEDNESDAY POSTERIOR",
-  "subtitle": "WEDNESDAY. POSTERIOR CHAIN. OPEN THE HIPS AND HAMSTRINGS, OWN THE BALANCE, THEN LIGHT BRIDGES, ROWS, AND LUNGES. FLEXIBILITY WOVEN IN. FEEL IT. DO NOT BE SORE TOMORROW.",
+  "date": "2026-10-01",
+  "title": "THURSDAY INTERVALS",
+  "subtitle": "THURSDAY. INTERVALS. OPEN THE CHEST AND HIPS, OWN THE BALANCE, THEN SHORT SHARP STATIONS ON THE STAIRS AND FLOOR. FLEXIBILITY WOVEN IN. FEEL IT. DO NOT BE SORE TOMORROW.",
   "durationMin": 17,
   "voice": {
     "lang": "en-GB",
@@ -16,78 +16,78 @@
     "rate": 0.95,
     "volume": 1,
     "script": {
-      "welcome": "ON YOUR FEET. WEDNESDAY. POSTERIOR. SEVENTEEN MINUTES. OPEN THE HIPS AND HAMSTRINGS, OWN THE BALANCE, THEN LIGHT BRIDGES, ROWS, AND LUNGES. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
+      "welcome": "ON YOUR FEET. THURSDAY. INTERVALS. SEVENTEEN MINUTES. OPEN THE CHEST AND HIPS, OWN THE BALANCE, THEN SHORT SHARP STATIONS. DO NOT HIDE BEHIND THAT KEYBOARD, YOU LAZY SOD.",
       "start": "CLOCK IS LIVE. MOVE YOUR ARSE.",
       "nextExercise": "NEXT STATION. GET SET. NOW.",
       "nextSet": "RESET. NEXT ROUND. STAY SHARP.",
       "setDone": "ROUND DONE. STAY STANDING.",
       "rest": "REST. BREATHE. DO NOT COLLAPSE INTO THE FURNITURE.",
       "lastSet": "LAST ROUND. FINISH CLEAN. I'M WATCHING.",
-      "complete": "DISMISSED. WEDNESDAY POSTERIOR DONE. HIPS OPEN. HAMSTRINGS HONEST. BALANCE OWNED. NOW GET BACK TO WORK WITHOUT SITTING LIKE A BLOODY FOLDED DECKCHAIR.",
+      "complete": "DISMISSED. THURSDAY INTERVALS DONE. CHEST OPEN. HIPS HONEST. BALANCE OWNED. NOW GET BACK TO WORK WITHOUT SITTING LIKE A BLOODY FOLDED DECKCHAIR.",
       "pause": "HOLD. CLOCK STOPPED. DO NOT GET COMFY.",
       "resume": "BACK ON. MOVE."
     }
   },
   "exercises": [
     {
-      "id": "figure-4",
-      "name": "FIGURE-4 HIP OPENER",
-      "image": "/images/exercises/glute-bridge.jpg",
+      "id": "chest-opener",
+      "name": "STANDING CHEST OPENER",
+      "image": "/images/exercises/row.jpg",
+      "sets": 2,
+      "reps": "30s",
+      "restSec": 15,
+      "cue": "STAND TALL. HANDS BEHIND YOU OR ON THE DOOR FRAME. GENTLY OPEN THE CHEST. SHOULDER BLADES EASY. BREATHE. THIS IS YOUR STRETCH WORK. DO NOT FORCE IT.",
+      "speakStart": "STANDING CHEST OPENERS. TWO ROUNDS. THIRTY SECONDS. OPEN THE CHEST. BREATHE. THIS IS YOUR STRETCH WORK. DO NOT FORCE IT LIKE YOU ARE PRIZING OPEN A BLOODY STUCK WINDOW.",
+      "speakRest": "FIFTEEN. SHAKE IT OUT.",
+      "speakDone": "CHEST OPENERS DONE."
+    },
+    {
+      "id": "hip-flexor-stretch",
+      "name": "KNEELING HIP FLEXOR STRETCH",
+      "image": "/images/exercises/briggs-reverse-lunge.jpg",
       "sets": 2,
       "reps": "30s / side",
       "restSec": 15,
-      "cue": "ON YOUR BACK. ANKLE ON THE OPPOSITE KNEE. GENTLY PULL THE BOTTOM THIGH TOWARD YOU. HIP OPENER. BREATHE. DO NOT YANK.",
-      "speakStart": "FIGURE FOUR HIP OPENERS. TWO ROUNDS. THIRTY SECONDS EACH SIDE. ANKLE ON THE KNEE. GENTLE PULL. THIS IS YOUR HIP OPENER. DO NOT YANK LIKE YOU ARE STARTING A BLOODY LAWNMOWER.",
+      "cue": "HALF KNEEL. BACK KNEE DOWN. GENTLY SHIFT FORWARD UNTIL YOU FEEL THE FRONT OF THE BACK HIP. TALL TORSO. HIP FLEXOR STRETCH. BREATHE. NO BOUNCING.",
+      "speakStart": "KNEELING HIP FLEXOR STRETCHES. TWO ROUNDS. THIRTY SECONDS EACH SIDE. HALF KNEEL. SHIFT FORWARD. FEEL THE FRONT OF THAT BACK HIP. THIS IS YOUR HIP OPENER. DO NOT BOUNCE LIKE A BLOODY PISTON.",
       "speakRest": "FIFTEEN. SWITCH SIDES CLEAN.",
-      "speakDone": "HIP OPENERS DONE."
+      "speakDone": "HIP FLEXOR STRETCHES DONE."
     },
     {
-      "id": "hamstring-stretch",
-      "name": "STANDING HAMSTRING STRETCH",
+      "id": "step-up",
+      "name": "STEP-UP",
       "image": "/images/exercises/briggs-step-up.jpg",
-      "sets": 2,
-      "reps": "30s / leg",
-      "restSec": 15,
-      "cue": "HEEL ON A LOW STAIR OR THE FLOOR. SOFT KNEE. HINGE AT THE HIPS. REACH TOWARD THE SHIN. HAMSTRING STRETCH. LONG SPINE. NO BOUNCING.",
-      "speakStart": "STANDING HAMSTRING STRETCHES. TWO ROUNDS. THIRTY SECONDS EACH LEG. HEEL UP. HINGE AT THE HIPS. LONG SPINE. THIS IS YOUR STRETCH WORK. DO NOT BOUNCE LIKE A BLOODY KANGAROO.",
-      "speakRest": "FIFTEEN. SWITCH LEGS.",
-      "speakDone": "HAMSTRING STRETCHES DONE."
-    },
-    {
-      "id": "glute-bridge",
-      "name": "GLUTE BRIDGE",
-      "image": "/images/exercises/glute-bridge.jpg",
-      "sets": 2,
-      "reps": "10",
+      "sets": 3,
+      "reps": "20s",
       "restSec": 25,
-      "cue": "ON YOUR BACK. FEET PLANTED. DRIVE THE HIPS UP. SQUEEZE THE GLUTES AT THE TOP. HOLD A BEAT. POSTERIOR WORK. NO ARCHING THE LOW BACK.",
-      "speakStart": "GLUTE BRIDGES. TWO SETS OF TEN. DRIVE THE HIPS UP. SQUEEZE AT THE TOP. HOLD A BEAT. THIS IS YOUR POSTERIOR. DO NOT ARCH YOUR BACK LIKE A BLOODY BANANA.",
-      "speakRest": "TWENTY FIVE. HIPS LOOSE. EYES ON YOU.",
-      "speakDone": "GLUTE BRIDGES DONE."
+      "cue": "LOW STAIR. STEP UP DRIVE THROUGH THE HEEL. STAND TALL. STEP DOWN CONTROLLED. ALTERNATE LEGS. INTERVAL STATION. STEADY CADENCE. LIGHT HAND ON A RAIL IF YOU NEED IT.",
+      "speakStart": "STEP UPS. THREE ROUNDS. TWENTY SECONDS. DRIVE THROUGH THE HEEL. STAND TALL. ALTERNATE LEGS. THIS IS YOUR INTERVAL. DO NOT STOMP ABOUT LIKE A BLOODY ELEPHANT.",
+      "speakRest": "TWENTY FIVE. CATCH YOUR BREATH. EYES ON YOU.",
+      "speakDone": "STEP UPS DONE."
     },
     {
-      "id": "row",
-      "name": "SCAPULAR ROW",
-      "image": "/images/exercises/row.jpg",
+      "id": "mountain-climbers",
+      "name": "MOUNTAIN CLIMBERS",
+      "image": "/images/exercises/briggs-mountain-climbers.jpg",
+      "sets": 3,
+      "reps": "20s",
+      "restSec": 30,
+      "cue": "HIGH PLANK ON THE FLOOR OR HANDS ON A LOW STAIR. DRIVE ONE KNEE IN THEN THE OTHER. SHORT SHARP INTERVAL. HIPS LEVEL. DO NOT BOUNCE THE BOTTOM.",
+      "speakStart": "MOUNTAIN CLIMBERS. THREE ROUNDS. TWENTY SECONDS. DRIVE THE KNEES. HIPS LEVEL. SHORT SHARP INTERVAL. DO NOT FLOP ABOUT LIKE A BLOODY SEAL ON THE ROCKS.",
+      "speakRest": "THIRTY. BREATHE. I'M WATCHING.",
+      "speakDone": "MOUNTAIN CLIMBERS DONE."
+    },
+    {
+      "id": "pushups",
+      "name": "INCLINE PUSH-UP",
+      "image": "/images/exercises/briggs-pushups.jpg",
       "sets": 2,
       "reps": "8",
-      "restSec": 20,
-      "cue": "STAND TALL OR HINGE LIGHT. PULL THE SHOULDER BLADES BACK AND DOWN SLOW. HOLD A BEAT. POSTERIOR PULL AFTER THE DESK. NO YANKING.",
-      "speakStart": "SCAPULAR ROWS. TWO SETS OF EIGHT. PULL THE SHOULDER BLADES BACK AND DOWN. HOLD A BEAT. POSTERIOR PULL. DO NOT YANK LIKE YOU ARE STARTING A LAWNMOWER.",
-      "speakRest": "TWENTY. KEEP THE SHOULDERS LOOSE.",
-      "speakDone": "ROWS DONE."
-    },
-    {
-      "id": "reverse-lunge",
-      "name": "REVERSE LUNGE",
-      "image": "/images/exercises/briggs-reverse-lunge.jpg",
-      "sets": 2,
-      "reps": "5 / leg",
       "restSec": 30,
-      "cue": "STEP BACK. FRONT KNEE TRACKS THE TOE. CHEST UP. LIGHT HAND ON A CHAIR IF YOU NEED IT. HIP HINGE PATTERN. LIGHT STRENGTH. OWN IT.",
-      "speakStart": "REVERSE LUNGES. TWO SETS. FIVE EACH LEG. STEP BACK. CHEST UP. LIGHT POSTERIOR WORK. DO NOT WOBBLE ABOUT LIKE A BLOODY WEATHERVANE.",
-      "speakRest": "THIRTY. FIND YOUR FEET. I'M WATCHING.",
-      "speakDone": "REVERSE LUNGES DONE."
+      "cue": "HANDS ON THE FIFTH STEP. ABOUT FORTY INCHES. BODY STRAIGHT. LOWER CHEST TOWARD THE STEP. PRESS UP CLEAN. LIGHT STRENGTH. DO NOT DROP THE STEP HEIGHT.",
+      "speakStart": "INCLINE PUSH UPS. TWO SETS OF EIGHT. HANDS ON THE FIFTH STEP. BODY STRAIGHT. LOWER AND PRESS. LIGHT STRENGTH. DO NOT CHEAT THE HEIGHT LIKE A BLOODY TAX DODGER.",
+      "speakRest": "THIRTY. SHAKE THE ARMS. EYES ON YOU.",
+      "speakDone": "PUSH UPS DONE."
     },
     {
       "id": "single-leg-stand",
@@ -102,16 +102,16 @@
       "speakDone": "SINGLE LEG STANDS DONE."
     },
     {
-      "id": "side-plank",
-      "name": "SIDE PLANK",
-      "image": "/images/exercises/briggs-side-plank.jpg",
+      "id": "dead-bug",
+      "name": "DEAD BUG",
+      "image": "/images/exercises/briggs-dead-bug.jpg",
       "sets": 2,
-      "reps": "5s / side",
+      "reps": "6 / side",
       "restSec": 25,
-      "cue": "ON YOUR SIDE. FOREARM DOWN. KNEE DOWN IS LEGAL. LIFT THE HIPS. HOLD ABOUT FIVE SECONDS EACH SIDE. STACK THE SHOULDERS. DO NOT SAG.",
-      "speakStart": "SIDE PLANKS. TWO ROUNDS. FIVE SECONDS EACH SIDE. KNEE DOWN IS FINE. LIFT THE HIPS. HOLD. LIGHT FINISH. DO NOT SAG LIKE A BLOODY HAMMOCK.",
-      "speakRest": "TWENTY FIVE. SWITCH SIDES CLEAN. I'M WATCHING.",
-      "speakDone": "SIDE PLANKS DONE. THAT IS THE LOT."
+      "cue": "ON YOUR BACK. ARMS UP. KNEES BENT. EXTEND OPPOSITE ARM AND LEG SLOW. LOW BACK PRESSED TO THE FLOOR. LIGHT CORE FINISH. CONTROLLED. NO ARCHING.",
+      "speakStart": "DEAD BUGS. TWO SETS. SIX EACH SIDE. OPPOSITE ARM AND LEG. LOW BACK GLUED DOWN. LIGHT FINISH. DO NOT ARCH LIKE A BLOODY BANANA.",
+      "speakRest": "TWENTY FIVE. KEEP THE CORE QUIET. I'M WATCHING.",
+      "speakDone": "DEAD BUGS DONE. THAT IS THE LOT."
     }
   ]
 }
