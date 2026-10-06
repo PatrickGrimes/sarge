@@ -15,7 +15,6 @@
     ],
     "pitch": 1,
     "rate": 0.9,
-    "volume 1": null,
     "volume": 1,
     "script": {
       "welcome": "Good morning Pam. I'm Stratton. Tuesday is upper body and posture \u2014 a gentle push and a tall back, about ten minutes. Weights are optional, empty hands are perfectly fine. If a shoulder or wrist is sore today, take a smaller range. You've shown up, and that's the win.",
@@ -30,5 +29,54 @@
       "resume": "Back with you. Easy as we go."
     }
   },
-  "exercises": []
+  "exercises": [
+    {
+      "id": "seated-row",
+      "name": "SEATED ROW",
+      "image": "/images/exercises/stratton-seated-row.jpg",
+      "sets": 2,
+      "reps": "8",
+      "restSec": 20,
+      "cue": "Sit tall near the front of a sturdy chair, feet flat. Arms reach forward, light weights or empty hands. Draw the elbows back alongside the ribs and gently squeeze the shoulder blades together, then reach forward again with control. Shoulders stay down away from the ears. A smaller pull is perfect on a sore day.",
+      "speakStart": "Seated row to wake up the back and help a tall posture. Two sets of eight. Reach forward, draw the elbows back, gentle squeeze between the shoulder blades. Empty hands are fine.",
+      "speakRest": "Twenty seconds. Let the arms hang loose. Easy breath.",
+      "speakDone": "Rows done. Lovely tall back."
+    },
+    {
+      "id": "wall-pushups",
+      "name": "WALL PUSH-UPS",
+      "image": "/images/exercises/stratton-wall-pushups.jpg",
+      "sets": 2,
+      "reps": "6",
+      "restSec": 30,
+      "cue": "Stand about an arm's length from the wall, feet hip-width. Hands flat on the wall at shoulder height, a little wider than the shoulders. Soft belly, body in one long line. Bend the elbows to bring the chest toward the wall, then press gently away. Step closer to the wall to make it easier. A smaller bend is perfect on a sore day.",
+      "speakStart": "Wall push ups for kind, strong arms. Two sets of six. Hands on the wall at shoulder height, soft belly, lean in gently, then press away. Step closer to make it easier.",
+      "speakRest": "Thirty seconds. Shake the hands out. Breathe easy.",
+      "speakDone": "Wall push ups done. Well done, that's proper strength."
+    },
+    {
+      "id": "seated-overhead-press",
+      "name": "SEATED OVERHEAD PRESS",
+      "image": "/images/exercises/stratton-seated-overhead-press.jpg",
+      "sets": 2,
+      "reps": "6",
+      "restSec": 30,
+      "cue": "Sit tall in a sturdy chair, feet flat. Hands at shoulder height, light weights or empty hands, palms forward. Soft belly. Press the hands up only as high as feels comfortable, then lower slowly back to the shoulders. No need to lock the arms or go all the way up. Halfway is perfect on a sore-shoulder day.",
+      "speakStart": "Seated overhead press. Two sets of six. Sit tall, hands at the shoulders, press up only as high as feels comfortable, then lower slowly. Halfway is perfectly fine.",
+      "speakRest": "Thirty seconds. Arms down, shoulders soft.",
+      "speakDone": "Press done. Strong and steady."
+    },
+    {
+      "id": "chair-balance",
+      "name": "CHAIR BALANCE",
+      "image": "/images/exercises/stratton-chair-balance.jpg",
+      "sets": 2,
+      "reps": "15s / side",
+      "restSec": 20,
+      "cue": "Stand beside a sturdy chair, light fingertips on the backrest for support. Stand tall, shoulders soft and down. Shift your weight onto one foot and lift the other foot just a little \u2014 a toe tap is plenty. Soft knee on the standing leg. Hold about fifteen seconds, then switch sides. Use more hand support any time.",
+      "speakStart": "Chair balance to finish, standing tall. Two sets of about fifteen seconds each side. Light fingertips on the chair, shoulders soft, lift one foot just a little. More support is always fine.",
+      "speakRest": "Twenty seconds. Both feet down. Easy breath.",
+      "speakDone": "Balance done. That's the session \u2014 lovely work."
+    }
+  ]
 }
