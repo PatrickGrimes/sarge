@@ -92,7 +92,7 @@
     {
       "id": "wall-chest-opener",
       "name": "WALL CHEST OPENER",
-      "image": "/images/exercises/pushups.jpg",
+      "image": "/images/exercises/briggs-wall-chest-opener.jpg",
       "sets": 2,
       "reps": "30s / side",
       "restSec": 15,
@@ -104,7 +104,7 @@
     {
       "id": "cat-cow",
       "name": "CAT-COW",
-      "image": "/images/exercises/plank.jpg",
+      "image": "/images/exercises/briggs-cat-cow.jpg",
       "sets": 2,
       "reps": "6 slow",
       "restSec": 15,
