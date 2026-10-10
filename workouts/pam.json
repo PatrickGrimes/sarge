@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-09",
-  "title": "ARMS AND GENTLE CORE",
-  "subtitle": "SEATED FIRST, THEN WALL AND STANDING. NO FLOOR TODAY. KIND HIPS.",
+  "date": "2026-10-10",
+  "title": "EASY MOBILITY",
+  "subtitle": "SEATED FIRST, THEN STANDING WITH THE CHAIR. NO FLOOR TODAY. KIND HIPS.",
   "durationMin": 11,
   "voice": {
     "lang": "en-GB",
@@ -17,14 +17,14 @@
     "rate": 0.9,
     "volume": 1,
     "script": {
-      "welcome": "Good morning Pam. I'm Stratton. Friday is arms and gentle core, about eleven minutes. We stay seated for the first half, then a few wall and standing moves with the chair nearby. No floor today. Pain-free only, and a smaller range is perfectly fine on sore-joint days. Well done for showing up.",
+      "welcome": "Good morning Pam. I'm Stratton. Saturday is easy mobility, about eleven minutes. We stay seated for the first half, then a few standing moves with the chair nearby. No floor today. Pain-free only, and a smaller range is perfectly fine. Well done for showing up.",
       "start": "Whenever you're ready. Sit tall near the front of a sturdy chair, feet flat, easy breath.",
       "nextExercise": "Next one. Settle in. No rush.",
       "nextSet": "Same again. Light and easy.",
       "setDone": "That's the set. Nicely done.",
       "rest": "Little rest. Breathe easy.",
       "lastSet": "Last one of these. Keep it comfortable.",
-      "complete": "That's us, Pam. Lovely work. A proper little break from the desk and another day in the book. Have a sip of water. See you tomorrow.",
+      "complete": "That's us, Pam. Lovely easy mobility. A proper little break and another day in the book. Have a sip of water. Enjoy your Saturday.",
       "pause": "Paused. Take all the time you need.",
       "resume": "Back with you. Easy as we go."
     }
@@ -37,34 +37,10 @@
       "sets": 2,
       "reps": "20s",
       "restSec": 20,
-      "cue": "Sit tall near the front of a sturdy chair, feet flat and hip-width, hands resting lightly on the sides of the seat. For about twenty seconds, march gently: lift one knee a few inches, lower with control, then the other. Easy rhythm to wake the middle. Keep the torso tall and quiet. If the front of the left hip complains, make the left lift smaller or just lift the heel. Stop if you feel sharp groin pain, spreading pain, numbness, tingling, or weakness. A smaller lift is perfect.",
-      "speakStart": "Seated knee lifts to warm the middle. Two easy rounds of twenty seconds. March gently, one knee then the other. Tall and steady. Smaller is fine.",
+      "cue": "Sit tall near the front of a sturdy chair, feet flat and hip-width, hands resting lightly on the sides of the seat. For about twenty seconds, march gently: lift one knee a few inches, lower with control, then the other. Easy rhythm to wake the hips and middle. Keep the torso tall and quiet. If the front of the left hip complains, make the left lift smaller or just lift the heel. Stop if you feel sharp groin pain, spreading pain, numbness, tingling, or weakness. A smaller lift is perfect.",
+      "speakStart": "Seated knee lifts to wake things up. Two easy rounds of twenty seconds. March gently, one knee then the other. Tall and steady. Smaller is fine.",
       "speakRest": "Twenty seconds. Feet flat. Easy breath.",
       "speakDone": "Knee lifts done. Nicely warmed up."
-    },
-    {
-      "id": "seated-row",
-      "name": "SEATED ROW",
-      "image": "/images/exercises/stratton-seated-row.jpg",
-      "sets": 2,
-      "reps": "10",
-      "restSec": 25,
-      "cue": "Stay seated tall, feet flat. Empty hands or very light hand weights. Reach the arms forward at chest height, then draw the elbows back close to your sides, squeezing the shoulder blades gently together. Ten calm reps. Keep the shoulders soft and down, neck long. Empty hands are always allowed. Stop if any joint feels sharp; smaller range is fine on sore days.",
-      "speakStart": "Seated row. Two sets of ten. Reach forward, draw the elbows back, gentle squeeze between the shoulders. Empty hands are fine.",
-      "speakRest": "Twenty five seconds. Arms down. Shoulders soft.",
-      "speakDone": "Rows done. Lovely posture."
-    },
-    {
-      "id": "seated-overhead-press",
-      "name": "SEATED OVERHEAD PRESS",
-      "image": "/images/exercises/stratton-seated-overhead-press.jpg",
-      "sets": 2,
-      "reps": "8",
-      "restSec": 25,
-      "cue": "Sit tall, feet flat, core lightly braced. Empty hands or very light weights at shoulder height, palms forward. Press up slowly toward the ceiling, only as high as feels comfortable for your shoulders, then lower with control. Eight calm reps. No arching the back. If the shoulders are sore today, press only to forehead height or do one arm at a time. Stop for any sharp pain.",
-      "speakStart": "Seated overhead press. Two sets of eight. Press up gently, only as high as feels kind, then lower slowly. Empty hands are fine.",
-      "speakRest": "Twenty five seconds. Hands in the lap. Easy breath.",
-      "speakDone": "Presses done. Well done."
     },
     {
       "id": "seated-figure-four",
@@ -79,16 +55,16 @@
       "speakDone": "Figure four done. Kind work."
     },
     {
-      "id": "wall-pushups",
-      "name": "WALL PUSH UPS",
-      "image": "/images/exercises/stratton-wall-pushups.jpg",
+      "id": "seated-forward-reach",
+      "name": "SEATED FORWARD REACH",
+      "image": "/images/exercises/stratton-seated-forward-reach.jpg",
       "sets": 2,
-      "reps": "8",
-      "restSec": 25,
-      "cue": "Stand facing a clear wall, feet about arm's length away, hands on the wall at about shoulder height and a little wider than shoulders. Soften the elbows and lean your chest gently toward the wall, then press back to straight arms. Eight calm reps. Keep the body in one quiet line from head to heels — no sagging hips. Closer feet make it easier; farther feet make it a touch harder. Empty hands only. Stop for any sharp shoulder or wrist pain.",
-      "speakStart": "Up to the wall now. Wall push ups. Two sets of eight. Soft lean in, press away calmly. Closer feet if you want it easier.",
-      "speakRest": "Twenty five seconds. Hands down. Easy breath.",
-      "speakDone": "Wall push ups done. Strong and steady."
+      "reps": "20s",
+      "restSec": 15,
+      "cue": "Sit tall near the front of the chair, feet flat. Soften the knees. Hinge gently forward from the hips and reach the hands toward the shins or ankles, only as far as feels easy in the back of the legs and lower back. Hold about twenty seconds with an easy breath. No bouncing. Come up slowly, stacking the spine. If the front of the hip pinches on the way down, stay higher or skip. Stop for any sharp pain, numbness, or tingling.",
+      "speakStart": "Seated forward reach. Two gentle holds of about twenty seconds. Soft hinge from the hips, reach toward the shins, only as far as feels kind. Come up slowly.",
+      "speakRest": "Fifteen seconds. Sit tall. Easy breath.",
+      "speakDone": "Forward reach done. Lovely looseness."
     },
     {
       "id": "standing-hip-flexor",
@@ -98,7 +74,7 @@
       "reps": "25s",
       "restSec": 20,
       "cue": "Stand beside the chair with the right hand lightly on the chair back. Step the left foot back about half a step — not a deep lunge — both feet pointing forward, knees soft. Gently tuck the pelvis under (belt buckle toward the ribs) until you feel a mild stretch at the front of the left hip. A tiny lean is enough. Breathe slowly for about twenty-five seconds. Small and kind, never aggressive. Stop if you feel sharp groin pain, spreading pain, numbness, tingling, or weakness.",
-      "speakStart": "Standing hip flexor, left leg back. Two holds of about twenty five seconds. Small step back, pelvis tucked, tiny lean. Kind and small.",
+      "speakStart": "Up to standing now. Standing hip flexor, left leg back. Two holds of about twenty five seconds. Small step back, pelvis tucked, tiny lean. Kind and small.",
       "speakRest": "Twenty seconds. Feet together. Easy breath.",
       "speakDone": "Hip flexor stretch done. Lovely."
     },
@@ -112,7 +88,7 @@
       "cue": "Stand behind or beside the sturdy chair with one or both hands on the chair back. Shift your weight onto one foot and lift the other heel, or the whole foot just an inch, for about fifteen seconds. Then switch sides. Eyes on a fixed point ahead, stand tall, breathe. Hold the chair as firmly as you need — that is the point of it. If the left hip grumbles when standing on it, keep the toes of the other foot lightly touching the floor. Stop if anything feels sharp or wobbly in a worrying way.",
       "speakStart": "Chair balance to finish. Two rounds of about fifteen seconds each side. Hands on the chair, lift one foot a little, eyes ahead. Hold on as much as you like.",
       "speakRest": "Fifteen seconds. Both feet down. Easy breath.",
-      "speakDone": "Balance done. That's the session, Pam. Lovely work. See you tomorrow."
+      "speakDone": "Balance done. That's the session, Pam. Lovely easy mobility. Enjoy your Saturday."
     }
   ]
 }
