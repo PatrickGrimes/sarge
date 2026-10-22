@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-21",
-  "title": "POSTERIOR AND STRETCH",
-  "subtitle": "WEDNESDAY STRETCH AND HIP RELIEF. SEATED FIRST, THEN STANDING AT THE CHAIR. NO FLOOR TODAY. KIND HIPS.",
-  "durationMin": 12,
+  "date": "2026-10-22",
+  "title": "LIGHT SEATED INTERVALS",
+  "subtitle": "THURSDAY GENTLE INTERVALS. ALL SEATED FIRST, THEN STANDING AT THE CHAIR. NO FLOOR TODAY. KIND HIPS.",
+  "durationMin": 11,
   "voice": {
     "lang": "en-GB",
     "preferredNames": [
@@ -17,30 +17,54 @@
     "rate": 0.9,
     "volume": 1,
     "script": {
-      "welcome": "Good morning Pam. I'm Stratton. Wednesday is our stretch and hip relief day, about twelve minutes. We start in the chair with a gentle forward reach and a light figure four, then a few slow sit to stands, and finish standing at the chair with a kind hip flexor stretch and a little balance. No floor today. A smaller range is fine on sore-joint days. Well done for showing up.",
+      "welcome": "Good morning Pam. I'm Stratton. Thursday is our light seated intervals day, about eleven minutes. Short bursts in the chair with easy rests: gentle marching, a light row, a soft overhead press, and a light figure four. Then we stand at the chair for a kind hip flexor stretch and a little balance. No floor today. A smaller range is fine on sore-joint days. Well done for showing up.",
       "start": "Whenever you're ready. Sit tall near the front of a sturdy chair, feet flat, shoulders soft, slow easy breath.",
       "nextExercise": "Next one. Settle in. No rush at all.",
-      "nextSet": "Same again. Nice and gentle.",
-      "setDone": "That's the set. Lovely work.",
+      "nextSet": "Same again. Nice and easy.",
+      "setDone": "That's the burst. Lovely work.",
       "rest": "Little rest. Breathe easy.",
       "lastSet": "Last one of these. Keep it comfortable.",
-      "complete": "That's us, Pam. Back of the legs loosened, hips looked after, balance practised. A lovely little break from the desk. Have a sip of water and enjoy your Wednesday. Well done.",
+      "complete": "That's us, Pam. Heart warmed up, shoulders loosened, hips looked after, balance practised. A lovely little break from the desk. Have a sip of water and enjoy your Thursday. Well done.",
       "pause": "Paused. Take all the time you need.",
       "resume": "Back with you. Easy as we go."
     }
   },
   "exercises": [
     {
-      "id": "seated-forward-reach",
-      "name": "SEATED FORWARD REACH",
-      "image": "/images/exercises/stratton-seated-forward-reach.jpg",
+      "id": "seated-knee-lifts",
+      "name": "SEATED MARCH",
+      "image": "/images/exercises/stratton-seated-knee-lifts.jpg",
+      "sets": 3,
+      "reps": "20s",
+      "restSec": 20,
+      "cue": "Sit tall near the front of the chair, hands resting on the seat edges. March gently, lifting one knee a few inches then the other, at a comfortable, steady pace. Swing the arms softly if you like. Keep the left knee lift small and easy so nothing pinches at the front of the hip. A smaller lift is fine on sore-joint days. Stop if you feel sharp groin pain, spreading pain, numbness, tingling, or weakness.",
+      "speakStart": "Seated march. Three short bursts of twenty seconds. Sit tall and march gently, knees lifting just a few inches. Keep the left side small and easy.",
+      "speakRest": "Twenty seconds. Feet down. Breathe.",
+      "speakDone": "Marching done. Nicely warmed up, Pam."
+    },
+    {
+      "id": "seated-row",
+      "name": "SEATED ROW (LIGHT)",
+      "image": "/images/exercises/stratton-seated-row.jpg",
       "sets": 2,
       "reps": "20s",
-      "restSec": 15,
-      "cue": "Sit tall near the front of the chair. Slide one heel forward so that leg is nearly straight, toes up, the other foot flat. Keep the back long and hinge forward from the hips only until you feel a mild stretch behind the straight leg. Hands rest on the bent thigh. Hold about twenty seconds, breathe slowly, then swap legs on the second round. Don't round down or bounce. A smaller lean is fine on stiff days. Stop if you feel sharp groin pain, spreading pain, numbness, tingling, or weakness.",
-      "speakStart": "Seated forward reach. Twenty seconds, one leg each round. Heel forward, toes up, back long, and lean forward just a touch until you feel a gentle stretch. No bouncing.",
-      "speakRest": "Fifteen seconds. Sit tall. Swap legs.",
-      "speakDone": "Forward reach done. The backs of the legs will thank you."
+      "restSec": 20,
+      "cue": "Sit tall, a light hand weight in each hand or empty hands. Reach the arms forward at chest height, then draw the elbows back close to the sides, squeezing the shoulder blades gently together. Steady, smooth pace for about twenty seconds. Keep the shoulders down away from the ears. Empty hands are perfectly fine.",
+      "speakStart": "Seated row. Two bursts of twenty seconds. Reach forward, then draw the elbows back and squeeze the shoulder blades gently. Empty hands are fine.",
+      "speakRest": "Twenty seconds. Arms down. Shoulders soft.",
+      "speakDone": "Rows done. Lovely tall posture."
+    },
+    {
+      "id": "seated-overhead-press",
+      "name": "SEATED OVERHEAD PRESS (SOFT)",
+      "image": "/images/exercises/stratton-seated-overhead-press.jpg",
+      "sets": 2,
+      "reps": "20s",
+      "restSec": 20,
+      "cue": "Sit tall, hands at shoulder height, light weights or empty hands. Press up slowly toward the ceiling only as high as feels comfortable, then lower back to the shoulders. Steady, gentle pace for about twenty seconds. Stop short of overhead if the shoulders are grumpy today; a half press is perfectly fine.",
+      "speakStart": "Soft overhead press. Two bursts of twenty seconds. Press up only as high as feels comfortable, then lower slowly. A half press is fine.",
+      "speakRest": "Twenty seconds. Hands in the lap.",
+      "speakDone": "Presses done. Strong shoulders, Pam."
     },
     {
       "id": "seated-figure-four",
@@ -49,32 +73,20 @@
       "sets": 1,
       "reps": "20s / side",
       "restSec": 15,
-      "cue": "Sit tall near the front of the chair, feet flat. Rest the right ankle over the left thigh, just above the knee. Stay tall and tip forward from the hips only a touch, until you feel a mild stretch in the outer hip or buttock. Hold about twenty seconds, then switch sides. Keep it light: never press the knee down or fold deep. If the left groin or front of the hip pinches on that side, skip it or simply rest the ankle without leaning. Stop if you feel sharp groin pain, spreading pain, numbness, tingling, or weakness.",
+      "cue": "Sit tall near the front of the chair, feet flat. Rest the right ankle over the left thigh, just above the knee. Stay tall and tip forward from the hips only a touch, until you feel a mild stretch in the outer hip. Hold about twenty seconds, then switch sides. Never press the knee down or fold deep. If the left groin or front of the hip pinches, skip that side or simply rest the ankle without leaning. Stop if you feel sharp groin pain, spreading pain, numbness, tingling, or weakness.",
       "speakStart": "Seated figure four, nice and light. About twenty seconds each side. Rest one ankle over the other thigh, sit tall, and tip forward just a touch. Never forced.",
-      "speakRest": "Fifteen seconds. Both feet down.",
-      "speakDone": "Figure four done. Hips looked after."
-    },
-    {
-      "id": "sit-to-stand",
-      "name": "SLOW SIT-TO-STAND",
-      "image": "/images/exercises/stratton-sit-to-stand.jpg",
-      "sets": 2,
-      "reps": "5",
-      "restSec": 25,
-      "cue": "Sit near the front of the chair, feet flat and hip-width, a little behind the knees. Lean forward slightly, press through the heels, and stand up tall, squeezing the backside gently at the top. Sit back down slowly with control. Use your hands on the thighs or the chair arms to help as much as you like. A higher chair or a cushion makes it easier on sore-knee days. Stop if you feel sharp groin pain, spreading pain, numbness, tingling, or weakness. Finish standing for the next move.",
-      "speakStart": "Slow sit to stand. Two rounds of five. Feet flat, lean forward a little, press through the heels and stand tall, then sit down slowly. Hands can help.",
-      "speakRest": "Twenty five seconds. Sit and breathe.",
-      "speakDone": "Sit to stands done. Lovely strong legs, Pam. Stay standing and come to the chair back."
+      "speakRest": "Fifteen seconds. Both feet down. Then stand up slowly and come to the chair back.",
+      "speakDone": "Figure four done. Stand up slowly, using your hands, and come round to the chair back."
     },
     {
       "id": "standing-hip-flexor",
       "name": "STANDING HIP FLEXOR",
       "image": "/images/exercises/stratton-standing-hip-flexor.jpg",
-      "sets": 2,
+      "sets": 1,
       "reps": "20s / side",
       "restSec": 15,
-      "cue": "Stand beside the chair with one hand lightly on the chair back. Step one foot back about half a step, not a deep lunge, both feet pointing forward, knees soft. Gently tuck the pelvis under, belt buckle toward the ribs, until you feel a mild stretch at the front of the back hip. A tiny lean is enough. Breathe slowly for about twenty seconds, then swap legs. Start with the left leg back and keep that side extra gentle. Stop if you feel sharp groin pain, spreading pain, numbness, tingling, or weakness.",
-      "speakStart": "Standing hip flexor. About twenty seconds each leg, twice through. Hand on the chair, small step back, tuck the pelvis, tiny lean. Left leg first, extra gentle.",
+      "cue": "Stand beside the chair with one hand lightly on the chair back. Step one foot back about half a step, not a deep lunge, both feet pointing forward, knees soft. Gently tuck the pelvis under until you feel a mild stretch at the front of the back hip. A tiny lean is enough. Breathe slowly for about twenty seconds, then swap. Start with the left leg back and keep that side extra gentle. Stop if you feel sharp groin pain, spreading pain, numbness, tingling, or weakness.",
+      "speakStart": "Standing hip flexor. About twenty seconds each leg. Hand on the chair, small step back, tuck the pelvis, tiny lean. Left leg first, extra gentle.",
       "speakRest": "Fifteen seconds. Feet together. Easy breath.",
       "speakDone": "Hip flexor stretch done. Front of the hips looked after."
     },
@@ -88,7 +100,7 @@
       "cue": "Stand tall behind the chair with both hands resting lightly on the back. Shift your weight onto one foot and lift the other heel, or the whole foot, just off the floor. Keep the standing knee soft and eyes ahead. Hold about fifteen seconds, then switch. Grip the chair as much as you need; toes touching down is perfectly fine. Keep the lifted leg low and relaxed so nothing pinches at the front of the hip.",
       "speakStart": "Chair balance to finish. About fifteen seconds each leg, twice through. Hands on the chair, lift one foot just off the floor, stand tall. Toes can touch down any time.",
       "speakRest": "Fifteen seconds. Both feet down.",
-      "speakDone": "Balance done. That's the session, Pam. Stretched, steady, and looked after. Have a grand Wednesday."
+      "speakDone": "Balance done. That's the session, Pam. Warmed up, loosened, and steady. Have a grand Thursday."
     }
   ]
 }
