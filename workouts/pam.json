@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-24",
-  "title": "EASY SATURDAY MOBILITY",
-  "subtitle": "GENTLE SATURDAY MOVEMENT. ALL SEATED FIRST, THEN STANDING AT THE CHAIR. NO FLOOR TODAY. KIND HIPS.",
-  "durationMin": 10,
+  "date": "2026-10-25",
+  "title": "SUNDAY STRETCH AND BALANCE",
+  "subtitle": "SLOW SUNDAY STRETCH. ALL SEATED FIRST, THEN STANDING AT THE CHAIR. NO FLOOR TODAY. KIND HIPS.",
+  "durationMin": 12,
   "voice": {
     "lang": "en-GB",
     "preferredNames": [
@@ -17,14 +17,14 @@
     "rate": 0.9,
     "volume": 1,
     "script": {
-      "welcome": "Good morning Pam. I'm Stratton. Saturday is easy mobility, about ten minutes and nothing hard at all. In the chair we'll do gentle knee lifts, a slow forward reach, and a light figure four. Then we stand at the chair for a kind hip flexor stretch and a little balance. No floor today. A smaller range is fine on sore-joint days. Well done for showing up on a weekend.",
-      "start": "Whenever you're ready. Sit tall near the front of a sturdy chair, feet flat, shoulders soft, slow easy breath.",
+      "welcome": "Good morning Pam. I'm Stratton. Sunday is stretch and balance, about twelve minutes, slow and easy. In the chair we'll wake up with gentle knee lifts, then a forward reach and a light figure four. Then we stand at the chair for a kind hip flexor stretch and a little balance. No floor today. A smaller range is fine on sore-joint days. Well done for turning out on a Sunday.",
+      "start": "Whenever you're ready. Sit tall near the front of a sturdy chair, feet flat, shoulders soft, and take one slow easy breath.",
       "nextExercise": "Next one. Settle in. No rush at all.",
       "nextSet": "Same again. Nice and easy.",
       "setDone": "That's the set. Lovely work.",
       "rest": "Little rest. Breathe easy.",
       "lastSet": "Last one of these. Keep it comfortable.",
-      "complete": "That's us, Pam. Joints loosened, hips looked after, balance practised. A lovely easy start to the weekend. Have a sip of water and enjoy your Saturday. Well done.",
+      "complete": "That's us, Pam. Stretched, steady, and kind to the hips. A lovely calm way to start your Sunday. Have a sip of water and enjoy the day. Well done.",
       "pause": "Paused. Take all the time you need.",
       "resume": "Back with you. Easy as we go."
     }
@@ -34,23 +34,23 @@
       "id": "seated-knee-lifts",
       "name": "SEATED GENTLE KNEE LIFTS",
       "image": "/images/exercises/stratton-seated-knee-lifts.jpg",
-      "sets": 2,
-      "reps": "6 / leg",
+      "sets": 1,
+      "reps": "8 / leg",
       "restSec": 20,
       "cue": "Sit tall near the front of the chair, hands resting on the seat edges. Slowly lift one knee a few inches like an easy seated march, lower, then the other side. Breathe easily. Keep the left knee lift small so nothing pinches at the front of the hip. A smaller lift is fine on sore-joint days. Stop if you feel sharp groin pain, spreading pain, numbness, tingling, or weakness.",
-      "speakStart": "Gentle knee lifts to warm up. Six each leg, twice through. Sit tall and lift one knee slowly, just a few inches, like an easy march. Keep the left side small.",
-      "speakRest": "Twenty seconds. Feet down. Breathe.",
-      "speakDone": "Knee lifts done. Nicely warmed up, Pam."
+      "speakStart": "Gentle knee lifts to wake the hips. Eight each leg, just once through. Sit tall and lift one knee slowly, only a few inches. Keep the left side small.",
+      "speakRest": "Twenty seconds. Feet down. Slow breath.",
+      "speakDone": "Knee lifts done. Hips warm and ready, Pam."
     },
     {
       "id": "seated-forward-reach",
       "name": "SEATED FORWARD REACH",
       "image": "/images/exercises/stratton-seated-forward-reach.jpg",
       "sets": 2,
-      "reps": "6",
+      "reps": "5",
       "restSec": 20,
       "cue": "Sit tall, feet flat and hip-width apart. Breathe in and reach both arms forward at shoulder height, letting the upper back round gently. Breathe out and sit tall again, shoulders soft. Only reach as far as is comfortable; stay out of any deep fold that pinches the front of the hip.",
-      "speakStart": "Seated forward reach. Six slow reaches, twice through. Reach both arms forward and let the upper back round gently, then sit tall again. Only as far as is comfy.",
+      "speakStart": "Seated forward reach. Five slow reaches, twice through. Breathe in, reach both arms forward and let the upper back round gently. Breathe out and sit tall. Only as far as is comfy.",
       "speakRest": "Twenty seconds. Hands in the lap. Shoulders soft.",
       "speakDone": "Reaches done. Lovely loose back."
     },
@@ -59,10 +59,10 @@
       "name": "SEATED FIGURE-FOUR (LIGHT)",
       "image": "/images/exercises/stratton-seated-figure-four.jpg",
       "sets": 1,
-      "reps": "20s / side",
+      "reps": "25s / side",
       "restSec": 15,
       "cue": "Sit tall near the front of the chair, feet flat. Rest the right ankle over the left thigh, just above the knee. Stay tall and tip forward from the hips only a touch, until you feel a mild stretch in the outer hip. Hold about twenty seconds, then switch sides. Never press the knee down or fold deep. If the left groin or front of the hip pinches, skip that side or simply rest the ankle without leaning. Stop if you feel sharp groin pain, spreading pain, numbness, tingling, or weakness.",
-      "speakStart": "Seated figure four, nice and light. About twenty seconds each side. Rest one ankle over the other thigh, sit tall, and tip forward just a touch. Never forced.",
+      "speakStart": "Seated figure four, nice and light. About twenty five seconds each side. Rest one ankle over the other thigh, sit tall, and tip forward just a touch. Never forced, and skip the left side if it pinches.",
       "speakRest": "Fifteen seconds. Both feet down. Then stand up slowly and come to the chair back.",
       "speakDone": "Figure four done. Stand up slowly, using your hands, and come round to the chair back."
     },
@@ -70,11 +70,11 @@
       "id": "standing-hip-flexor",
       "name": "STANDING HIP FLEXOR",
       "image": "/images/exercises/stratton-standing-hip-flexor.jpg",
-      "sets": 1,
+      "sets": 2,
       "reps": "20s / side",
       "restSec": 15,
       "cue": "Stand beside the chair with one hand lightly on the chair back. Step one foot back about half a step, not a deep lunge, both feet pointing forward, knees soft. Gently tuck the pelvis under until you feel a mild stretch at the front of the back hip. A tiny lean is enough. Breathe slowly for about twenty seconds, then swap. Start with the left leg back and keep that side extra gentle. Stop if you feel sharp groin pain, spreading pain, numbness, tingling, or weakness.",
-      "speakStart": "Standing hip flexor. About twenty seconds each leg. Hand on the chair, small step back, tuck the pelvis, tiny lean. Left leg first, extra gentle.",
+      "speakStart": "Standing hip flexor, our Sunday stretch. About twenty seconds each leg, twice through. Hand on the chair, small step back, tuck the pelvis, tiny lean. Left leg first, extra gentle.",
       "speakRest": "Fifteen seconds. Feet together. Easy breath.",
       "speakDone": "Hip flexor stretch done. Front of the hips looked after."
     },
@@ -88,7 +88,7 @@
       "cue": "Stand tall behind the chair with both hands resting lightly on the back. Shift your weight onto one foot and lift the other heel, or the whole foot, just off the floor. Keep the standing knee soft, tummy gently in, eyes ahead. Hold about fifteen seconds, then switch. Grip the chair as much as you need; toes touching down is perfectly fine. Keep the lifted leg low and relaxed so nothing pinches at the front of the hip.",
       "speakStart": "Chair balance to finish. About fifteen seconds each leg, twice through. Hands on the chair, lift one foot just off the floor, stand tall. Toes can touch down any time.",
       "speakRest": "Fifteen seconds. Both feet down.",
-      "speakDone": "Balance done. That's the session, Pam. Loose, steady, and kind to the hips. Have a lovely Saturday."
+      "speakDone": "Balance done. That's the session, Pam. Stretched, steady, and kind to the hips. Have a lovely Sunday."
     }
   ]
 }
